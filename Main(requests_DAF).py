@@ -12,7 +12,7 @@ url = "https://demonstrativos.api.daf.bb.com.br/v1/demonstrativo/daf/consulta"
 
 # Dados do cabeçalho da requisição
 headers = {
-    "cookie": "a8e750f0330a68375b193d281411cbc4=bf1ebe0c3bb06091b0a73a40de712a02",
+    
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
     "Connection": "keep-alive",
