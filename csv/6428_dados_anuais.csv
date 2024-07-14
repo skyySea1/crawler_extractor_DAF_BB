@@ -1,0 +1,532 @@
+Mes,NomeBeneficio,Valor
+January,QUEIMADAS                                         -PB
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                    184.283,99C"
+January,"                  PARCELA DE IR                                   1.698.083,37C"
+January,"                  RETENCAO PASEP                                     18.823,66D"
+January,"                  RFB-PREV-PARC60                                   100.809,39D"
+January,"                  DEDUCAO SAUDE                                     282.355,09D"
+January,"                  DEDUCAO FUNDEB                                    376.473,46D"
+January,"                  TOTAL NA DATA                                   1.103.905,76C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     90.076,79C"
+January,"                  PARCELA DE IR                                     625.817,47C"
+January,"                  RETENCAO PASEP                                      7.158,93D"
+January,"                  DEDUCAO SAUDE                                     107.384,13D"
+January,"                  DEDUCAO FUNDEB                                    143.178,84D"
+January,"                  TOTAL NA DATA                                     458.172,36C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     49.082,31C"
+January,"                  PARCELA DE IR                                   1.618.738,60C"
+January,"                  RETENCAO PASEP                                     16.678,20D"
+January,"                  DEDUCAO SAUDE                                     250.173,13D"
+January,"                  DEDUCAO FUNDEB                                    333.564,18D"
+January,"                  TOTAL NA DATA                                   1.067.405,40C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    323.443,09C"
+January,"                  PARCELA DE IR                                   3.942.639,44C"
+January,"                  RETENCAO PASEP                                     42.660,79D"
+January,"                  RFB-PREV-PARC60                                   100.809,39D"
+January,"                  DEDUCAO SAUDE                                     639.912,35D"
+January,"                  DEDUCAO FUNDEB                                    853.216,48D"
+January,
+January,"                  DEBITO FUNDO                                    1.636.599,01D"
+January,"                  CREDITO FUNDO                                   4.266.082,53C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                   1.636.599,01D"
+January,"                  CREDITO BENEF.                                  4.266.082,53C"
+February,QUEIMADAS                                         -PB
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                    173.561,01C"
+February,"                  PARCELA DE IR                                   4.092.878,23C"
+February,"                  RETENCAO PASEP                                     42.664,39D"
+February,"                  RFB-PREV-PARC60                                   100.809,39D"
+February,"                  DEDUCAO SAUDE                                     639.965,88D"
+February,"                  DEDUCAO FUNDEB                                    853.287,84D"
+February,"                  TOTAL NA DATA                                   2.629.711,74C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     31.542,02C"
+February,"                  PARCELA DE IR                                     379.168,06C"
+February,"                  RETENCAO PASEP                                      4.107,10D"
+February,"                  DEDUCAO SAUDE                                      61.606,50D"
+February,"                  DEDUCAO FUNDEB                                     82.142,01D"
+February,"                  TOTAL NA DATA                                     262.854,47C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     23.178,95C"
+February,"                  PARCELA DE IR                                     995.227,57C"
+February,"                  RETENCAO PASEP                                     10.184,05D"
+February,"                  DEDUCAO SAUDE                                     152.760,97D"
+February,"                  DEDUCAO FUNDEB                                    203.681,30D"
+February,"                  TOTAL NA DATA                                     651.780,20C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    228.281,98C"
+February,"                  PARCELA DE IR                                   5.467.273,86C"
+February,"                  RETENCAO PASEP                                     56.955,54D"
+February,"                  RFB-PREV-PARC60                                   100.809,39D"
+February,"                  DEDUCAO SAUDE                                     854.333,35D"
+February,"                  DEDUCAO FUNDEB                                  1.139.111,15D"
+February,
+February,"                  DEBITO FUNDO                                    2.151.209,43D"
+February,"                  CREDITO FUNDO                                   5.695.555,84C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                   2.151.209,43D"
+February,"                  CREDITO BENEF.                                  5.695.555,84C"
+March,QUEIMADAS                                         -PB
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                    195.762,66C"
+March,"                  PARCELA DE IR                                   1.590.384,41C"
+March,"                  RETENCAO PASEP                                     17.861,46D"
+March,"                  RFB-PREV-PARC60                                   100.809,39D"
+March,"                  DEDUCAO SAUDE                                     267.922,05D"
+March,"                  DEDUCAO FUNDEB                                    357.229,41D"
+March,"                  TOTAL NA DATA                                   1.042.324,76C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     39.349,67C"
+March,"                  PARCELA DE IR                                     354.383,29C"
+March,"                  RETENCAO PASEP                                      3.937,32D"
+March,"                  DEDUCAO SAUDE                                      59.059,94D"
+March,"                  DEDUCAO FUNDEB                                     78.746,58D"
+March,"                  TOTAL NA DATA                                     251.989,12C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     47.800,54C"
+March,"                  PARCELA DE IR                                   1.256.552,23C"
+March,"                  RETENCAO PASEP                                     13.043,52D"
+March,"                  DEDUCAO SAUDE                                     195.652,91D"
+March,"                  DEDUCAO FUNDEB                                    260.870,54D"
+March,"                  TOTAL NA DATA                                     834.785,80C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    282.912,87C"
+March,"                  PARCELA DE IR                                   3.201.319,93C"
+March,"                  RETENCAO PASEP                                     34.842,30D"
+March,"                  RFB-PREV-PARC60                                   100.809,39D"
+March,"                  DEDUCAO SAUDE                                     522.634,90D"
+March,"                  DEDUCAO FUNDEB                                    696.846,53D"
+March,
+March,"                  DEBITO FUNDO                                    1.355.133,12D"
+March,"                  CREDITO FUNDO                                   3.484.232,80C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                   1.355.133,12D"
+March,"                  CREDITO BENEF.                                  3.484.232,80C"
+April,QUEIMADAS                                         -PB
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    222.669,23C"
+April,"                  PARCELA DE IR                                   1.703.914,15C"
+April,"                  RETENCAO PASEP                                     19.265,83D"
+April,"                  RFB-PREV-OB COR                                       110,04D"
+April,"                  RFB-PREV-OB DEV                                        44,68D"
+April,"                  RFB-PREV-PARC60                                   106.359,05D"
+April,"                  DEDUCAO SAUDE                                     288.987,50D"
+April,"                  DEDUCAO FUNDEB                                    385.316,67D"
+April,"                  TOTAL NA DATA                                   1.126.499,61C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     35.102,62C"
+April,"                  PARCELA DE IR                                     459.530,43C"
+April,"                  RETENCAO PASEP                                      4.946,32D"
+April,"                  DEDUCAO SAUDE                                      74.194,95D"
+April,"                  DEDUCAO FUNDEB                                     98.926,60D"
+April,"                  TOTAL NA DATA                                     316.565,18C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     43.833,58C"
+April,"                  PARCELA DE IR                                   1.518.515,40C"
+April,"                  RETENCAO PASEP                                     15.623,48D"
+April,"                  DEDUCAO SAUDE                                     234.352,34D"
+April,"                  DEDUCAO FUNDEB                                    312.469,79D"
+April,"                  TOTAL NA DATA                                     999.903,37C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    301.605,43C"
+April,"                  PARCELA DE IR                                   3.681.959,98C"
+April,"                  RETENCAO PASEP                                     39.835,63D"
+April,"                  RFB-PREV-OB COR                                       110,04D"
+April,"                  RFB-PREV-OB DEV                                        44,68D"
+April,"                  RFB-PREV-PARC60                                   106.359,05D"
+April,"                  DEDUCAO SAUDE                                     597.534,79D"
+April,"                  DEDUCAO FUNDEB                                    796.713,06D"
+April,
+April,"                  DEBITO FUNDO                                    1.540.597,25D"
+April,"                  CREDITO FUNDO                                   3.983.565,41C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                   1.540.597,25D"
+April,"                  CREDITO BENEF.                                  3.983.565,41C"
+May,QUEIMADAS                                         -PB
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                    185.653,81C"
+May,"                  PARCELA DE IR                                   2.422.530,98C"
+May,"                  RETENCAO PASEP                                     26.081,83D"
+May,"                  RFB-PREV-PARC60                                   127.510,50D"
+May,"                  DEDUCAO SAUDE                                     391.227,71D"
+May,"                  DEDUCAO FUNDEB                                    521.636,95D"
+May,"                  TOTAL NA DATA                                   1.541.727,80C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     52.516,82C"
+May,"                  PARCELA DE IR                                     462.784,59C"
+May,"                  RETENCAO PASEP                                      5.153,00D"
+May,"                  DEDUCAO SAUDE                                      77.295,20D"
+May,"                  DEDUCAO FUNDEB                                    103.060,27D"
+May,"                  TOTAL NA DATA                                     329.792,94C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     33.050,65C"
+May,"                  PARCELA DE IR                                   1.271.835,64C"
+May,"                  RETENCAO PASEP                                     13.048,85D"
+May,"                  DEDUCAO SAUDE                                     195.732,93D"
+May,"                  DEDUCAO FUNDEB                                    260.977,25D"
+May,"                  TOTAL NA DATA                                     835.127,26C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    271.221,28C"
+May,"                  PARCELA DE IR                                   4.157.151,21C"
+May,"                  RETENCAO PASEP                                     44.283,68D"
+May,"                  RFB-PREV-PARC60                                   127.510,50D"
+May,"                  DEDUCAO SAUDE                                     664.255,84D"
+May,"                  DEDUCAO FUNDEB                                    885.674,47D"
+May,
+May,"                  DEBITO FUNDO                                    1.721.724,49D"
+May,"                  CREDITO FUNDO                                   4.428.372,49C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                   1.721.724,49D"
+May,"                  CREDITO BENEF.                                  4.428.372,49C"
+June,QUEIMADAS                                         -PB
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    229.052,73C"
+June,"                  PARCELA DE IR                                   1.587.168,47C"
+June,"                  RETENCAO PASEP                                     18.162,20D"
+June,"                  RFB-PREV-PARC60                                   127.510,50D"
+June,"                  DEDUCAO SAUDE                                     272.433,17D"
+June,"                  DEDUCAO FUNDEB                                    363.244,23D"
+June,"                  TOTAL NA DATA                                   1.034.871,10C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     57.526,46C"
+June,"                  PARCELA DE IR                                     991.582,66C"
+June,"                  RETENCAO PASEP                                     10.491,08D"
+June,"                  DEDUCAO SAUDE                                     157.366,35D"
+June,"                  DEDUCAO FUNDEB                                    209.821,82D"
+June,"                  TOTAL NA DATA                                     671.429,87C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     51.626,55C"
+June,"                  PARCELA DE IR                                   1.219.109,83C"
+June,"                  RETENCAO PASEP                                     12.707,35D"
+June,"                  DEDUCAO SAUDE                                     190.610,45D"
+June,"                  DEDUCAO FUNDEB                                    254.147,27D"
+June,"                  TOTAL NA DATA                                     813.271,31C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    338.205,74C"
+June,"                  PARCELA DE IR                                   3.797.860,96C"
+June,"                  RETENCAO PASEP                                     41.360,63D"
+June,"                  RFB-PREV-PARC60                                   127.510,50D"
+June,"                  DEDUCAO SAUDE                                     620.409,97D"
+June,"                  DEDUCAO FUNDEB                                    827.213,32D"
+June,
+June,"                  DEBITO FUNDO                                    1.616.494,42D"
+June,"                  CREDITO FUNDO                                   4.136.066,70C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                   1.616.494,42D"
+June,"                  CREDITO BENEF.                                  4.136.066,70C"
+July,QUEIMADAS                                         -PB
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    378.831,74C"
+July,"                  PARCELA DE IR                                   3.068.328,49C"
+July,"                  AJ DED FUNDEB                                       6.752,54C"
+July,"                  AJ DED PASEP                                          337,61C"
+July,"                  RETENCAO PASEP                                     34.471,58D"
+July,"                  RFB-PREV-PARC60                                   127.510,50D"
+July,"                  DEDUCAO SAUDE                                     198.481,94D"
+July,"                  DEDUCAO FUNDEB                                    264.642,59D"
+July,"                  AJUSTE FPM                                         33.762,79D"
+July,"                  TOTAL NA DATA                                   2.795.380,98C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     58.249,33C"
+July,"                  PARCELA DE IR                                     411.276,76C"
+July,"                  RETENCAO PASEP                                      4.695,25D"
+July,"                  DEDUCAO SAUDE                                      70.428,90D"
+July,"                  DEDUCAO FUNDEB                                     93.905,21D"
+July,"                  TOTAL NA DATA                                     300.496,73C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     29.150,88C"
+July,"                  PARCELA DE IR                                   1.254.854,53C"
+July,"                  RETENCAO PASEP                                     12.840,04D"
+July,"                  DEDUCAO SAUDE                                     192.600,80D"
+July,"                  DEDUCAO FUNDEB                                    256.801,07D"
+July,"                  TOTAL NA DATA                                     821.763,50C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    466.231,95C"
+July,"                  PARCELA DE IR                                   4.734.459,78C"
+July,"                  RETENCAO PASEP                                     52.006,87D"
+July,"                  RFB-PREV-PARC60                                   127.510,50D"
+July,"                  DEDUCAO SAUDE                                     461.511,64D"
+July,"                  DEDUCAO FUNDEB                                    615.348,87D"
+July,"                  AJ DED FUNDEB                                       6.752,54C"
+July,"                  AJ DED PASEP                                          337,61C"
+July,"                  AJUSTE FPM                                         33.762,79D"
+July,
+July,"                  DEBITO FUNDO                                    1.290.140,67D"
+July,"                  CREDITO FUNDO                                   5.207.781,88C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                   1.290.140,67D"
+July,"                  CREDITO BENEF.                                  5.207.781,88C"
+August,QUEIMADAS                                         -PB
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                    197.744,89C"
+August,"                  PARCELA DE IR                                   1.814.270,45C"
+August,"                  RETENCAO PASEP                                     20.120,14D"
+August,"                  RFB-PREV-PARC60                                   127.510,50D"
+August,"                  DEDUCAO SAUDE                                     301.802,29D"
+August,"                  DEDUCAO FUNDEB                                    402.403,06D"
+August,"                  TOTAL NA DATA                                   1.160.179,35C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     47.560,94C"
+August,"                  PARCELA DE IR                                     411.653,29C"
+August,"                  RETENCAO PASEP                                      4.592,13D"
+August,"                  DEDUCAO SAUDE                                      68.882,13D"
+August,"                  DEDUCAO FUNDEB                                     91.842,83D"
+August,"                  TOTAL NA DATA                                     293.897,14C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     27.632,43C"
+August,"                  PARCELA DE IR                                   1.035.239,09C"
+August,"                  RETENCAO PASEP                                     10.628,71D"
+August,"                  DEDUCAO SAUDE                                     159.430,72D"
+August,"                  DEDUCAO FUNDEB                                    212.574,29D"
+August,"                  TOTAL NA DATA                                     680.237,80C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    272.938,26C"
+August,"                  PARCELA DE IR                                   3.261.162,83C"
+August,"                  RETENCAO PASEP                                     35.340,98D"
+August,"                  RFB-PREV-PARC60                                   127.510,50D"
+August,"                  DEDUCAO SAUDE                                     530.115,14D"
+August,"                  DEDUCAO FUNDEB                                    706.820,18D"
+August,
+August,"                  DEBITO FUNDO                                    1.399.786,80D"
+August,"                  CREDITO FUNDO                                   3.534.101,09C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                   1.399.786,80D"
+August,"                  CREDITO BENEF.                                  3.534.101,09C"
+September,QUEIMADAS                                         -PB
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    268.747,71C"
+September,"                  PARCELA DE IR                                   1.557.410,32C"
+September,"                  RETENCAO PASEP                                     18.261,56D"
+September,"                  RFB-PREV-PARC60                                   127.510,50D"
+September,"                  DEDUCAO SAUDE                                     195.066,00D"
+September,"                  DEDUCAO FUNDEB                                    260.088,00D"
+September,"                  TOTAL NA DATA                                   1.225.231,97C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     35.965,19C"
+September,"                  PARCELA DE IR                                     297.420,13C"
+September,"                  RETENCAO PASEP                                      3.333,85D"
+September,"                  DEDUCAO SAUDE                                      50.007,78D"
+September,"                  DEDUCAO FUNDEB                                     66.677,05D"
+September,"                  TOTAL NA DATA                                     213.366,64C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     89.194,80C"
+September,"                  PARCELA DE IR                                   1.353.919,84C"
+September,"                  RETENCAO PASEP                                     14.431,13D"
+September,"                  DEDUCAO SAUDE                                     216.467,19D"
+September,"                  DEDUCAO FUNDEB                                    288.622,92D"
+September,"                  TOTAL NA DATA                                     923.593,40C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    393.907,70C"
+September,"                  PARCELA DE IR                                   3.208.750,29C"
+September,"                  RETENCAO PASEP                                     36.026,54D"
+September,"                  RFB-PREV-PARC60                                   127.510,50D"
+September,"                  DEDUCAO SAUDE                                     461.540,97D"
+September,"                  DEDUCAO FUNDEB                                    615.387,97D"
+September,
+September,"                  DEBITO FUNDO                                    1.240.465,98D"
+September,"                  CREDITO FUNDO                                   3.602.657,99C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                   1.240.465,98D"
+September,"                  CREDITO BENEF.                                  3.602.657,99C"
+October,QUEIMADAS                                         -PB
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    228.344,23C"
+October,"                  PARCELA DE IR                                   1.230.327,58C"
+October,"                  RETENCAO PASEP                                     14.586,71D"
+October,"                  RFB-PREV-PARC60                                   127.510,50D"
+October,"                  DEDUCAO SAUDE                                     218.800,76D"
+October,"                  DEDUCAO FUNDEB                                    291.734,35D"
+October,"                  TOTAL NA DATA                                     806.039,49C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                    104.265,15C"
+October,"                  PARCELA DE IR                                     460.690,84C"
+October,"                  RETENCAO PASEP                                      5.649,55D"
+October,"                  DEDUCAO SAUDE                                      84.743,39D"
+October,"                  DEDUCAO FUNDEB                                    112.991,19D"
+October,"                  TOTAL NA DATA                                     361.571,86C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     62.552,23C"
+October,"                  PARCELA DE IR                                   1.259.833,82C"
+October,"                  RETENCAO PASEP                                     13.223,85D"
+October,"                  DEDUCAO SAUDE                                     198.357,90D"
+October,"                  DEDUCAO FUNDEB                                    264.477,20D"
+October,"                  TOTAL NA DATA                                     846.327,10C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    395.161,61C"
+October,"                  PARCELA DE IR                                   2.950.852,24C"
+October,"                  RETENCAO PASEP                                     33.460,11D"
+October,"                  RFB-PREV-PARC60                                   127.510,50D"
+October,"                  DEDUCAO SAUDE                                     501.902,05D"
+October,"                  DEDUCAO FUNDEB                                    669.202,74D"
+October,
+October,"                  DEBITO FUNDO                                    1.332.075,40D"
+October,"                  CREDITO FUNDO                                   3.346.013,85C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                   1.332.075,40D"
+October,"                  CREDITO BENEF.                                  3.346.013,85C"
+November,QUEIMADAS                                         -PB
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                    191.060,89C"
+November,"                  PARCELA DE IR                                   2.395.010,79C"
+November,"                  RETENCAO PASEP                                     25.860,70D"
+November,"                  RFB-PREV-PARC60                                   127.510,50D"
+November,"                  DEDUCAO SAUDE                                     387.910,74D"
+November,"                  DEDUCAO FUNDEB                                    517.214,32D"
+November,"                  TOTAL NA DATA                                   1.527.575,42C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     67.431,62C"
+November,"                  PARCELA DE IR                                     493.570,61C"
+November,"                  RETENCAO PASEP                                      5.610,01D"
+November,"                  DEDUCAO SAUDE                                      84.150,33D"
+November,"                  DEDUCAO FUNDEB                                    112.200,44D"
+November,"                  TOTAL NA DATA                                     359.041,45C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     65.293,12C"
+November,"                  PARCELA DE IR                                   1.128.966,99C"
+November,"                  RETENCAO PASEP                                     11.942,59D"
+November,"                  DEDUCAO SAUDE                                     179.139,00D"
+November,"                  DEDUCAO FUNDEB                                    238.852,01D"
+November,"                  TOTAL NA DATA                                     764.326,51C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    323.785,63C"
+November,"                  PARCELA DE IR                                   4.017.548,39C"
+November,"                  RETENCAO PASEP                                     43.413,30D"
+November,"                  RFB-PREV-PARC60                                   127.510,50D"
+November,"                  DEDUCAO SAUDE                                     651.200,07D"
+November,"                  DEDUCAO FUNDEB                                    868.266,77D"
+November,
+November,"                  DEBITO FUNDO                                    1.690.390,64D"
+November,"                  CREDITO FUNDO                                   4.341.334,02C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                   1.690.390,64D"
+November,"                  CREDITO BENEF.                                  4.341.334,02C"
+December,QUEIMADAS                                         -PB
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                    164.732,27C"
+December,"                  PARCELA DE IR                                   1.953.002,94C"
+December,"                  RETENCAO PASEP                                     21.177,34D"
+December,"                  TOTAL NA DATA                                   2.096.557,87C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                    186.854,32C"
+December,"                  PARCELA DE IR                                   1.680.122,52C"
+December,"                  RETENCAO PASEP                                     18.669,76D"
+December,"                  RFB-PREV-PARC60                                   127.510,50D"
+December,"                  DEDUCAO SAUDE                                     280.046,51D"
+December,"                  DEDUCAO FUNDEB                                    373.395,36D"
+December,"                  TOTAL NA DATA                                   1.067.354,71C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     88.447,39C"
+December,"                  PARCELA DE IR                                   1.196.672,13C"
+December,"                  RETENCAO PASEP                                     12.851,19D"
+December,"                  DEDUCAO SAUDE                                     192.767,91D"
+December,"                  DEDUCAO FUNDEB                                    257.023,89D"
+December,"                  TOTAL NA DATA                                     822.476,53C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     77.200,71C"
+December,"                  PARCELA DE IR                                   1.547.310,77C"
+December,"                  RETENCAO PASEP                                     16.245,10D"
+December,"                  DEDUCAO SAUDE                                     243.676,71D"
+December,"                  DEDUCAO FUNDEB                                    324.902,29D"
+December,"                  TOTAL NA DATA                                   1.039.687,38C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    517.234,69C"
+December,"                  PARCELA DE IR                                   6.377.108,36C"
+December,"                  RETENCAO PASEP                                     68.943,39D"
+December,"                  RFB-PREV-PARC60                                   127.510,50D"
+December,"                  DEDUCAO SAUDE                                     716.491,13D"
+December,"                  DEDUCAO FUNDEB                                    955.321,54D"
+December,
+December,"                  DEBITO FUNDO                                    1.868.266,56D"
+December,"                  CREDITO FUNDO                                   6.894.343,05C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                   1.868.266,56D"
+December,"                  CREDITO BENEF.                                  6.894.343,05C"

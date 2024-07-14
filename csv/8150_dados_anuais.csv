@@ -1,0 +1,528 @@
+Mes,NomeBeneficio,Valor
+January,TAPEROA                                           -PB
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                     92.141,99C"
+January,"                  PARCELA DE IR                                     849.041,68C"
+January,"                  RETENCAO PASEP                                      9.411,82D"
+January,"                  RFB-RET DARF                                       14.444,58D"
+January,"                  DEDUCAO SAUDE                                     141.177,54D"
+January,"                  DEDUCAO FUNDEB                                    188.236,72D"
+January,"                  TOTAL NA DATA                                     587.913,01C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     45.038,40C"
+January,"                  PARCELA DE IR                                     312.908,73C"
+January,"                  RETENCAO PASEP                                      3.579,46D"
+January,"                  DEDUCAO SAUDE                                      53.692,06D"
+January,"                  DEDUCAO FUNDEB                                     71.589,42D"
+January,"                  TOTAL NA DATA                                     229.086,19C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     24.541,15C"
+January,"                  PARCELA DE IR                                     809.369,30C"
+January,"                  RETENCAO PASEP                                      8.339,10D"
+January,"                  DEDUCAO SAUDE                                     125.086,56D"
+January,"                  DEDUCAO FUNDEB                                    166.782,09D"
+January,"                  TOTAL NA DATA                                     533.702,70C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    161.721,54C"
+January,"                  PARCELA DE IR                                   1.971.319,71C"
+January,"                  RETENCAO PASEP                                     21.330,38D"
+January,"                  RFB-RET DARF                                       14.444,58D"
+January,"                  DEDUCAO SAUDE                                     319.956,16D"
+January,"                  DEDUCAO FUNDEB                                    426.608,23D"
+January,
+January,"                  DEBITO FUNDO                                      782.339,35D"
+January,"                  CREDITO FUNDO                                   2.133.041,25C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     782.339,35D"
+January,"                  CREDITO BENEF.                                  2.133.041,25C"
+February,TAPEROA                                           -PB
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                     86.780,51C"
+February,"                  PARCELA DE IR                                   2.046.439,11C"
+February,"                  RETENCAO PASEP                                     21.332,19D"
+February,"                  RFB-RET DARF                                       14.596,58D"
+February,"                  DEDUCAO SAUDE                                     319.982,93D"
+February,"                  DEDUCAO FUNDEB                                    426.643,92D"
+February,"                  TOTAL NA DATA                                   1.350.664,00C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     15.771,01C"
+February,"                  PARCELA DE IR                                     189.584,03C"
+February,"                  RETENCAO PASEP                                      2.053,55D"
+February,"                  DEDUCAO SAUDE                                      30.803,25D"
+February,"                  DEDUCAO FUNDEB                                     41.071,00D"
+February,"                  TOTAL NA DATA                                     131.427,24C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     11.589,47C"
+February,"                  PARCELA DE IR                                     497.613,79C"
+February,"                  RETENCAO PASEP                                      5.092,02D"
+February,"                  DEDUCAO SAUDE                                      76.380,48D"
+February,"                  DEDUCAO FUNDEB                                    101.840,64D"
+February,"                  TOTAL NA DATA                                     325.890,12C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    114.140,99C"
+February,"                  PARCELA DE IR                                   2.733.636,93C"
+February,"                  RETENCAO PASEP                                     28.477,76D"
+February,"                  RFB-RET DARF                                       14.596,58D"
+February,"                  DEDUCAO SAUDE                                     427.166,66D"
+February,"                  DEDUCAO FUNDEB                                    569.555,56D"
+February,
+February,"                  DEBITO FUNDO                                    1.039.796,56D"
+February,"                  CREDITO FUNDO                                   2.847.777,92C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                   1.039.796,56D"
+February,"                  CREDITO BENEF.                                  2.847.777,92C"
+March,TAPEROA                                           -PB
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                     97.881,33C"
+March,"                  PARCELA DE IR                                     795.192,20C"
+March,"                  RETENCAO PASEP                                      8.930,73D"
+March,"                  DEDUCAO SAUDE                                     133.961,02D"
+March,"                  DEDUCAO FUNDEB                                    178.614,70D"
+March,"                  TOTAL NA DATA                                     571.567,08C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     19.674,83C"
+March,"                  PARCELA DE IR                                     177.191,64C"
+March,"                  RETENCAO PASEP                                      1.968,65D"
+March,"                  RFB-RET DARF                                       14.721,44D"
+March,"                  DEDUCAO SAUDE                                      29.529,96D"
+March,"                  DEDUCAO FUNDEB                                     39.373,28D"
+March,"                  TOTAL NA DATA                                     111.273,14C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     23.900,27C"
+March,"                  PARCELA DE IR                                     628.276,12C"
+March,"                  RETENCAO PASEP                                      6.521,76D"
+March,"                  DEDUCAO SAUDE                                      97.826,45D"
+March,"                  DEDUCAO FUNDEB                                    130.435,27D"
+March,"                  TOTAL NA DATA                                     417.392,91C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    141.456,43C"
+March,"                  PARCELA DE IR                                   1.600.659,96C"
+March,"                  RETENCAO PASEP                                     17.421,14D"
+March,"                  RFB-RET DARF                                       14.721,44D"
+March,"                  DEDUCAO SAUDE                                     261.317,43D"
+March,"                  DEDUCAO FUNDEB                                    348.423,25D"
+March,
+March,"                  DEBITO FUNDO                                      641.883,26D"
+March,"                  CREDITO FUNDO                                   1.742.116,39C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     641.883,26D"
+March,"                  CREDITO BENEF.                                  1.742.116,39C"
+April,TAPEROA                                           -PB
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    111.334,62C"
+April,"                  PARCELA DE IR                                     851.957,08C"
+April,"                  RETENCAO PASEP                                      9.632,91D"
+April,"                  DEDUCAO SAUDE                                     144.493,75D"
+April,"                  DEDUCAO FUNDEB                                    192.658,33D"
+April,"                  TOTAL NA DATA                                     616.506,71C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     17.551,31C"
+April,"                  PARCELA DE IR                                     229.765,21C"
+April,"                  RETENCAO PASEP                                      2.473,16D"
+April,"                  RFB-RET DARF                                       14.880,23D"
+April,"                  DEDUCAO SAUDE                                      37.097,47D"
+April,"                  DEDUCAO FUNDEB                                     49.463,30D"
+April,"                  TOTAL NA DATA                                     143.402,36C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     21.916,79C"
+April,"                  PARCELA DE IR                                     759.257,70C"
+April,"                  RETENCAO PASEP                                      7.811,73D"
+April,"                  DEDUCAO SAUDE                                     117.176,16D"
+April,"                  DEDUCAO FUNDEB                                    156.234,89D"
+April,"                  TOTAL NA DATA                                     499.951,71C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    150.802,72C"
+April,"                  PARCELA DE IR                                   1.840.979,99C"
+April,"                  RETENCAO PASEP                                     19.917,80D"
+April,"                  RFB-RET DARF                                       14.880,23D"
+April,"                  DEDUCAO SAUDE                                     298.767,38D"
+April,"                  DEDUCAO FUNDEB                                    398.356,52D"
+April,
+April,"                  DEBITO FUNDO                                      731.921,93D"
+April,"                  CREDITO FUNDO                                   1.991.782,71C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     731.921,93D"
+April,"                  CREDITO BENEF.                                  1.991.782,71C"
+May,TAPEROA                                           -PB
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                     92.826,90C"
+May,"                  PARCELA DE IR                                   1.211.265,49C"
+May,"                  RETENCAO PASEP                                     13.040,91D"
+May,"                  DEDUCAO SAUDE                                     195.613,85D"
+May,"                  DEDUCAO FUNDEB                                    260.818,47D"
+May,"                  TOTAL NA DATA                                     834.619,16C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     26.258,41C"
+May,"                  PARCELA DE IR                                     231.392,29C"
+May,"                  RETENCAO PASEP                                      2.576,50D"
+May,"                  DEDUCAO SAUDE                                      38.647,60D"
+May,"                  DEDUCAO FUNDEB                                     51.530,13D"
+May,"                  TOTAL NA DATA                                     164.896,47C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     16.525,32C"
+May,"                  PARCELA DE IR                                     635.917,82C"
+May,"                  RETENCAO PASEP                                      6.524,42D"
+May,"                  RFB-RET DARF                                       15.005,09D"
+May,"                  DEDUCAO SAUDE                                      97.866,46D"
+May,"                  DEDUCAO FUNDEB                                    130.488,62D"
+May,"                  TOTAL NA DATA                                     402.558,55C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    135.610,63C"
+May,"                  PARCELA DE IR                                   2.078.575,60C"
+May,"                  RETENCAO PASEP                                     22.141,83D"
+May,"                  RFB-RET DARF                                       15.005,09D"
+May,"                  DEDUCAO SAUDE                                     332.127,91D"
+May,"                  DEDUCAO FUNDEB                                    442.837,22D"
+May,
+May,"                  DEBITO FUNDO                                      812.112,05D"
+May,"                  CREDITO FUNDO                                   2.214.186,23C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     812.112,05D"
+May,"                  CREDITO BENEF.                                  2.214.186,23C"
+June,TAPEROA                                           -PB
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    114.526,36C"
+June,"                  PARCELA DE IR                                     793.584,23C"
+June,"                  RETENCAO PASEP                                      9.081,10D"
+June,"                  DEDUCAO SAUDE                                     136.216,58D"
+June,"                  DEDUCAO FUNDEB                                    181.622,11D"
+June,"                  TOTAL NA DATA                                     581.190,80C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     28.763,23C"
+June,"                  PARCELA DE IR                                     495.791,33C"
+June,"                  RETENCAO PASEP                                      5.245,54D"
+June,"                  RFB-RET DARF                                       15.157,10D"
+June,"                  DEDUCAO SAUDE                                      78.683,17D"
+June,"                  DEDUCAO FUNDEB                                    104.910,90D"
+June,"                  TOTAL NA DATA                                     320.557,85C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     25.813,28C"
+June,"                  PARCELA DE IR                                     609.554,92C"
+June,"                  RETENCAO PASEP                                      6.353,67D"
+June,"                  DEDUCAO SAUDE                                      95.305,22D"
+June,"                  DEDUCAO FUNDEB                                    127.073,63D"
+June,"                  TOTAL NA DATA                                     406.635,68C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    169.102,87C"
+June,"                  PARCELA DE IR                                   1.898.930,48C"
+June,"                  RETENCAO PASEP                                     20.680,31D"
+June,"                  RFB-RET DARF                                       15.157,10D"
+June,"                  DEDUCAO SAUDE                                     310.204,97D"
+June,"                  DEDUCAO FUNDEB                                    413.606,64D"
+June,
+June,"                  DEBITO FUNDO                                      759.649,02D"
+June,"                  CREDITO FUNDO                                   2.068.033,35C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     759.649,02D"
+June,"                  CREDITO BENEF.                                  2.068.033,35C"
+July,TAPEROA                                           -PB
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    189.415,87C"
+July,"                  PARCELA DE IR                                   1.534.164,25C"
+July,"                  AJ DED FUNDEB                                       3.376,27C"
+July,"                  AJ DED PASEP                                          168,80C"
+July,"                  RETENCAO PASEP                                     17.235,77D"
+July,"                  DEDUCAO SAUDE                                      99.240,96D"
+July,"                  DEDUCAO FUNDEB                                    132.321,29D"
+July,"                  AJUSTE FPM                                         16.881,39D"
+July,"                  TOTAL NA DATA                                   1.461.445,78C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     29.124,66C"
+July,"                  PARCELA DE IR                                     205.638,38C"
+July,"                  RETENCAO PASEP                                      2.347,62D"
+July,"                  RFB-RET DARF                                       15.302,32D"
+July,"                  DEDUCAO SAUDE                                      35.214,44D"
+July,"                  DEDUCAO FUNDEB                                     46.952,60D"
+July,"                  TOTAL NA DATA                                     134.946,06C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     14.575,44C"
+July,"                  PARCELA DE IR                                     627.427,26C"
+July,"                  RETENCAO PASEP                                      6.420,02D"
+July,"                  DEDUCAO SAUDE                                      96.300,39D"
+July,"                  DEDUCAO FUNDEB                                    128.400,53D"
+July,"                  TOTAL NA DATA                                     410.881,76C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    233.115,97C"
+July,"                  PARCELA DE IR                                   2.367.229,89C"
+July,"                  RETENCAO PASEP                                     26.003,41D"
+July,"                  RFB-RET DARF                                       15.302,32D"
+July,"                  DEDUCAO SAUDE                                     230.755,79D"
+July,"                  DEDUCAO FUNDEB                                    307.674,42D"
+July,"                  AJ DED FUNDEB                                       3.376,27C"
+July,"                  AJ DED PASEP                                          168,80C"
+July,"                  AJUSTE FPM                                         16.881,39D"
+July,
+July,"                  DEBITO FUNDO                                      596.617,33D"
+July,"                  CREDITO FUNDO                                   2.603.890,93C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     596.617,33D"
+July,"                  CREDITO BENEF.                                  2.603.890,93C"
+August,TAPEROA                                           -PB
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                     98.872,44C"
+August,"                  PARCELA DE IR                                     907.135,22C"
+August,"                  RETENCAO PASEP                                     10.060,07D"
+August,"                  DEDUCAO SAUDE                                     150.901,14D"
+August,"                  DEDUCAO FUNDEB                                    201.201,52D"
+August,"                  TOTAL NA DATA                                     643.844,93C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     23.780,47C"
+August,"                  PARCELA DE IR                                     205.826,65C"
+August,"                  RETENCAO PASEP                                      2.296,06D"
+August,"                  DEDUCAO SAUDE                                      34.441,06D"
+August,"                  DEDUCAO FUNDEB                                     45.921,42D"
+August,"                  TOTAL NA DATA                                     146.948,58C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     13.816,22C"
+August,"                  PARCELA DE IR                                     517.619,55C"
+August,"                  RETENCAO PASEP                                      5.314,35D"
+August,"                  RFB-RET DARF                                       15.447,54D"
+August,"                  DEDUCAO SAUDE                                      79.715,36D"
+August,"                  DEDUCAO FUNDEB                                    106.287,15D"
+August,"                  TOTAL NA DATA                                     324.671,37C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    136.469,13C"
+August,"                  PARCELA DE IR                                   1.630.581,42C"
+August,"                  RETENCAO PASEP                                     17.670,48D"
+August,"                  RFB-RET DARF                                       15.447,54D"
+August,"                  DEDUCAO SAUDE                                     265.057,56D"
+August,"                  DEDUCAO FUNDEB                                    353.410,09D"
+August,
+August,"                  DEBITO FUNDO                                      651.585,67D"
+August,"                  CREDITO FUNDO                                   1.767.050,55C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     651.585,67D"
+August,"                  CREDITO BENEF.                                  1.767.050,55C"
+September,TAPEROA                                           -PB
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    134.373,86C"
+September,"                  PARCELA DE IR                                     778.705,16C"
+September,"                  RETENCAO PASEP                                      9.130,77D"
+September,"                  RFB-RET DARF                                       15.602,26D"
+September,"                  DEDUCAO SAUDE                                      97.533,00D"
+September,"                  DEDUCAO FUNDEB                                    130.044,00D"
+September,"                  TOTAL NA DATA                                     660.768,99C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     17.982,59C"
+September,"                  PARCELA DE IR                                     148.710,06C"
+September,"                  RETENCAO PASEP                                      1.666,92D"
+September,"                  DEDUCAO SAUDE                                      25.003,88D"
+September,"                  DEDUCAO FUNDEB                                     33.338,52D"
+September,"                  TOTAL NA DATA                                     106.683,33C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     44.597,40C"
+September,"                  PARCELA DE IR                                     676.959,92C"
+September,"                  RETENCAO PASEP                                      7.215,56D"
+September,"                  DEDUCAO SAUDE                                     108.233,59D"
+September,"                  DEDUCAO FUNDEB                                    144.311,46D"
+September,"                  TOTAL NA DATA                                     461.796,71C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    196.953,85C"
+September,"                  PARCELA DE IR                                   1.604.375,14C"
+September,"                  RETENCAO PASEP                                     18.013,25D"
+September,"                  RFB-RET DARF                                       15.602,26D"
+September,"                  DEDUCAO SAUDE                                     230.770,47D"
+September,"                  DEDUCAO FUNDEB                                    307.693,98D"
+September,
+September,"                  DEBITO FUNDO                                      572.079,96D"
+September,"                  CREDITO FUNDO                                   1.801.328,99C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     572.079,96D"
+September,"                  CREDITO BENEF.                                  1.801.328,99C"
+October,TAPEROA                                           -PB
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    114.172,11C"
+October,"                  PARCELA DE IR                                     615.163,79C"
+October,"                  RETENCAO PASEP                                      7.293,35D"
+October,"                  RFB-RET DARF                                       15.733,91D"
+October,"                  DEDUCAO SAUDE                                     109.400,37D"
+October,"                  DEDUCAO FUNDEB                                    145.867,17D"
+October,"                  TOTAL NA DATA                                     451.041,10C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     52.132,58C"
+October,"                  PARCELA DE IR                                     230.345,42C"
+October,"                  RETENCAO PASEP                                      2.824,77D"
+October,"                  DEDUCAO SAUDE                                      42.371,69D"
+October,"                  DEDUCAO FUNDEB                                     56.495,59D"
+October,"                  TOTAL NA DATA                                     180.785,95C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     31.276,11C"
+October,"                  PARCELA DE IR                                     629.916,91C"
+October,"                  RETENCAO PASEP                                      6.611,92D"
+October,"                  DEDUCAO SAUDE                                      99.178,94D"
+October,"                  DEDUCAO FUNDEB                                    132.238,60D"
+October,"                  TOTAL NA DATA                                     423.163,56C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    197.580,80C"
+October,"                  PARCELA DE IR                                   1.475.426,12C"
+October,"                  RETENCAO PASEP                                     16.730,04D"
+October,"                  RFB-RET DARF                                       15.733,91D"
+October,"                  DEDUCAO SAUDE                                     250.951,00D"
+October,"                  DEDUCAO FUNDEB                                    334.601,36D"
+October,
+October,"                  DEBITO FUNDO                                      618.016,31D"
+October,"                  CREDITO FUNDO                                   1.673.006,92C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     618.016,31D"
+October,"                  CREDITO BENEF.                                  1.673.006,92C"
+November,TAPEROA                                           -PB
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                     95.530,44C"
+November,"                  PARCELA DE IR                                   1.197.505,39C"
+November,"                  RETENCAO PASEP                                     12.930,35D"
+November,"                  RFB-RET DARF                                       15.869,63D"
+November,"                  DEDUCAO SAUDE                                     193.955,36D"
+November,"                  DEDUCAO FUNDEB                                    258.607,15D"
+November,"                  TOTAL NA DATA                                     811.673,34C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     33.715,81C"
+November,"                  PARCELA DE IR                                     246.785,30C"
+November,"                  RETENCAO PASEP                                      2.805,00D"
+November,"                  DEDUCAO SAUDE                                      42.075,16D"
+November,"                  DEDUCAO FUNDEB                                     56.100,22D"
+November,"                  TOTAL NA DATA                                     179.520,73C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     32.646,56C"
+November,"                  PARCELA DE IR                                     564.483,50C"
+November,"                  RETENCAO PASEP                                      5.971,29D"
+November,"                  DEDUCAO SAUDE                                      89.569,50D"
+November,"                  DEDUCAO FUNDEB                                    119.426,01D"
+November,"                  TOTAL NA DATA                                     382.163,26C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    161.892,81C"
+November,"                  PARCELA DE IR                                   2.008.774,19C"
+November,"                  RETENCAO PASEP                                     21.706,64D"
+November,"                  RFB-RET DARF                                       15.869,63D"
+November,"                  DEDUCAO SAUDE                                     325.600,02D"
+November,"                  DEDUCAO FUNDEB                                    434.133,38D"
+November,
+November,"                  DEBITO FUNDO                                      797.309,67D"
+November,"                  CREDITO FUNDO                                   2.170.667,00C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     797.309,67D"
+November,"                  CREDITO BENEF.                                  2.170.667,00C"
+December,TAPEROA                                           -PB
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                     82.366,14C"
+December,"                  PARCELA DE IR                                     976.501,47C"
+December,"                  RETENCAO PASEP                                     10.588,67D"
+December,"                  TOTAL NA DATA                                   1.048.278,94C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                     93.427,16C"
+December,"                  PARCELA DE IR                                     840.061,26C"
+December,"                  RETENCAO PASEP                                      9.334,88D"
+December,"                  RFB-RET DARF                                       15.994,49D"
+December,"                  DEDUCAO SAUDE                                     140.023,25D"
+December,"                  DEDUCAO FUNDEB                                    186.697,68D"
+December,"                  TOTAL NA DATA                                     581.438,12C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     44.223,70C"
+December,"                  PARCELA DE IR                                     598.336,07C"
+December,"                  RETENCAO PASEP                                      6.425,59D"
+December,"                  DEDUCAO SAUDE                                      96.383,96D"
+December,"                  DEDUCAO FUNDEB                                    128.511,95D"
+December,"                  TOTAL NA DATA                                     411.238,27C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     38.600,36C"
+December,"                  PARCELA DE IR                                     773.655,39C"
+December,"                  RETENCAO PASEP                                      8.122,55D"
+December,"                  DEDUCAO SAUDE                                     121.838,35D"
+December,"                  DEDUCAO FUNDEB                                    162.451,14D"
+December,"                  TOTAL NA DATA                                     519.843,71C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    258.617,36C"
+December,"                  PARCELA DE IR                                   3.188.554,19C"
+December,"                  RETENCAO PASEP                                     34.471,69D"
+December,"                  RFB-RET DARF                                       15.994,49D"
+December,"                  DEDUCAO SAUDE                                     358.245,56D"
+December,"                  DEDUCAO FUNDEB                                    477.660,77D"
+December,
+December,"                  DEBITO FUNDO                                      886.372,51D"
+December,"                  CREDITO FUNDO                                   3.447.171,55C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     886.372,51D"
+December,"                  CREDITO BENEF.                                  3.447.171,55C"

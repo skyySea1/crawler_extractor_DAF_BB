@@ -1,0 +1,480 @@
+Mes,NomeBeneficio,Valor
+January,CANDEIAS                                          -MG
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                     92.747,08C"
+January,"                  PARCELA DE IR                                     854.617,26C"
+January,"                  RETENCAO PASEP                                      9.473,64D"
+January,"                  RFB-PREV-PARC60                                     7.898,25D"
+January,"                  DEDUCAO FUNDEB                                    189.472,86D"
+January,"                  TOTAL NA DATA                                     740.519,59C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     46.096,08C"
+January,"                  PARCELA DE IR                                     320.257,08C"
+January,"                  RETENCAO PASEP                                      3.663,53D"
+January,"                  DEDUCAO FUNDEB                                     73.270,62D"
+January,"                  TOTAL NA DATA                                     289.419,01C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     24.742,83C"
+January,"                  PARCELA DE IR                                     816.020,52C"
+January,"                  RETENCAO PASEP                                      8.407,62D"
+January,"                  DEDUCAO FUNDEB                                    168.152,66D"
+January,"                  TOTAL NA DATA                                     664.203,07C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    163.585,99C"
+January,"                  PARCELA DE IR                                   1.990.894,86C"
+January,"                  RETENCAO PASEP                                     21.544,79D"
+January,"                  RFB-PREV-PARC60                                     7.898,25D"
+January,"                  DEDUCAO FUNDEB                                    430.896,14D"
+January,
+January,"                  DEBITO FUNDO                                      460.339,18D"
+January,"                  CREDITO FUNDO                                   2.154.480,85C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     460.339,18D"
+January,"                  CREDITO BENEF.                                  2.154.480,85C"
+February,CANDEIAS                                          -MG
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                     87.493,65C"
+February,"                  PARCELA DE IR                                   2.063.256,31C"
+February,"                  RETENCAO PASEP                                     21.507,49D"
+February,"                  RFB-PREV-PARC60                                     7.947,06D"
+February,"                  DEDUCAO FUNDEB                                    430.149,99D"
+February,"                  TOTAL NA DATA                                   1.691.145,42C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     15.900,61C"
+February,"                  PARCELA DE IR                                     191.141,99C"
+February,"                  RETENCAO PASEP                                      2.070,41D"
+February,"                  DEDUCAO FUNDEB                                     41.408,51D"
+February,"                  TOTAL NA DATA                                     163.563,68C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     11.684,71C"
+February,"                  PARCELA DE IR                                     501.703,07C"
+February,"                  RETENCAO PASEP                                      5.133,87D"
+February,"                  DEDUCAO FUNDEB                                    102.677,55D"
+February,"                  TOTAL NA DATA                                     405.576,36C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    115.078,97C"
+February,"                  PARCELA DE IR                                   2.756.101,37C"
+February,"                  RETENCAO PASEP                                     28.711,77D"
+February,"                  RFB-PREV-PARC60                                     7.947,06D"
+February,"                  DEDUCAO FUNDEB                                    574.236,05D"
+February,
+February,"                  DEBITO FUNDO                                      610.894,88D"
+February,"                  CREDITO FUNDO                                   2.871.180,34C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                     610.894,88D"
+February,"                  CREDITO BENEF.                                  2.871.180,34C"
+March,CANDEIAS                                          -MG
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                     98.685,70C"
+March,"                  PARCELA DE IR                                     801.726,92C"
+March,"                  RETENCAO PASEP                                      9.004,11D"
+March,"                  RFB-PREV-PARC60                                     7.987,15D"
+March,"                  DEDUCAO FUNDEB                                    180.082,52D"
+March,"                  TOTAL NA DATA                                     703.338,84C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     19.836,52C"
+March,"                  PARCELA DE IR                                     178.647,77C"
+March,"                  RETENCAO PASEP                                      1.984,83D"
+March,"                  DEDUCAO FUNDEB                                     39.696,85D"
+March,"                  TOTAL NA DATA                                     156.802,61C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     24.096,68C"
+March,"                  PARCELA DE IR                                     633.439,15C"
+March,"                  RETENCAO PASEP                                      6.575,35D"
+March,"                  DEDUCAO FUNDEB                                    131.507,16D"
+March,"                  TOTAL NA DATA                                     519.453,32C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    142.618,90C"
+March,"                  PARCELA DE IR                                   1.613.813,84C"
+March,"                  RETENCAO PASEP                                     17.564,29D"
+March,"                  RFB-PREV-PARC60                                     7.987,15D"
+March,"                  DEDUCAO FUNDEB                                    351.286,53D"
+March,
+March,"                  DEBITO FUNDO                                      376.837,97D"
+March,"                  CREDITO FUNDO                                   1.756.432,74C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     376.837,97D"
+March,"                  CREDITO BENEF.                                  1.756.432,74C"
+April,CANDEIAS                                          -MG
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    112.249,54C"
+April,"                  PARCELA DE IR                                     858.958,28C"
+April,"                  RETENCAO PASEP                                      9.712,07D"
+April,"                  RFB-PREV-PARC60                                     8.038,14D"
+April,"                  DEDUCAO FUNDEB                                    194.241,55D"
+April,"                  TOTAL NA DATA                                     759.216,06C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     17.695,54C"
+April,"                  PARCELA DE IR                                     231.653,37C"
+April,"                  RETENCAO PASEP                                      2.493,48D"
+April,"                  DEDUCAO FUNDEB                                     49.869,77D"
+April,"                  TOTAL NA DATA                                     196.985,66C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     22.096,90C"
+April,"                  PARCELA DE IR                                     765.497,12C"
+April,"                  RETENCAO PASEP                                      7.875,93D"
+April,"                  DEDUCAO FUNDEB                                    157.518,80D"
+April,"                  TOTAL NA DATA                                     622.199,29C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    152.041,98C"
+April,"                  PARCELA DE IR                                   1.856.108,77C"
+April,"                  RETENCAO PASEP                                     20.081,48D"
+April,"                  RFB-PREV-PARC60                                     8.038,14D"
+April,"                  DEDUCAO FUNDEB                                    401.630,12D"
+April,
+April,"                  DEBITO FUNDO                                      429.749,74D"
+April,"                  CREDITO FUNDO                                   2.008.150,75C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     429.749,74D"
+April,"                  CREDITO BENEF.                                  2.008.150,75C"
+May,CANDEIAS                                          -MG
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                     93.589,74C"
+May,"                  PARCELA DE IR                                   1.221.219,41C"
+May,"                  RETENCAO PASEP                                     13.148,08D"
+May,"                  RFB-PREV-PARC60                                     8.078,23D"
+May,"                  DEDUCAO FUNDEB                                    262.961,82D"
+May,"                  TOTAL NA DATA                                   1.030.621,02C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     26.474,19C"
+May,"                  PARCELA DE IR                                     233.293,83C"
+May,"                  RETENCAO PASEP                                      2.597,67D"
+May,"                  DEDUCAO FUNDEB                                     51.953,59D"
+May,"                  TOTAL NA DATA                                     205.216,76C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     16.661,13C"
+May,"                  PARCELA DE IR                                     641.143,65C"
+May,"                  RETENCAO PASEP                                      6.578,04D"
+May,"                  DEDUCAO FUNDEB                                    131.560,95D"
+May,"                  TOTAL NA DATA                                     519.665,79C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    136.725,06C"
+May,"                  PARCELA DE IR                                   2.095.656,89C"
+May,"                  RETENCAO PASEP                                     22.323,79D"
+May,"                  RFB-PREV-PARC60                                     8.078,23D"
+May,"                  DEDUCAO FUNDEB                                    446.476,36D"
+May,
+May,"                  DEBITO FUNDO                                      476.878,38D"
+May,"                  CREDITO FUNDO                                   2.232.381,95C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     476.878,38D"
+May,"                  CREDITO BENEF.                                  2.232.381,95C"
+June,CANDEIAS                                          -MG
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    115.467,52C"
+June,"                  PARCELA DE IR                                     800.105,74C"
+June,"                  RETENCAO PASEP                                      9.155,72D"
+June,"                  RFB-PREV-PARC60                                     8.127,04D"
+June,"                  DEDUCAO FUNDEB                                    183.114,64D"
+June,"                  TOTAL NA DATA                                     715.175,86C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     28.999,60C"
+June,"                  PARCELA DE IR                                     499.865,64C"
+June,"                  RETENCAO PASEP                                      5.288,64D"
+June,"                  DEDUCAO FUNDEB                                    105.773,04D"
+June,"                  TOTAL NA DATA                                     417.803,56C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     26.025,40C"
+June,"                  PARCELA DE IR                                     614.564,11C"
+June,"                  RETENCAO PASEP                                      6.405,89D"
+June,"                  DEDUCAO FUNDEB                                    128.117,90D"
+June,"                  TOTAL NA DATA                                     506.065,72C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    170.492,52C"
+June,"                  PARCELA DE IR                                   1.914.535,49C"
+June,"                  RETENCAO PASEP                                     20.850,25D"
+June,"                  RFB-PREV-PARC60                                     8.127,04D"
+June,"                  DEDUCAO FUNDEB                                    417.005,58D"
+June,
+June,"                  DEBITO FUNDO                                      445.982,87D"
+June,"                  CREDITO FUNDO                                   2.085.028,01C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     445.982,87D"
+June,"                  CREDITO BENEF.                                  2.085.028,01C"
+July,CANDEIAS                                          -MG
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    190.429,64C"
+July,"                  PARCELA DE IR                                   1.542.375,18C"
+July,"                  AJ DED FUNDEB                                       4.186,16C"
+July,"                  AJ DED PASEP                                          209,31C"
+July,"                  RETENCAO PASEP                                     17.328,03D"
+July,"                  RFB-PREV-PARC60                                     8.173,67D"
+July,"                  DEDUCAO FUNDEB                                    133.029,49D"
+July,"                  AJUSTE FPM                                         20.930,83D"
+July,"                  TOTAL NA DATA                                   1.557.738,27C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     29.280,54C"
+July,"                  PARCELA DE IR                                     206.738,97C"
+July,"                  RETENCAO PASEP                                      2.360,18D"
+July,"                  DEDUCAO FUNDEB                                     47.203,89D"
+July,"                  TOTAL NA DATA                                     186.455,44C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     14.653,45C"
+July,"                  PARCELA DE IR                                     630.785,29C"
+July,"                  RETENCAO PASEP                                      6.454,38D"
+July,"                  DEDUCAO FUNDEB                                    129.087,74D"
+July,"                  TOTAL NA DATA                                     509.896,62C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    234.363,63C"
+July,"                  PARCELA DE IR                                   2.379.899,44C"
+July,"                  RETENCAO PASEP                                     26.142,59D"
+July,"                  RFB-PREV-PARC60                                     8.173,67D"
+July,"                  DEDUCAO FUNDEB                                    309.321,12D"
+July,"                  AJ DED FUNDEB                                       4.186,16C"
+July,"                  AJ DED PASEP                                          209,31C"
+July,"                  AJUSTE FPM                                         20.930,83D"
+July,
+July,"                  DEBITO FUNDO                                      364.568,21D"
+July,"                  CREDITO FUNDO                                   2.618.658,54C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     364.568,21D"
+July,"                  CREDITO BENEF.                                  2.618.658,54C"
+August,CANDEIAS                                          -MG
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                     99.401,62C"
+August,"                  PARCELA DE IR                                     911.990,26C"
+August,"                  RETENCAO PASEP                                     10.113,91D"
+August,"                  RFB-PREV-PARC60                                     8.220,30D"
+August,"                  DEDUCAO FUNDEB                                    202.278,37D"
+August,"                  TOTAL NA DATA                                     790.779,30C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     23.907,74C"
+August,"                  PARCELA DE IR                                     206.928,24C"
+August,"                  RETENCAO PASEP                                      2.308,35D"
+August,"                  DEDUCAO FUNDEB                                     46.167,18D"
+August,"                  TOTAL NA DATA                                     182.360,45C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     13.890,16C"
+August,"                  PARCELA DE IR                                     520.389,88C"
+August,"                  RETENCAO PASEP                                      5.342,79D"
+August,"                  DEDUCAO FUNDEB                                    106.856,00D"
+August,"                  TOTAL NA DATA                                     422.081,25C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    137.199,52C"
+August,"                  PARCELA DE IR                                   1.639.308,38C"
+August,"                  RETENCAO PASEP                                     17.765,05D"
+August,"                  RFB-PREV-PARC60                                     8.220,30D"
+August,"                  DEDUCAO FUNDEB                                    355.301,55D"
+August,
+August,"                  DEBITO FUNDO                                      381.286,90D"
+August,"                  CREDITO FUNDO                                   1.776.507,90C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     381.286,90D"
+August,"                  CREDITO BENEF.                                  1.776.507,90C"
+September,CANDEIAS                                          -MG
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    135.093,04C"
+September,"                  PARCELA DE IR                                     782.872,83C"
+September,"                  RETENCAO PASEP                                      9.179,64D"
+September,"                  RFB-PREV-PARC60                                     8.269,98D"
+September,"                  DEDUCAO FUNDEB                                    130.740,00D"
+September,"                  TOTAL NA DATA                                     769.776,25C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     18.078,84C"
+September,"                  PARCELA DE IR                                     149.505,97C"
+September,"                  RETENCAO PASEP                                      1.675,83D"
+September,"                  DEDUCAO FUNDEB                                     33.516,95D"
+September,"                  TOTAL NA DATA                                     132.392,03C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     44.836,09C"
+September,"                  PARCELA DE IR                                     680.583,05C"
+September,"                  RETENCAO PASEP                                      7.254,19D"
+September,"                  DEDUCAO FUNDEB                                    145.083,82D"
+September,"                  TOTAL NA DATA                                     573.081,13C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    198.007,97C"
+September,"                  PARCELA DE IR                                   1.612.961,85C"
+September,"                  RETENCAO PASEP                                     18.109,66D"
+September,"                  RFB-PREV-PARC60                                     8.269,98D"
+September,"                  DEDUCAO FUNDEB                                    309.340,77D"
+September,
+September,"                  DEBITO FUNDO                                      335.720,41D"
+September,"                  CREDITO FUNDO                                   1.810.969,82C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     335.720,41D"
+September,"                  CREDITO BENEF.                                  1.810.969,82C"
+October,CANDEIAS                                          -MG
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    114.783,17C"
+October,"                  PARCELA DE IR                                     618.456,18C"
+October,"                  RETENCAO PASEP                                      7.332,39D"
+October,"                  RFB-PREV-PARC60                                     8.312,25D"
+October,"                  DEDUCAO FUNDEB                                    146.647,86D"
+October,"                  TOTAL NA DATA                                     570.946,85C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     52.411,59C"
+October,"                  PARCELA DE IR                                     231.578,24C"
+October,"                  RETENCAO PASEP                                      2.839,89D"
+October,"                  DEDUCAO FUNDEB                                     56.797,95D"
+October,"                  TOTAL NA DATA                                     224.351,99C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     31.443,51C"
+October,"                  PARCELA DE IR                                     633.288,26C"
+October,"                  RETENCAO PASEP                                      6.647,31D"
+October,"                  DEDUCAO FUNDEB                                    132.946,35D"
+October,"                  TOTAL NA DATA                                     525.138,11C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    198.638,27C"
+October,"                  PARCELA DE IR                                   1.483.322,68C"
+October,"                  RETENCAO PASEP                                     16.819,59D"
+October,"                  RFB-PREV-PARC60                                     8.312,25D"
+October,"                  DEDUCAO FUNDEB                                    336.392,16D"
+October,
+October,"                  DEBITO FUNDO                                      361.524,00D"
+October,"                  CREDITO FUNDO                                   1.681.960,95C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     361.524,00D"
+October,"                  CREDITO BENEF.                                  1.681.960,95C"
+November,CANDEIAS                                          -MG
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                     96.041,73C"
+November,"                  PARCELA DE IR                                   1.203.914,51C"
+November,"                  RETENCAO PASEP                                     12.999,55D"
+November,"                  RFB-PREV-PARC60                                     8.355,83D"
+November,"                  DEDUCAO FUNDEB                                    259.991,24D"
+November,"                  TOTAL NA DATA                                   1.018.609,62C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     33.896,26C"
+November,"                  PARCELA DE IR                                     248.106,11C"
+November,"                  RETENCAO PASEP                                      2.820,02D"
+November,"                  DEDUCAO FUNDEB                                     56.400,47D"
+November,"                  TOTAL NA DATA                                     222.781,88C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     32.821,29C"
+November,"                  PARCELA DE IR                                     567.504,65C"
+November,"                  RETENCAO PASEP                                      6.003,25D"
+November,"                  DEDUCAO FUNDEB                                    120.065,18D"
+November,"                  TOTAL NA DATA                                     474.257,51C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    162.759,28C"
+November,"                  PARCELA DE IR                                   2.019.525,27C"
+November,"                  RETENCAO PASEP                                     21.822,82D"
+November,"                  RFB-PREV-PARC60                                     8.355,83D"
+November,"                  DEDUCAO FUNDEB                                    436.456,89D"
+November,
+November,"                  DEBITO FUNDO                                      466.635,54D"
+November,"                  CREDITO FUNDO                                   2.182.284,55C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     466.635,54D"
+November,"                  CREDITO BENEF.                                  2.182.284,55C"
+December,CANDEIAS                                          -MG
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                     82.806,96C"
+December,"                  PARCELA DE IR                                     981.727,76C"
+December,"                  RETENCAO PASEP                                     10.645,33D"
+December,"                  TOTAL NA DATA                                   1.053.889,39C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                     93.927,19C"
+December,"                  PARCELA DE IR                                     844.557,32C"
+December,"                  RETENCAO PASEP                                      9.384,84D"
+December,"                  RFB-PREV-PARC60                                     8.395,93D"
+December,"                  DEDUCAO FUNDEB                                    187.696,89D"
+December,"                  TOTAL NA DATA                                     733.006,85C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     44.460,38C"
+December,"                  PARCELA DE IR                                     601.538,40C"
+December,"                  RETENCAO PASEP                                      6.459,98D"
+December,"                  DEDUCAO FUNDEB                                    129.199,75D"
+December,"                  TOTAL NA DATA                                     510.339,05C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     38.806,95C"
+December,"                  PARCELA DE IR                                     777.796,03C"
+December,"                  RETENCAO PASEP                                      8.166,02D"
+December,"                  DEDUCAO FUNDEB                                    163.320,59D"
+December,"                  TOTAL NA DATA                                     645.116,37C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    260.001,48C"
+December,"                  PARCELA DE IR                                   3.205.619,51C"
+December,"                  RETENCAO PASEP                                     34.656,17D"
+December,"                  RFB-PREV-PARC60                                     8.395,93D"
+December,"                  DEDUCAO FUNDEB                                    480.217,23D"
+December,
+December,"                  DEBITO FUNDO                                      523.269,33D"
+December,"                  CREDITO FUNDO                                   3.465.620,99C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     523.269,33D"
+December,"                  CREDITO BENEF.                                  3.465.620,99C"

@@ -1,0 +1,463 @@
+Mes,NomeBeneficio,Valor
+January,MAIQUINIQUE                                       -BA
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                     58.676,72C"
+January,"                  PARCELA DE IR                                     540.676,19C"
+January,"                  RETENCAO PASEP                                      5.993,52D"
+January,"                  RFB-PREV-PARC60                                    28.462,03D"
+January,"                  RFB-RET DARF                                       65.155,00D"
+January,"                  DEDUCAO FUNDEB                                    119.870,57D"
+January,"                  TOTAL NA DATA                                     379.871,79C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     29.062,34C"
+January,"                  PARCELA DE IR                                     201.913,49C"
+January,"                  RETENCAO PASEP                                      2.309,75D"
+January,"                  DEDUCAO FUNDEB                                     46.195,15D"
+January,"                  TOTAL NA DATA                                     182.470,93C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     20.615,43C"
+January,"                  PARCELA DE IR                                     679.898,56C"
+January,"                  RETENCAO PASEP                                      7.005,13D"
+January,"                  DEDUCAO FUNDEB                                    140.102,79D"
+January,"                  TOTAL NA DATA                                     553.406,07C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    108.354,49C"
+January,"                  PARCELA DE IR                                   1.422.488,24C"
+January,"                  RETENCAO PASEP                                     15.308,40D"
+January,"                  RFB-PREV-PARC60                                    28.462,03D"
+January,"                  RFB-RET DARF                                       65.155,00D"
+January,"                  DEDUCAO FUNDEB                                    306.168,51D"
+January,
+January,"                  DEBITO FUNDO                                      415.093,94D"
+January,"                  CREDITO FUNDO                                   1.530.842,73C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     415.093,94D"
+January,"                  CREDITO BENEF.                                  1.530.842,73C"
+February,MAIQUINIQUE                                       -BA
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                     72.898,66C"
+February,"                  PARCELA DE IR                                   1.719.080,54C"
+February,"                  RETENCAO PASEP                                     17.919,78D"
+February,"                  RFB-PREV-PARC60                                    28.462,03D"
+February,"                  RFB-RET DARF                                       65.155,00D"
+February,"                  DEDUCAO FUNDEB                                    358.395,83D"
+February,"                  TOTAL NA DATA                                   1.322.046,56C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     13.248,20C"
+February,"                  PARCELA DE IR                                     159.257,23C"
+February,"                  RETENCAO PASEP                                      1.725,05D"
+February,"                  DEDUCAO FUNDEB                                     34.501,08D"
+February,"                  TOTAL NA DATA                                     136.279,30C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                      9.735,56C"
+February,"                  PARCELA DE IR                                     418.013,01C"
+February,"                  RETENCAO PASEP                                      4.277,48D"
+February,"                  DEDUCAO FUNDEB                                     85.549,71D"
+February,"                  TOTAL NA DATA                                     337.921,38C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                     95.882,42C"
+February,"                  PARCELA DE IR                                   2.296.350,78C"
+February,"                  RETENCAO PASEP                                     23.922,31D"
+February,"                  RFB-PREV-PARC60                                    28.462,03D"
+February,"                  RFB-RET DARF                                       65.155,00D"
+February,"                  DEDUCAO FUNDEB                                    478.446,62D"
+February,
+February,"                  DEBITO FUNDO                                      595.985,96D"
+February,"                  CREDITO FUNDO                                   2.392.233,20C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                     595.985,96D"
+February,"                  CREDITO BENEF.                                  2.392.233,20C"
+March,MAIQUINIQUE                                       -BA
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                     82.223,75C"
+March,"                  PARCELA DE IR                                     667.989,30C"
+March,"                  RETENCAO PASEP                                      7.502,12D"
+March,"                  RFB-PREV-PARC60                                    28.462,03D"
+March,"                  RFB-RET DARF                                       65.155,00D"
+March,"                  DEDUCAO FUNDEB                                    150.042,61D"
+March,"                  TOTAL NA DATA                                     499.051,29C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     16.527,55C"
+March,"                  PARCELA DE IR                                     148.847,19C"
+March,"                  RETENCAO PASEP                                      1.653,74D"
+March,"                  DEDUCAO FUNDEB                                     33.074,94D"
+March,"                  TOTAL NA DATA                                     130.646,06C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     20.077,06C"
+March,"                  PARCELA DE IR                                     527.773,94C"
+March,"                  RETENCAO PASEP                                      5.478,50D"
+March,"                  DEDUCAO FUNDEB                                    109.570,19D"
+March,"                  TOTAL NA DATA                                     432.802,31C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    118.828,36C"
+March,"                  PARCELA DE IR                                   1.344.610,43C"
+March,"                  RETENCAO PASEP                                     14.634,36D"
+March,"                  RFB-PREV-PARC60                                    28.462,03D"
+March,"                  RFB-RET DARF                                       65.155,00D"
+March,"                  DEDUCAO FUNDEB                                    292.687,74D"
+March,
+March,"                  DEBITO FUNDO                                      400.939,13D"
+March,"                  CREDITO FUNDO                                   1.463.438,79C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     400.939,13D"
+March,"                  CREDITO BENEF.                                  1.463.438,79C"
+April,MAIQUINIQUE                                       -BA
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                     93.524,98C"
+April,"                  PARCELA DE IR                                     715.673,78C"
+April,"                  RETENCAO PASEP                                      8.091,97D"
+April,"                  RFB-PREV-PARC60                                    32.868,47D"
+April,"                  RFB-RET DARF                                       65.155,00D"
+April,"                  DEDUCAO FUNDEB                                    161.839,74D"
+April,"                  TOTAL NA DATA                                     541.243,58C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     14.743,71C"
+April,"                  PARCELA DE IR                                     193.010,83C"
+April,"                  RETENCAO PASEP                                      2.077,53D"
+April,"                  DEDUCAO FUNDEB                                     41.550,90D"
+April,"                  TOTAL NA DATA                                     164.126,11C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     18.410,87C"
+April,"                  PARCELA DE IR                                     637.803,06C"
+April,"                  RETENCAO PASEP                                      6.562,13D"
+April,"                  DEDUCAO FUNDEB                                    131.242,78D"
+April,"                  TOTAL NA DATA                                     518.409,02C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    126.679,56C"
+April,"                  PARCELA DE IR                                   1.546.487,67C"
+April,"                  RETENCAO PASEP                                     16.731,63D"
+April,"                  RFB-PREV-PARC60                                    32.868,47D"
+April,"                  RFB-RET DARF                                       65.155,00D"
+April,"                  DEDUCAO FUNDEB                                    334.633,42D"
+April,
+April,"                  DEBITO FUNDO                                      449.388,52D"
+April,"                  CREDITO FUNDO                                   1.673.167,23C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     449.388,52D"
+April,"                  CREDITO BENEF.                                  1.673.167,23C"
+May,MAIQUINIQUE                                       -BA
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                     77.977,85C"
+May,"                  PARCELA DE IR                                   1.017.505,44C"
+May,"                  RETENCAO PASEP                                     10.954,82D"
+May,"                  RFB-PREV-PARC60                                    32.868,47D"
+May,"                  RFB-RET DARF                                       45.025,00D"
+May,"                  DEDUCAO FUNDEB                                    219.096,65D"
+May,"                  TOTAL NA DATA                                     787.538,35C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     22.057,98C"
+May,"                  PARCELA DE IR                                     194.377,63C"
+May,"                  RETENCAO PASEP                                      2.164,34D"
+May,"                  DEDUCAO FUNDEB                                     43.287,11D"
+May,"                  TOTAL NA DATA                                     170.984,16C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     13.881,85C"
+May,"                  PARCELA DE IR                                     534.193,24C"
+May,"                  RETENCAO PASEP                                      5.480,74D"
+May,"                  DEDUCAO FUNDEB                                    109.615,01D"
+May,"                  TOTAL NA DATA                                     432.979,34C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    113.917,68C"
+May,"                  PARCELA DE IR                                   1.746.076,31C"
+May,"                  RETENCAO PASEP                                     18.599,90D"
+May,"                  RFB-PREV-PARC60                                    32.868,47D"
+May,"                  RFB-RET DARF                                       45.025,00D"
+May,"                  DEDUCAO FUNDEB                                    371.998,77D"
+May,
+May,"                  DEBITO FUNDO                                      468.492,14D"
+May,"                  CREDITO FUNDO                                   1.859.993,99C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     468.492,14D"
+May,"                  CREDITO BENEF.                                  1.859.993,99C"
+June,MAIQUINIQUE                                       -BA
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                     96.206,16C"
+June,"                  PARCELA DE IR                                     666.638,55C"
+June,"                  RETENCAO PASEP                                      7.628,44D"
+June,"                  RFB-PREV-PARC60                                    32.868,47D"
+June,"                  RFB-RET DARF                                       69.296,00D"
+June,"                  DEDUCAO FUNDEB                                    152.568,94D"
+June,"                  TOTAL NA DATA                                     500.482,86C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     24.162,12C"
+June,"                  PARCELA DE IR                                     416.482,08C"
+June,"                  RETENCAO PASEP                                      4.406,44D"
+June,"                  DEDUCAO FUNDEB                                     88.128,83D"
+June,"                  TOTAL NA DATA                                     348.108,93C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     21.684,06C"
+June,"                  PARCELA DE IR                                     512.047,48C"
+June,"                  RETENCAO PASEP                                      5.337,31D"
+June,"                  DEDUCAO FUNDEB                                    106.746,30D"
+June,"                  TOTAL NA DATA                                     421.647,93C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    142.052,34C"
+June,"                  PARCELA DE IR                                   1.595.168,11C"
+June,"                  RETENCAO PASEP                                     17.372,19D"
+June,"                  RFB-PREV-PARC60                                    32.868,47D"
+June,"                  RFB-RET DARF                                       69.296,00D"
+June,"                  DEDUCAO FUNDEB                                    347.444,07D"
+June,
+June,"                  DEBITO FUNDO                                      466.980,73D"
+June,"                  CREDITO FUNDO                                   1.737.220,45C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     466.980,73D"
+June,"                  CREDITO BENEF.                                  1.737.220,45C"
+July,MAIQUINIQUE                                       -BA
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    157.911,26C"
+July,"                  PARCELA DE IR                                   1.278.994,25C"
+July,"                  AJUSTE FPM                                        246.805,68C"
+July,"                  RETENCAO PASEP                                     14.369,04D"
+July,"                  RFB-PREV-PARC60                                    32.868,47D"
+July,"                  RFB-RET DARF                                       70.100,00D"
+July,"                  DEDUCAO FUNDEB                                    110.312,94D"
+July,"                  AJ DED FUNDEB                                      49.361,16D"
+July,"                  AJ DED PASEP                                        2.468,06D"
+July,"                  TOTAL NA DATA                                   1.404.231,52C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     24.280,50C"
+July,"                  PARCELA DE IR                                     171.435,56C"
+July,"                  RETENCAO PASEP                                      1.957,15D"
+July,"                  DEDUCAO FUNDEB                                     39.143,21D"
+July,"                  TOTAL NA DATA                                     154.615,70C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     12.151,18C"
+July,"                  PARCELA DE IR                                     523.070,37C"
+July,"                  RETENCAO PASEP                                      5.352,21D"
+July,"                  DEDUCAO FUNDEB                                    107.044,30D"
+July,"                  TOTAL NA DATA                                     422.825,04C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    194.342,94C"
+July,"                  PARCELA DE IR                                   1.973.500,18C"
+July,"                  RETENCAO PASEP                                     21.678,40D"
+July,"                  RFB-PREV-PARC60                                    32.868,47D"
+July,"                  RFB-RET DARF                                       70.100,00D"
+July,"                  DEDUCAO FUNDEB                                    256.500,45D"
+July,"                  AJ DED FUNDEB                                      49.361,16D"
+July,"                  AJ DED PASEP                                        2.468,06D"
+July,"                  AJUSTE FPM                                        246.805,68C"
+July,
+July,"                  DEBITO FUNDO                                      432.976,54D"
+July,"                  CREDITO FUNDO                                   2.414.648,80C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     432.976,54D"
+July,"                  CREDITO BENEF.                                  2.414.648,80C"
+August,MAIQUINIQUE                                       -BA
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                     82.427,48C"
+August,"                  PARCELA DE IR                                     756.255,88C"
+August,"                  RETENCAO PASEP                                      8.386,82D"
+August,"                  RFB-PREV-PARC60                                    32.868,47D"
+August,"                  RFB-RET DARF                                       70.953,00D"
+August,"                  DEDUCAO FUNDEB                                    167.736,66D"
+August,"                  TOTAL NA DATA                                     558.738,41C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     19.825,18C"
+August,"                  PARCELA DE IR                                     171.592,51C"
+August,"                  RETENCAO PASEP                                      1.914,17D"
+August,"                  DEDUCAO FUNDEB                                     38.283,53D"
+August,"                  TOTAL NA DATA                                     151.219,99C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     11.518,23C"
+August,"                  PARCELA DE IR                                     431.526,43C"
+August,"                  RETENCAO PASEP                                      4.430,44D"
+August,"                  DEDUCAO FUNDEB                                     88.608,92D"
+August,"                  TOTAL NA DATA                                     350.005,30C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    113.770,89C"
+August,"                  PARCELA DE IR                                   1.359.374,82C"
+August,"                  RETENCAO PASEP                                     14.731,43D"
+August,"                  RFB-PREV-PARC60                                    32.868,47D"
+August,"                  RFB-RET DARF                                       70.953,00D"
+August,"                  DEDUCAO FUNDEB                                    294.629,11D"
+August,
+August,"                  DEBITO FUNDO                                      413.182,01D"
+August,"                  CREDITO FUNDO                                   1.473.145,71C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     413.182,01D"
+August,"                  CREDITO BENEF.                                  1.473.145,71C"
+September,MAIQUINIQUE                                       -BA
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    112.024,11C"
+September,"                  PARCELA DE IR                                     649.186,95C"
+September,"                  RETENCAO PASEP                                      7.612,09D"
+September,"                  RFB-PREV-PARC60                                    32.868,47D"
+September,"                  RFB-RET DARF                                       70.953,00D"
+September,"                  DEDUCAO FUNDEB                                    108.414,41D"
+September,"                  TOTAL NA DATA                                     541.363,09C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     14.991,64C"
+September,"                  PARCELA DE IR                                     123.975,85C"
+September,"                  RETENCAO PASEP                                      1.389,66D"
+September,"                  DEDUCAO FUNDEB                                     27.793,49D"
+September,"                  TOTAL NA DATA                                     109.784,34C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     37.179,73C"
+September,"                  PARCELA DE IR                                     564.364,50C"
+September,"                  RETENCAO PASEP                                      6.015,43D"
+September,"                  DEDUCAO FUNDEB                                    120.308,84D"
+September,"                  TOTAL NA DATA                                     475.219,96C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    164.195,48C"
+September,"                  PARCELA DE IR                                   1.337.527,30C"
+September,"                  RETENCAO PASEP                                     15.017,18D"
+September,"                  RFB-PREV-PARC60                                    32.868,47D"
+September,"                  RFB-RET DARF                                       70.953,00D"
+September,"                  DEDUCAO FUNDEB                                    256.516,74D"
+September,
+September,"                  DEBITO FUNDO                                      375.355,39D"
+September,"                  CREDITO FUNDO                                   1.501.722,78C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     375.355,39D"
+September,"                  CREDITO BENEF.                                  1.501.722,78C"
+November,MAIQUINIQUE                                       -BA
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                     79.641,33C"
+November,"                  PARCELA DE IR                                     998.330,21C"
+November,"                  RETENCAO PASEP                                     10.779,71D"
+November,"                  RFB-PREV-PARC60                                    32.868,47D"
+November,"                  RFB-RET DARF                                       70.953,00D"
+November,"                  DEDUCAO FUNDEB                                    215.594,30D"
+November,"                  TOTAL NA DATA                                     747.776,06C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     28.108,03C"
+November,"                  PARCELA DE IR                                     205.738,72C"
+November,"                  RETENCAO PASEP                                      2.338,46D"
+November,"                  DEDUCAO FUNDEB                                     46.769,34D"
+November,"                  TOTAL NA DATA                                     184.738,95C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     27.216,62C"
+November,"                  PARCELA DE IR                                     470.595,73C"
+November,"                  RETENCAO PASEP                                      4.978,11D"
+November,"                  DEDUCAO FUNDEB                                     99.562,46D"
+November,"                  TOTAL NA DATA                                     393.271,78C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    134.965,98C"
+November,"                  PARCELA DE IR                                   1.674.664,66C"
+November,"                  RETENCAO PASEP                                     18.096,28D"
+November,"                  RFB-PREV-PARC60                                    32.868,47D"
+November,"                  RFB-RET DARF                                       70.953,00D"
+November,"                  DEDUCAO FUNDEB                                    361.926,10D"
+November,
+November,"                  DEBITO FUNDO                                      483.843,85D"
+November,"                  CREDITO FUNDO                                   1.809.630,64C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     483.843,85D"
+November,"                  CREDITO BENEF.                                  1.809.630,64C"
+December,MAIQUINIQUE                                       -BA
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                     68.666,58C"
+December,"                  PARCELA DE IR                                     814.084,78C"
+December,"                  RETENCAO PASEP                                      8.827,50D"
+December,"                  TOTAL NA DATA                                     873.923,86C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                     77.887,88C"
+December,"                  PARCELA DE IR                                     700.338,00C"
+December,"                  RETENCAO PASEP                                      7.782,25D"
+December,"                  RFB-PREV-PARC60                                    32.868,47D"
+December,"                  RFB-RET DARF                                       70.953,00D"
+December,"                  DEDUCAO FUNDEB                                    155.645,17D"
+December,"                  TOTAL NA DATA                                     510.976,99C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     36.868,19C"
+December,"                  PARCELA DE IR                                     498.817,77C"
+December,"                  RETENCAO PASEP                                      5.356,85D"
+December,"                  DEDUCAO FUNDEB                                    107.137,18D"
+December,"                  TOTAL NA DATA                                     423.191,93C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     32.180,15C"
+December,"                  PARCELA DE IR                                     644.977,09C"
+December,"                  RETENCAO PASEP                                      6.771,57D"
+December,"                  DEDUCAO FUNDEB                                    135.431,44D"
+December,"                  TOTAL NA DATA                                     534.954,23C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    215.602,80C"
+December,"                  PARCELA DE IR                                   2.658.217,64C"
+December,"                  RETENCAO PASEP                                     28.738,17D"
+December,"                  RFB-PREV-PARC60                                    32.868,47D"
+December,"                  RFB-RET DARF                                       70.953,00D"
+December,"                  DEDUCAO FUNDEB                                    398.213,79D"
+December,
+December,"                  DEBITO FUNDO                                      530.773,43D"
+December,"                  CREDITO FUNDO                                   2.873.820,44C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     530.773,43D"
+December,"                  CREDITO BENEF.                                  2.873.820,44C"

@@ -1,0 +1,480 @@
+Mes,NomeBeneficio,Valor
+January,NOVO PLANALTO                                     -GO
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                     49.668,54C"
+January,"                  PARCELA DE IR                                     457.670,40C"
+January,"                  RETENCAO PASEP                                      5.073,38D"
+January,"                  RFB-PREV-PARC60                                     5.390,58D"
+January,"                  DEDUCAO FUNDEB                                    101.467,78D"
+January,"                  TOTAL NA DATA                                     395.407,20C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     24.685,68C"
+January,"                  PARCELA DE IR                                     171.506,23C"
+January,"                  RETENCAO PASEP                                      1.961,91D"
+January,"                  DEDUCAO FUNDEB                                     39.238,37D"
+January,"                  TOTAL NA DATA                                     154.991,63C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     13.325,05C"
+January,"                  PARCELA DE IR                                     439.461,36C"
+January,"                  RETENCAO PASEP                                      4.527,86D"
+January,"                  DEDUCAO FUNDEB                                     90.557,28D"
+January,"                  TOTAL NA DATA                                     357.701,27C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                     87.679,27C"
+January,"                  PARCELA DE IR                                   1.068.637,99C"
+January,"                  RETENCAO PASEP                                     11.563,15D"
+January,"                  RFB-PREV-PARC60                                     5.390,58D"
+January,"                  DEDUCAO FUNDEB                                    231.263,43D"
+January,
+January,"                  DEBITO FUNDO                                      248.217,16D"
+January,"                  CREDITO FUNDO                                   1.156.317,26C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     248.217,16D"
+January,"                  CREDITO BENEF.                                  1.156.317,26C"
+February,NOVO PLANALTO                                     -GO
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                     47.119,01C"
+February,"                  PARCELA DE IR                                   1.111.150,28C"
+February,"                  RETENCAO PASEP                                     11.582,69D"
+February,"                  RFB-PREV-PARC60                                     5.424,03D"
+February,"                  DEDUCAO FUNDEB                                    231.653,85D"
+February,"                  TOTAL NA DATA                                     909.608,72C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                      8.563,15C"
+February,"                  PARCELA DE IR                                     102.938,00C"
+February,"                  RETENCAO PASEP                                      1.115,01D"
+February,"                  DEDUCAO FUNDEB                                     22.300,23D"
+February,"                  TOTAL NA DATA                                      88.085,91C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                      6.292,71C"
+February,"                  PARCELA DE IR                                     270.188,20C"
+February,"                  RETENCAO PASEP                                      2.764,80D"
+February,"                  DEDUCAO FUNDEB                                     55.296,18D"
+February,"                  TOTAL NA DATA                                     218.419,93C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                     61.974,87C"
+February,"                  PARCELA DE IR                                   1.484.276,48C"
+February,"                  RETENCAO PASEP                                     15.462,50D"
+February,"                  RFB-PREV-PARC60                                     5.424,03D"
+February,"                  DEDUCAO FUNDEB                                    309.250,26D"
+February,
+February,"                  DEBITO FUNDO                                      330.136,79D"
+February,"                  CREDITO FUNDO                                   1.546.251,35C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                     330.136,79D"
+February,"                  CREDITO BENEF.                                  1.546.251,35C"
+March,NOVO PLANALTO                                     -GO
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                     53.146,40C"
+March,"                  PARCELA DE IR                                     431.763,66C"
+March,"                  RETENCAO PASEP                                      4.849,09D"
+March,"                  RFB-PREV-PARC60                                     5.451,50D"
+March,"                  DEDUCAO FUNDEB                                     96.982,01D"
+March,"                  TOTAL NA DATA                                     377.627,46C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     10.682,80C"
+March,"                  PARCELA DE IR                                      96.209,33C"
+March,"                  RETENCAO PASEP                                      1.068,91D"
+March,"                  DEDUCAO FUNDEB                                     21.378,42D"
+March,"                  TOTAL NA DATA                                      84.444,80C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     12.977,07C"
+March,"                  PARCELA DE IR                                     341.133,62C"
+March,"                  RETENCAO PASEP                                      3.541,10D"
+March,"                  DEDUCAO FUNDEB                                     70.822,13D"
+March,"                  TOTAL NA DATA                                     279.747,46C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                     76.806,27C"
+March,"                  PARCELA DE IR                                     869.106,61C"
+March,"                  RETENCAO PASEP                                      9.459,10D"
+March,"                  RFB-PREV-PARC60                                     5.451,50D"
+March,"                  DEDUCAO FUNDEB                                    189.182,56D"
+March,
+March,"                  DEBITO FUNDO                                      204.093,16D"
+March,"                  CREDITO FUNDO                                     945.912,88C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     204.093,16D"
+March,"                  CREDITO BENEF.                                    945.912,88C"
+April,NOVO PLANALTO                                     -GO
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                     60.451,10C"
+April,"                  PARCELA DE IR                                     462.585,15C"
+April,"                  RETENCAO PASEP                                      5.230,36D"
+April,"                  RFB-PREV-PARC60                                     5.486,43D"
+April,"                  DEDUCAO FUNDEB                                    104.607,25D"
+April,"                  TOTAL NA DATA                                     407.712,21C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                      9.529,79C"
+April,"                  PARCELA DE IR                                     124.755,08C"
+April,"                  RETENCAO PASEP                                      1.342,84D"
+April,"                  DEDUCAO FUNDEB                                     26.856,96D"
+April,"                  TOTAL NA DATA                                     106.085,07C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     11.900,11C"
+April,"                  PARCELA DE IR                                     412.252,39C"
+April,"                  RETENCAO PASEP                                      4.241,52D"
+April,"                  DEDUCAO FUNDEB                                     84.830,49D"
+April,"                  TOTAL NA DATA                                     335.080,49C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                     81.881,00C"
+April,"                  PARCELA DE IR                                     999.592,62C"
+April,"                  RETENCAO PASEP                                     10.814,72D"
+April,"                  RFB-PREV-PARC60                                     5.486,43D"
+April,"                  DEDUCAO FUNDEB                                    216.294,70D"
+April,
+April,"                  DEBITO FUNDO                                      232.595,85D"
+April,"                  CREDITO FUNDO                                   1.081.473,62C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     232.595,85D"
+April,"                  CREDITO BENEF.                                  1.081.473,62C"
+May,NOVO PLANALTO                                     -GO
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                     50.402,01C"
+May,"                  PARCELA DE IR                                     657.678,00C"
+May,"                  RETENCAO PASEP                                      7.080,80D"
+May,"                  RFB-PREV-PARC60                                     5.513,91D"
+May,"                  DEDUCAO FUNDEB                                    141.616,00D"
+May,"                  TOTAL NA DATA                                     553.869,30C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     14.257,47C"
+May,"                  PARCELA DE IR                                     125.638,53C"
+May,"                  RETENCAO PASEP                                      1.398,95D"
+May,"                  DEDUCAO FUNDEB                                     27.979,19D"
+May,"                  TOTAL NA DATA                                     110.517,86C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                      8.972,72C"
+May,"                  PARCELA DE IR                                     345.282,82C"
+May,"                  RETENCAO PASEP                                      3.542,54D"
+May,"                  DEDUCAO FUNDEB                                     70.851,10D"
+May,"                  TOTAL NA DATA                                     279.861,90C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                     73.632,20C"
+May,"                  PARCELA DE IR                                   1.128.599,35C"
+May,"                  RETENCAO PASEP                                     12.022,29D"
+May,"                  RFB-PREV-PARC60                                     5.513,91D"
+May,"                  DEDUCAO FUNDEB                                    240.446,29D"
+May,
+May,"                  DEBITO FUNDO                                      257.982,49D"
+May,"                  CREDITO FUNDO                                   1.202.231,55C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     257.982,49D"
+May,"                  CREDITO BENEF.                                  1.202.231,55C"
+June,NOVO PLANALTO                                     -GO
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                     62.084,86C"
+June,"                  PARCELA DE IR                                     430.202,81C"
+June,"                  RETENCAO PASEP                                      4.922,86D"
+June,"                  RFB-PREV-PARC60                                     5.547,35D"
+June,"                  DEDUCAO FUNDEB                                     98.457,53D"
+June,"                  TOTAL NA DATA                                     383.359,93C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     15.592,58C"
+June,"                  PARCELA DE IR                                     268.768,98C"
+June,"                  RETENCAO PASEP                                      2.843,60D"
+June,"                  DEDUCAO FUNDEB                                     56.872,30D"
+June,"                  TOTAL NA DATA                                     224.645,66C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     13.982,24C"
+June,"                  PARCELA DE IR                                     330.176,82C"
+June,"                  RETENCAO PASEP                                      3.441,58D"
+June,"                  DEDUCAO FUNDEB                                     68.831,80D"
+June,"                  TOTAL NA DATA                                     271.885,68C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                     91.659,68C"
+June,"                  PARCELA DE IR                                   1.029.148,61C"
+June,"                  RETENCAO PASEP                                     11.208,04D"
+June,"                  RFB-PREV-PARC60                                     5.547,35D"
+June,"                  DEDUCAO FUNDEB                                    224.161,63D"
+June,
+June,"                  DEBITO FUNDO                                      240.917,02D"
+June,"                  CREDITO FUNDO                                   1.120.808,29C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     240.917,02D"
+June,"                  CREDITO BENEF.                                  1.120.808,29C"
+July,NOVO PLANALTO                                     -GO
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    101.198,40C"
+July,"                  PARCELA DE IR                                     819.651,37C"
+July,"                  AJ DED FUNDEB                                       1.795,28C"
+July,"                  AJ DED PASEP                                           89,76C"
+July,"                  RETENCAO PASEP                                      9.208,48D"
+July,"                  RFB-PREV-PARC60                                     5.579,30D"
+July,"                  DEDUCAO FUNDEB                                     70.694,73D"
+July,"                  AJUSTE FPM                                          8.976,47D"
+July,"                  TOTAL NA DATA                                     828.275,83C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     15.560,31C"
+July,"                  PARCELA DE IR                                     109.865,54C"
+July,"                  RETENCAO PASEP                                      1.254,25D"
+July,"                  DEDUCAO FUNDEB                                     25.085,16D"
+July,"                  TOTAL NA DATA                                      99.086,44C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                      7.787,16C"
+July,"                  PARCELA DE IR                                     335.212,88C"
+July,"                  RETENCAO PASEP                                      3.429,99D"
+July,"                  DEDUCAO FUNDEB                                     68.600,00D"
+July,"                  TOTAL NA DATA                                     270.970,05C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    124.545,87C"
+July,"                  PARCELA DE IR                                   1.264.729,79C"
+July,"                  RETENCAO PASEP                                     13.892,72D"
+July,"                  RFB-PREV-PARC60                                     5.579,30D"
+July,"                  DEDUCAO FUNDEB                                    164.379,89D"
+July,"                  AJ DED FUNDEB                                       1.795,28C"
+July,"                  AJ DED PASEP                                           89,76C"
+July,"                  AJUSTE FPM                                          8.976,47D"
+July,
+July,"                  DEBITO FUNDO                                      192.828,38D"
+July,"                  CREDITO FUNDO                                   1.391.160,70C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     192.828,38D"
+July,"                  CREDITO BENEF.                                  1.391.160,70C"
+August,NOVO PLANALTO                                     -GO
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                     52.824,16C"
+August,"                  PARCELA DE IR                                     484.651,25C"
+August,"                  RETENCAO PASEP                                      5.374,75D"
+August,"                  RFB-PREV-PARC60                                     5.611,25D"
+August,"                  DEDUCAO FUNDEB                                    107.495,08D"
+August,"                  TOTAL NA DATA                                     418.994,33C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     12.705,09C"
+August,"                  PARCELA DE IR                                     109.966,12C"
+August,"                  RETENCAO PASEP                                      1.226,71D"
+August,"                  DEDUCAO FUNDEB                                     24.534,23D"
+August,"                  TOTAL NA DATA                                      96.910,27C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                      7.381,53C"
+August,"                  PARCELA DE IR                                     276.546,38C"
+August,"                  RETENCAO PASEP                                      2.839,27D"
+August,"                  DEDUCAO FUNDEB                                     56.785,57D"
+August,"                  TOTAL NA DATA                                     224.303,07C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                     72.910,78C"
+August,"                  PARCELA DE IR                                     871.163,75C"
+August,"                  RETENCAO PASEP                                      9.440,73D"
+August,"                  RFB-PREV-PARC60                                     5.611,25D"
+August,"                  DEDUCAO FUNDEB                                    188.814,88D"
+August,
+August,"                  DEBITO FUNDO                                      203.866,86D"
+August,"                  CREDITO FUNDO                                     944.074,53C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     203.866,86D"
+August,"                  CREDITO BENEF.                                    944.074,53C"
+September,NOVO PLANALTO                                     -GO
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                     71.791,34C"
+September,"                  PARCELA DE IR                                     416.035,47C"
+September,"                  RETENCAO PASEP                                      4.878,26D"
+September,"                  RFB-PREV-PARC60                                     5.645,29D"
+September,"                  DEDUCAO FUNDEB                                     69.478,04D"
+September,"                  TOTAL NA DATA                                     407.825,22C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                      9.607,48C"
+September,"                  PARCELA DE IR                                      79.450,69C"
+September,"                  RETENCAO PASEP                                        890,57D"
+September,"                  DEDUCAO FUNDEB                                     17.811,62D"
+September,"                  TOTAL NA DATA                                      70.355,98C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     23.826,86C"
+September,"                  PARCELA DE IR                                     361.676,48C"
+September,"                  RETENCAO PASEP                                      3.855,02D"
+September,"                  DEDUCAO FUNDEB                                     77.100,66D"
+September,"                  TOTAL NA DATA                                     304.547,66C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    105.225,68C"
+September,"                  PARCELA DE IR                                     857.162,64C"
+September,"                  RETENCAO PASEP                                      9.623,85D"
+September,"                  RFB-PREV-PARC60                                     5.645,29D"
+September,"                  DEDUCAO FUNDEB                                    164.390,32D"
+September,
+September,"                  DEBITO FUNDO                                      179.659,46D"
+September,"                  CREDITO FUNDO                                     962.388,32C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     179.659,46D"
+September,"                  CREDITO BENEF.                                    962.388,32C"
+October,NOVO PLANALTO                                     -GO
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                     60.998,25C"
+October,"                  PARCELA DE IR                                     328.660,92C"
+October,"                  RETENCAO PASEP                                      3.896,58D"
+October,"                  RFB-PREV-PARC60                                     5.674,25D"
+October,"                  DEDUCAO FUNDEB                                     77.931,83D"
+October,"                  TOTAL NA DATA                                     302.156,51C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     27.852,65C"
+October,"                  PARCELA DE IR                                     123.065,66C"
+October,"                  RETENCAO PASEP                                      1.509,17D"
+October,"                  DEDUCAO FUNDEB                                     30.183,66D"
+October,"                  TOTAL NA DATA                                     119.225,48C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     16.709,76C"
+October,"                  PARCELA DE IR                                     336.543,01C"
+October,"                  RETENCAO PASEP                                      3.532,52D"
+October,"                  DEDUCAO FUNDEB                                     70.650,55D"
+October,"                  TOTAL NA DATA                                     279.069,70C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    105.560,66C"
+October,"                  PARCELA DE IR                                     788.269,59C"
+October,"                  RETENCAO PASEP                                      8.938,27D"
+October,"                  RFB-PREV-PARC60                                     5.674,25D"
+October,"                  DEDUCAO FUNDEB                                    178.766,04D"
+October,
+October,"                  DEBITO FUNDO                                      193.378,56D"
+October,"                  CREDITO FUNDO                                     893.830,25C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     193.378,56D"
+October,"                  CREDITO BENEF.                                    893.830,25C"
+November,NOVO PLANALTO                                     -GO
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                     51.038,64C"
+November,"                  PARCELA DE IR                                     639.786,08C"
+November,"                  RETENCAO PASEP                                      6.908,24D"
+November,"                  RFB-PREV-PARC60                                     5.704,11D"
+November,"                  DEDUCAO FUNDEB                                    138.164,93D"
+November,"                  TOTAL NA DATA                                     540.047,44C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     18.013,20C"
+November,"                  PARCELA DE IR                                     131.848,93C"
+November,"                  RETENCAO PASEP                                      1.498,61D"
+November,"                  DEDUCAO FUNDEB                                     29.972,42D"
+November,"                  TOTAL NA DATA                                     118.391,10C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     17.441,94C"
+November,"                  PARCELA DE IR                                     301.584,18C"
+November,"                  RETENCAO PASEP                                      3.190,25D"
+November,"                  DEDUCAO FUNDEB                                     63.805,21D"
+November,"                  TOTAL NA DATA                                     252.030,66C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                     86.493,78C"
+November,"                  PARCELA DE IR                                   1.073.219,19C"
+November,"                  RETENCAO PASEP                                     11.597,10D"
+November,"                  RFB-PREV-PARC60                                     5.704,11D"
+November,"                  DEDUCAO FUNDEB                                    231.942,56D"
+November,
+November,"                  DEBITO FUNDO                                      249.243,77D"
+November,"                  CREDITO FUNDO                                   1.159.712,97C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     249.243,77D"
+November,"                  CREDITO BENEF.                                  1.159.712,97C"
+December,NOVO PLANALTO                                     -GO
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                     44.005,40C"
+December,"                  PARCELA DE IR                                     521.711,26C"
+December,"                  RETENCAO PASEP                                      5.657,16D"
+December,"                  TOTAL NA DATA                                     560.059,50C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                     49.914,93C"
+December,"                  PARCELA DE IR                                     448.815,93C"
+December,"                  RETENCAO PASEP                                      4.987,29D"
+December,"                  RFB-PREV-PARC60                                     5.731,58D"
+December,"                  DEDUCAO FUNDEB                                     99.746,16D"
+December,"                  TOTAL NA DATA                                     388.265,83C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     23.627,20C"
+December,"                  PARCELA DE IR                                     319.670,45C"
+December,"                  RETENCAO PASEP                                      3.432,97D"
+December,"                  DEDUCAO FUNDEB                                     68.659,53D"
+December,"                  TOTAL NA DATA                                     271.205,15C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     20.622,85C"
+December,"                  PARCELA DE IR                                     413.337,55C"
+December,"                  RETENCAO PASEP                                      4.339,59D"
+December,"                  DEDUCAO FUNDEB                                     86.792,08D"
+December,"                  TOTAL NA DATA                                     342.828,73C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    138.170,38C"
+December,"                  PARCELA DE IR                                   1.703.535,19C"
+December,"                  RETENCAO PASEP                                     18.417,01D"
+December,"                  RFB-PREV-PARC60                                     5.731,58D"
+December,"                  DEDUCAO FUNDEB                                    255.197,77D"
+December,
+December,"                  DEBITO FUNDO                                      279.346,36D"
+December,"                  CREDITO FUNDO                                   1.841.705,57C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     279.346,36D"
+December,"                  CREDITO BENEF.                                  1.841.705,57C"

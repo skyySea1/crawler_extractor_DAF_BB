@@ -1,0 +1,516 @@
+Mes,NomeBeneficio,Valor
+January,SANTA TERESINHA                                   -PB
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                     55.285,20C"
+January,"                  PARCELA DE IR                                     509.425,01C"
+January,"                  RETENCAO PASEP                                      5.647,10D"
+January,"                  DEDUCAO SAUDE                                      84.706,53D"
+January,"                  DEDUCAO FUNDEB                                    112.942,04D"
+January,"                  TOTAL NA DATA                                     361.414,54C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     27.023,04C"
+January,"                  PARCELA DE IR                                     187.745,24C"
+January,"                  RETENCAO PASEP                                      2.147,68D"
+January,"                  DEDUCAO SAUDE                                      32.215,23D"
+January,"                  DEDUCAO FUNDEB                                     42.953,64D"
+January,"                  TOTAL NA DATA                                     137.451,73C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     14.724,69C"
+January,"                  PARCELA DE IR                                     485.621,58C"
+January,"                  RETENCAO PASEP                                      5.003,45D"
+January,"                  DEDUCAO SAUDE                                      75.051,93D"
+January,"                  DEDUCAO FUNDEB                                    100.069,24D"
+January,"                  TOTAL NA DATA                                     320.221,65C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                     97.032,93C"
+January,"                  PARCELA DE IR                                   1.182.791,83C"
+January,"                  RETENCAO PASEP                                     12.798,23D"
+January,"                  DEDUCAO SAUDE                                     191.973,69D"
+January,"                  DEDUCAO FUNDEB                                    255.964,92D"
+January,
+January,"                  DEBITO FUNDO                                      460.736,84D"
+January,"                  CREDITO FUNDO                                   1.279.824,76C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     460.736,84D"
+January,"                  CREDITO BENEF.                                  1.279.824,76C"
+February,SANTA TERESINHA                                   -PB
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                     52.068,30C"
+February,"                  PARCELA DE IR                                   1.227.863,47C"
+February,"                  RETENCAO PASEP                                     12.799,31D"
+February,"                  DEDUCAO SAUDE                                     191.989,76D"
+February,"                  DEDUCAO FUNDEB                                    255.986,35D"
+February,"                  TOTAL NA DATA                                     819.156,35C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                      9.462,61C"
+February,"                  PARCELA DE IR                                     113.750,42C"
+February,"                  RETENCAO PASEP                                      1.232,12D"
+February,"                  DEDUCAO SAUDE                                      18.481,95D"
+February,"                  DEDUCAO FUNDEB                                     24.642,60D"
+February,"                  TOTAL NA DATA                                      78.856,36C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                      6.953,68C"
+February,"                  PARCELA DE IR                                     298.568,27C"
+February,"                  RETENCAO PASEP                                      3.055,21D"
+February,"                  DEDUCAO SAUDE                                      45.828,29D"
+February,"                  DEDUCAO FUNDEB                                     61.104,38D"
+February,"                  TOTAL NA DATA                                     195.534,07C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                     68.484,59C"
+February,"                  PARCELA DE IR                                   1.640.182,16C"
+February,"                  RETENCAO PASEP                                     17.086,64D"
+February,"                  DEDUCAO SAUDE                                     256.300,00D"
+February,"                  DEDUCAO FUNDEB                                    341.733,33D"
+February,
+February,"                  DEBITO FUNDO                                      615.119,97D"
+February,"                  CREDITO FUNDO                                   1.708.666,75C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                     615.119,97D"
+February,"                  CREDITO BENEF.                                  1.708.666,75C"
+March,SANTA TERESINHA                                   -PB
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                     58.728,80C"
+March,"                  PARCELA DE IR                                     477.115,32C"
+March,"                  RETENCAO PASEP                                      5.358,43D"
+March,"                  DEDUCAO SAUDE                                      80.376,61D"
+March,"                  DEDUCAO FUNDEB                                    107.168,82D"
+March,"                  TOTAL NA DATA                                     342.940,26C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     11.804,90C"
+March,"                  PARCELA DE IR                                     106.314,99C"
+March,"                  RETENCAO PASEP                                      1.181,18D"
+March,"                  DEDUCAO SAUDE                                      17.717,97D"
+March,"                  DEDUCAO FUNDEB                                     23.623,97D"
+March,"                  TOTAL NA DATA                                      75.596,77C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     14.340,16C"
+March,"                  PARCELA DE IR                                     376.965,67C"
+March,"                  RETENCAO PASEP                                      3.913,05D"
+March,"                  DEDUCAO SAUDE                                      58.695,87D"
+March,"                  DEDUCAO FUNDEB                                     78.261,16D"
+March,"                  TOTAL NA DATA                                     250.435,75C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                     84.873,86C"
+March,"                  PARCELA DE IR                                     960.395,98C"
+March,"                  RETENCAO PASEP                                     10.452,66D"
+March,"                  DEDUCAO SAUDE                                     156.790,45D"
+March,"                  DEDUCAO FUNDEB                                    209.053,95D"
+March,
+March,"                  DEBITO FUNDO                                      376.297,06D"
+March,"                  CREDITO FUNDO                                   1.045.269,84C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     376.297,06D"
+March,"                  CREDITO BENEF.                                  1.045.269,84C"
+April,SANTA TERESINHA                                   -PB
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                     66.800,77C"
+April,"                  PARCELA DE IR                                     511.174,25C"
+April,"                  RETENCAO PASEP                                      5.779,74D"
+April,"                  DEDUCAO SAUDE                                      86.696,24D"
+April,"                  DEDUCAO FUNDEB                                    115.595,00D"
+April,"                  TOTAL NA DATA                                     369.904,04C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     10.530,79C"
+April,"                  PARCELA DE IR                                     137.859,13C"
+April,"                  RETENCAO PASEP                                      1.483,89D"
+April,"                  DEDUCAO SAUDE                                      22.258,47D"
+April,"                  DEDUCAO FUNDEB                                     29.677,97D"
+April,"                  TOTAL NA DATA                                      94.969,59C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     13.150,07C"
+April,"                  PARCELA DE IR                                     455.554,62C"
+April,"                  RETENCAO PASEP                                      4.687,04D"
+April,"                  DEDUCAO SAUDE                                      70.305,70D"
+April,"                  DEDUCAO FUNDEB                                     93.740,93D"
+April,"                  TOTAL NA DATA                                     299.971,02C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                     90.481,63C"
+April,"                  PARCELA DE IR                                   1.104.588,00C"
+April,"                  RETENCAO PASEP                                     11.950,67D"
+April,"                  DEDUCAO SAUDE                                     179.260,41D"
+April,"                  DEDUCAO FUNDEB                                    239.013,90D"
+April,
+April,"                  DEBITO FUNDO                                      430.224,98D"
+April,"                  CREDITO FUNDO                                   1.195.069,63C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     430.224,98D"
+April,"                  CREDITO BENEF.                                  1.195.069,63C"
+May,SANTA TERESINHA                                   -PB
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                     55.696,14C"
+May,"                  PARCELA DE IR                                     726.759,30C"
+May,"                  RETENCAO PASEP                                      7.824,55D"
+May,"                  DEDUCAO SAUDE                                     117.368,31D"
+May,"                  DEDUCAO FUNDEB                                    156.491,08D"
+May,"                  TOTAL NA DATA                                     500.771,50C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     15.755,05C"
+May,"                  PARCELA DE IR                                     138.835,38C"
+May,"                  RETENCAO PASEP                                      1.545,90D"
+May,"                  DEDUCAO SAUDE                                      23.188,55D"
+May,"                  DEDUCAO FUNDEB                                     30.918,08D"
+May,"                  TOTAL NA DATA                                      98.937,90C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                      9.915,19C"
+May,"                  PARCELA DE IR                                     381.550,69C"
+May,"                  RETENCAO PASEP                                      3.914,65D"
+May,"                  DEDUCAO SAUDE                                      58.719,87D"
+May,"                  DEDUCAO FUNDEB                                     78.293,16D"
+May,"                  TOTAL NA DATA                                     250.538,20C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                     81.366,38C"
+May,"                  PARCELA DE IR                                   1.247.145,37C"
+May,"                  RETENCAO PASEP                                     13.285,10D"
+May,"                  DEDUCAO SAUDE                                     199.276,73D"
+May,"                  DEDUCAO FUNDEB                                    265.702,32D"
+May,
+May,"                  DEBITO FUNDO                                      478.264,15D"
+May,"                  CREDITO FUNDO                                   1.328.511,75C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     478.264,15D"
+May,"                  CREDITO BENEF.                                  1.328.511,75C"
+June,SANTA TERESINHA                                   -PB
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                     68.715,82C"
+June,"                  PARCELA DE IR                                     476.150,54C"
+June,"                  RETENCAO PASEP                                      5.448,65D"
+June,"                  DEDUCAO SAUDE                                      81.729,95D"
+June,"                  DEDUCAO FUNDEB                                    108.973,26D"
+June,"                  TOTAL NA DATA                                     348.714,50C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     17.257,94C"
+June,"                  PARCELA DE IR                                     297.474,80C"
+June,"                  RETENCAO PASEP                                      3.147,31D"
+June,"                  DEDUCAO SAUDE                                      47.209,91D"
+June,"                  DEDUCAO FUNDEB                                     62.946,54D"
+June,"                  TOTAL NA DATA                                     201.428,98C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     15.487,97C"
+June,"                  PARCELA DE IR                                     365.732,95C"
+June,"                  RETENCAO PASEP                                      3.812,19D"
+June,"                  DEDUCAO SAUDE                                      57.183,13D"
+June,"                  DEDUCAO FUNDEB                                     76.244,18D"
+June,"                  TOTAL NA DATA                                     243.981,42C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    101.461,73C"
+June,"                  PARCELA DE IR                                   1.139.358,29C"
+June,"                  RETENCAO PASEP                                     12.408,15D"
+June,"                  DEDUCAO SAUDE                                     186.122,99D"
+June,"                  DEDUCAO FUNDEB                                    248.163,98D"
+June,
+June,"                  DEBITO FUNDO                                      446.695,12D"
+June,"                  CREDITO FUNDO                                   1.240.820,02C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     446.695,12D"
+June,"                  CREDITO BENEF.                                  1.240.820,02C"
+July,SANTA TERESINHA                                   -PB
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    113.649,52C"
+July,"                  PARCELA DE IR                                     920.498,55C"
+July,"                  AJ DED FUNDEB                                       2.025,76C"
+July,"                  AJ DED PASEP                                          101,29C"
+July,"                  RETENCAO PASEP                                     10.341,46D"
+July,"                  DEDUCAO SAUDE                                      59.544,58D"
+July,"                  DEDUCAO FUNDEB                                     79.392,77D"
+July,"                  AJUSTE FPM                                         10.128,84D"
+July,"                  TOTAL NA DATA                                     876.867,47C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     17.474,80C"
+July,"                  PARCELA DE IR                                     123.383,03C"
+July,"                  RETENCAO PASEP                                      1.408,57D"
+July,"                  RFB-RET DARF                                       12.692,17D"
+July,"                  DEDUCAO SAUDE                                      21.128,67D"
+July,"                  DEDUCAO FUNDEB                                     28.171,56D"
+July,"                  TOTAL NA DATA                                      77.456,86C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                      8.745,26C"
+July,"                  PARCELA DE IR                                     376.456,36C"
+July,"                  RETENCAO PASEP                                      3.852,01D"
+July,"                  DEDUCAO SAUDE                                      57.780,23D"
+July,"                  DEDUCAO FUNDEB                                     77.040,32D"
+July,"                  TOTAL NA DATA                                     246.529,06C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    139.869,58C"
+July,"                  PARCELA DE IR                                   1.420.337,94C"
+July,"                  RETENCAO PASEP                                     15.602,04D"
+July,"                  RFB-RET DARF                                       12.692,17D"
+July,"                  DEDUCAO SAUDE                                     138.453,48D"
+July,"                  DEDUCAO FUNDEB                                    184.604,65D"
+July,"                  AJ DED FUNDEB                                       2.025,76C"
+July,"                  AJ DED PASEP                                          101,29C"
+July,"                  AJUSTE FPM                                         10.128,84D"
+July,
+July,"                  DEBITO FUNDO                                      361.481,18D"
+July,"                  CREDITO FUNDO                                   1.562.334,57C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     361.481,18D"
+July,"                  CREDITO BENEF.                                  1.562.334,57C"
+August,SANTA TERESINHA                                   -PB
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                     59.323,47C"
+August,"                  PARCELA DE IR                                     544.281,13C"
+August,"                  RETENCAO PASEP                                      6.036,04D"
+August,"                  DEDUCAO SAUDE                                      90.540,68D"
+August,"                  DEDUCAO FUNDEB                                    120.720,91D"
+August,"                  TOTAL NA DATA                                     386.306,97C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     14.268,28C"
+August,"                  PARCELA DE IR                                     123.495,99C"
+August,"                  RETENCAO PASEP                                      1.377,63D"
+August,"                  DEDUCAO SAUDE                                      20.664,63D"
+August,"                  DEDUCAO FUNDEB                                     27.552,84D"
+August,"                  TOTAL NA DATA                                      88.169,17C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                      8.289,73C"
+August,"                  PARCELA DE IR                                     310.571,73C"
+August,"                  RETENCAO PASEP                                      3.188,60D"
+August,"                  RFB-RET DARF                                       12.812,62D"
+August,"                  DEDUCAO SAUDE                                      47.829,20D"
+August,"                  DEDUCAO FUNDEB                                     63.772,28D"
+August,"                  TOTAL NA DATA                                     191.258,76C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                     81.881,48C"
+August,"                  PARCELA DE IR                                     978.348,85C"
+August,"                  RETENCAO PASEP                                     10.602,27D"
+August,"                  RFB-RET DARF                                       12.812,62D"
+August,"                  DEDUCAO SAUDE                                     159.034,51D"
+August,"                  DEDUCAO FUNDEB                                    212.046,03D"
+August,
+August,"                  DEBITO FUNDO                                      394.495,43D"
+August,"                  CREDITO FUNDO                                   1.060.230,33C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     394.495,43D"
+August,"                  CREDITO BENEF.                                  1.060.230,33C"
+September,SANTA TERESINHA                                   -PB
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                     80.624,31C"
+September,"                  PARCELA DE IR                                     467.223,10C"
+September,"                  RETENCAO PASEP                                      5.478,45D"
+September,"                  RFB-RET DARF                                       12.940,95D"
+September,"                  DEDUCAO SAUDE                                      58.519,79D"
+September,"                  DEDUCAO FUNDEB                                     78.026,39D"
+September,"                  TOTAL NA DATA                                     392.881,83C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     10.789,56C"
+September,"                  PARCELA DE IR                                      89.226,04C"
+September,"                  RETENCAO PASEP                                      1.000,15D"
+September,"                  DEDUCAO SAUDE                                      15.002,33D"
+September,"                  DEDUCAO FUNDEB                                     20.003,11D"
+September,"                  TOTAL NA DATA                                      64.010,01C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     26.758,44C"
+September,"                  PARCELA DE IR                                     406.175,95C"
+September,"                  RETENCAO PASEP                                      4.329,33D"
+September,"                  DEDUCAO SAUDE                                      64.940,15D"
+September,"                  DEDUCAO FUNDEB                                     86.586,87D"
+September,"                  TOTAL NA DATA                                     277.078,04C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    118.172,31C"
+September,"                  PARCELA DE IR                                     962.625,09C"
+September,"                  RETENCAO PASEP                                     10.807,93D"
+September,"                  RFB-RET DARF                                       12.940,95D"
+September,"                  DEDUCAO SAUDE                                     138.462,27D"
+September,"                  DEDUCAO FUNDEB                                    184.616,37D"
+September,
+September,"                  DEBITO FUNDO                                      346.827,52D"
+September,"                  CREDITO FUNDO                                   1.080.797,40C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     346.827,52D"
+September,"                  CREDITO BENEF.                                  1.080.797,40C"
+October,SANTA TERESINHA                                   -PB
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                     68.503,27C"
+October,"                  PARCELA DE IR                                     369.098,27C"
+October,"                  RETENCAO PASEP                                      4.376,01D"
+October,"                  RFB-RET DARF                                       13.050,14D"
+October,"                  DEDUCAO SAUDE                                      65.640,23D"
+October,"                  DEDUCAO FUNDEB                                     87.520,30D"
+October,"                  TOTAL NA DATA                                     267.014,86C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     31.279,55C"
+October,"                  PARCELA DE IR                                     138.207,25C"
+October,"                  RETENCAO PASEP                                      1.694,86D"
+October,"                  DEDUCAO SAUDE                                      25.423,01D"
+October,"                  DEDUCAO FUNDEB                                     33.897,36D"
+October,"                  TOTAL NA DATA                                     108.471,57C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     18.765,67C"
+October,"                  PARCELA DE IR                                     377.950,15C"
+October,"                  RETENCAO PASEP                                      3.967,15D"
+October,"                  DEDUCAO SAUDE                                      59.507,37D"
+October,"                  DEDUCAO FUNDEB                                     79.343,16D"
+October,"                  TOTAL NA DATA                                     253.898,14C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    118.548,49C"
+October,"                  PARCELA DE IR                                     885.255,67C"
+October,"                  RETENCAO PASEP                                     10.038,02D"
+October,"                  RFB-RET DARF                                       13.050,14D"
+October,"                  DEDUCAO SAUDE                                     150.570,61D"
+October,"                  DEDUCAO FUNDEB                                    200.760,82D"
+October,
+October,"                  DEBITO FUNDO                                      374.419,59D"
+October,"                  CREDITO FUNDO                                   1.003.804,16C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     374.419,59D"
+October,"                  CREDITO BENEF.                                  1.003.804,16C"
+November,SANTA TERESINHA                                   -PB
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                     57.318,27C"
+November,"                  PARCELA DE IR                                     718.503,24C"
+November,"                  RETENCAO PASEP                                      7.758,21D"
+November,"                  RFB-RET DARF                                       13.162,71D"
+November,"                  DEDUCAO SAUDE                                     116.373,22D"
+November,"                  DEDUCAO FUNDEB                                    155.164,29D"
+November,"                  TOTAL NA DATA                                     483.363,08C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     20.229,49C"
+November,"                  PARCELA DE IR                                     148.071,18C"
+November,"                  RETENCAO PASEP                                      1.683,00D"
+November,"                  DEDUCAO SAUDE                                      25.245,09D"
+November,"                  DEDUCAO FUNDEB                                     33.660,12D"
+November,"                  TOTAL NA DATA                                     107.712,46C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     19.587,94C"
+November,"                  PARCELA DE IR                                     338.690,10C"
+November,"                  RETENCAO PASEP                                      3.582,77D"
+November,"                  DEDUCAO SAUDE                                      53.741,70D"
+November,"                  DEDUCAO FUNDEB                                     71.655,60D"
+November,"                  TOTAL NA DATA                                     229.297,97C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                     97.135,70C"
+November,"                  PARCELA DE IR                                   1.205.264,52C"
+November,"                  RETENCAO PASEP                                     13.023,98D"
+November,"                  RFB-RET DARF                                       13.162,71D"
+November,"                  DEDUCAO SAUDE                                     195.360,01D"
+November,"                  DEDUCAO FUNDEB                                    260.480,01D"
+November,
+November,"                  DEBITO FUNDO                                      482.026,71D"
+November,"                  CREDITO FUNDO                                   1.302.400,22C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     482.026,71D"
+November,"                  CREDITO BENEF.                                  1.302.400,22C"
+December,SANTA TERESINHA                                   -PB
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                     49.419,68C"
+December,"                  PARCELA DE IR                                     585.900,88C"
+December,"                  RETENCAO PASEP                                      6.353,19D"
+December,"                  TOTAL NA DATA                                     628.967,37C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                     56.056,30C"
+December,"                  PARCELA DE IR                                     504.036,76C"
+December,"                  RETENCAO PASEP                                      5.600,92D"
+December,"                  RFB-RET DARF                                       13.266,28D"
+December,"                  DEDUCAO SAUDE                                      84.013,95D"
+December,"                  DEDUCAO FUNDEB                                    112.018,61D"
+December,"                  TOTAL NA DATA                                     345.193,30C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     26.534,22C"
+December,"                  PARCELA DE IR                                     359.001,64C"
+December,"                  RETENCAO PASEP                                      3.855,35D"
+December,"                  DEDUCAO SAUDE                                      57.830,37D"
+December,"                  DEDUCAO FUNDEB                                     77.107,16D"
+December,"                  TOTAL NA DATA                                     246.742,98C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     23.160,21C"
+December,"                  PARCELA DE IR                                     464.193,23C"
+December,"                  RETENCAO PASEP                                      4.873,53D"
+December,"                  DEDUCAO SAUDE                                      73.103,01D"
+December,"                  DEDUCAO FUNDEB                                     97.470,68D"
+December,"                  TOTAL NA DATA                                     311.906,22C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    155.170,41C"
+December,"                  PARCELA DE IR                                   1.913.132,51C"
+December,"                  RETENCAO PASEP                                     20.682,99D"
+December,"                  RFB-RET DARF                                       13.266,28D"
+December,"                  DEDUCAO SAUDE                                     214.947,33D"
+December,"                  DEDUCAO FUNDEB                                    286.596,45D"
+December,
+December,"                  DEBITO FUNDO                                      535.493,05D"
+December,"                  CREDITO FUNDO                                   2.068.302,92C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     535.493,05D"
+December,"                  CREDITO BENEF.                                  2.068.302,92C"

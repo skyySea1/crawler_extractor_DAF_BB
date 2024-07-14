@@ -1,0 +1,552 @@
+Mes,NomeBeneficio,Valor
+January,IRECE                                             -BA
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                    254.265,80C"
+January,"                  PARCELA DE IR                                   2.342.930,16C"
+January,"                  RETENCAO PASEP                                     25.971,95D"
+January,"                  RFB-PREV-PARC60                                    77.176,52D"
+January,"                  RFB-RET DARF                                       47.306,23D"
+January,"                  DEDUCAO SAUDE                                     389.579,39D"
+January,"                  DEDUCAO FUNDEB                                    519.439,19D"
+January,"                  TOTAL NA DATA                                   1.537.722,68C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                    125.936,80C"
+January,"                  PARCELA DE IR                                     874.958,44C"
+January,"                  RETENCAO PASEP                                     10.008,94D"
+January,"                  DEDUCAO SAUDE                                     150.134,28D"
+January,"                  DEDUCAO FUNDEB                                    200.179,04D"
+January,"                  TOTAL NA DATA                                     640.572,98C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     67.000,14C"
+January,"                  PARCELA DE IR                                   2.209.670,32C"
+January,"                  RETENCAO PASEP                                     22.766,70D"
+January,"                  DEDUCAO SAUDE                                     341.500,56D"
+January,"                  DEDUCAO FUNDEB                                    455.334,08D"
+January,"                  TOTAL NA DATA                                   1.457.069,12C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    447.202,74C"
+January,"                  PARCELA DE IR                                   5.427.558,92C"
+January,"                  RETENCAO PASEP                                     58.747,59D"
+January,"                  RFB-PREV-PARC60                                    77.176,52D"
+January,"                  RFB-RET DARF                                       47.306,23D"
+January,"                  DEDUCAO SAUDE                                     881.214,23D"
+January,"                  DEDUCAO FUNDEB                                  1.174.952,31D"
+January,
+January,"                  DEBITO FUNDO                                    2.239.396,88D"
+January,"                  CREDITO FUNDO                                   5.874.761,66C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                   2.239.396,88D"
+January,"                  CREDITO BENEF.                                  5.874.761,66C"
+February,IRECE                                             -BA
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                    236.920,66C"
+February,"                  PARCELA DE IR                                   5.587.011,74C"
+February,"                  RETENCAO PASEP                                     58.239,31D"
+February,"                  RFB-PREV-PARC60                                    77.176,52D"
+February,"                  RFB-RET DARF                                       47.306,23D"
+February,"                  DEDUCAO SAUDE                                     873.589,85D"
+February,"                  DEDUCAO FUNDEB                                  1.164.786,47D"
+February,"                  TOTAL NA DATA                                   3.602.834,02C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     43.056,65C"
+February,"                  PARCELA DE IR                                     517.585,99C"
+February,"                  RETENCAO PASEP                                      5.606,41D"
+February,"                  DEDUCAO SAUDE                                      84.096,38D"
+February,"                  DEDUCAO FUNDEB                                    112.128,52D"
+February,"                  TOTAL NA DATA                                     358.811,33C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     31.640,58C"
+February,"                  PARCELA DE IR                                   1.358.542,28C"
+February,"                  RETENCAO PASEP                                     13.901,82D"
+February,"                  DEDUCAO SAUDE                                     208.527,42D"
+February,"                  DEDUCAO FUNDEB                                    278.036,56D"
+February,"                  TOTAL NA DATA                                     889.717,06C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    311.617,89C"
+February,"                  PARCELA DE IR                                   7.463.140,01C"
+February,"                  RETENCAO PASEP                                     77.747,54D"
+February,"                  RFB-PREV-PARC60                                    77.176,52D"
+February,"                  RFB-RET DARF                                       47.306,23D"
+February,"                  DEDUCAO SAUDE                                   1.166.213,65D"
+February,"                  DEDUCAO FUNDEB                                  1.554.951,55D"
+February,
+February,"                  DEBITO FUNDO                                    2.923.395,49D"
+February,"                  CREDITO FUNDO                                   7.774.757,90C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                   2.923.395,49D"
+February,"                  CREDITO BENEF.                                  7.774.757,90C"
+March,IRECE                                             -BA
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                    267.227,17C"
+March,"                  PARCELA DE IR                                   2.170.965,24C"
+March,"                  RETENCAO PASEP                                     24.381,92D"
+March,"                  RFB-PREV-PARC60                                    77.176,52D"
+March,"                  RFB-RET DARF                                       47.306,23D"
+March,"                  DEDUCAO SAUDE                                     365.728,85D"
+March,"                  DEDUCAO FUNDEB                                    487.638,47D"
+March,"                  TOTAL NA DATA                                   1.435.960,42C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     53.714,54C"
+March,"                  PARCELA DE IR                                     483.753,36C"
+March,"                  RETENCAO PASEP                                      5.374,67D"
+March,"                  DEDUCAO SAUDE                                      80.620,18D"
+March,"                  DEDUCAO FUNDEB                                    107.493,57D"
+March,"                  TOTAL NA DATA                                     343.979,48C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     65.250,45C"
+March,"                  PARCELA DE IR                                   1.715.265,32C"
+March,"                  RETENCAO PASEP                                     17.805,15D"
+March,"                  DEDUCAO SAUDE                                     267.077,35D"
+March,"                  DEDUCAO FUNDEB                                    356.103,15D"
+March,"                  TOTAL NA DATA                                   1.139.530,12C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    386.192,16C"
+March,"                  PARCELA DE IR                                   4.369.983,92C"
+March,"                  RETENCAO PASEP                                     47.561,74D"
+March,"                  RFB-PREV-PARC60                                    77.176,52D"
+March,"                  RFB-RET DARF                                       47.306,23D"
+March,"                  DEDUCAO SAUDE                                     713.426,38D"
+March,"                  DEDUCAO FUNDEB                                    951.235,19D"
+March,
+March,"                  DEBITO FUNDO                                    1.836.706,06D"
+March,"                  CREDITO FUNDO                                   4.756.176,08C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                   1.836.706,06D"
+March,"                  CREDITO BENEF.                                  4.756.176,08C"
+April,IRECE                                             -BA
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    303.956,17C"
+April,"                  PARCELA DE IR                                   2.325.939,80C"
+April,"                  RETENCAO PASEP                                     26.298,95D"
+April,"                  RFB-PREV-PARC60                                    81.425,13D"
+April,"                  RFB-RET DARF                                       47.306,23D"
+April,"                  DEDUCAO SAUDE                                     394.484,39D"
+April,"                  DEDUCAO FUNDEB                                    525.979,19D"
+April,"                  TOTAL NA DATA                                   1.554.402,08C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     47.917,07C"
+April,"                  PARCELA DE IR                                     627.285,19C"
+April,"                  RETENCAO PASEP                                      6.752,02D"
+April,"                  DEDUCAO SAUDE                                     101.280,33D"
+April,"                  DEDUCAO FUNDEB                                    135.040,44D"
+April,"                  TOTAL NA DATA                                     432.129,47C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     59.835,33C"
+April,"                  PARCELA DE IR                                   2.072.859,95C"
+April,"                  RETENCAO PASEP                                     21.326,94D"
+April,"                  DEDUCAO SAUDE                                     319.904,28D"
+April,"                  DEDUCAO FUNDEB                                    426.539,05D"
+April,"                  TOTAL NA DATA                                   1.364.925,01C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    411.708,57C"
+April,"                  PARCELA DE IR                                   5.026.084,94C"
+April,"                  RETENCAO PASEP                                     54.377,91D"
+April,"                  RFB-PREV-PARC60                                    81.425,13D"
+April,"                  RFB-RET DARF                                       47.306,23D"
+April,"                  DEDUCAO SAUDE                                     815.669,00D"
+April,"                  DEDUCAO FUNDEB                                  1.087.558,68D"
+April,
+April,"                  DEBITO FUNDO                                    2.086.336,95D"
+April,"                  CREDITO FUNDO                                   5.437.793,51C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                   2.086.336,95D"
+April,"                  CREDITO BENEF.                                  5.437.793,51C"
+May,IRECE                                             -BA
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                    253.428,01C"
+May,"                  PARCELA DE IR                                   3.306.892,68C"
+May,"                  RETENCAO PASEP                                     35.603,20D"
+May,"                  RFB-PREV-PARC60                                    81.425,13D"
+May,"                  RFB-RET DARF                                       47.306,23D"
+May,"                  DEDUCAO SAUDE                                     534.048,10D"
+May,"                  DEDUCAO FUNDEB                                    712.064,13D"
+May,"                  TOTAL NA DATA                                   2.149.873,90C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     71.688,44C"
+May,"                  PARCELA DE IR                                     631.727,30C"
+May,"                  RETENCAO PASEP                                      7.034,15D"
+May,"                  DEDUCAO SAUDE                                     105.512,35D"
+May,"                  DEDUCAO FUNDEB                                    140.683,14D"
+May,"                  TOTAL NA DATA                                     450.186,10C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     45.116,02C"
+May,"                  PARCELA DE IR                                   1.736.128,03C"
+May,"                  RETENCAO PASEP                                     17.812,44D"
+May,"                  DEDUCAO SAUDE                                     267.186,60D"
+May,"                  DEDUCAO FUNDEB                                    356.248,80D"
+May,"                  TOTAL NA DATA                                   1.139.996,21C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    370.232,47C"
+May,"                  PARCELA DE IR                                   5.674.748,01C"
+May,"                  RETENCAO PASEP                                     60.449,79D"
+May,"                  RFB-PREV-PARC60                                    81.425,13D"
+May,"                  RFB-RET DARF                                       47.306,23D"
+May,"                  DEDUCAO SAUDE                                     906.747,05D"
+May,"                  DEDUCAO FUNDEB                                  1.208.996,07D"
+May,
+May,"                  DEBITO FUNDO                                    2.304.924,27D"
+May,"                  CREDITO FUNDO                                   6.044.980,48C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                   2.304.924,27D"
+May,"                  CREDITO BENEF.                                  6.044.980,48C"
+June,IRECE                                             -BA
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    312.670,01C"
+June,"                  PARCELA DE IR                                   2.166.575,29C"
+June,"                  RETENCAO PASEP                                     24.792,45D"
+June,"                  RFB-PREV-PARC60                                    96.646,26D"
+June,"                  RFB-RET DARF                                       57.263,92D"
+June,"                  DEDUCAO SAUDE                                     371.886,79D"
+June,"                  DEDUCAO FUNDEB                                    495.849,05D"
+June,"                  TOTAL NA DATA                                   1.432.806,83C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     78.526,89C"
+June,"                  PARCELA DE IR                                   1.353.566,77C"
+June,"                  RETENCAO PASEP                                     14.320,92D"
+June,"                  DEDUCAO SAUDE                                     214.814,04D"
+June,"                  DEDUCAO FUNDEB                                    286.418,72D"
+June,"                  TOTAL NA DATA                                     916.539,98C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     70.473,18C"
+June,"                  PARCELA DE IR                                   1.664.154,31C"
+June,"                  RETENCAO PASEP                                     17.346,27D"
+June,"                  DEDUCAO SAUDE                                     260.194,11D"
+June,"                  DEDUCAO FUNDEB                                    346.925,49D"
+June,"                  TOTAL NA DATA                                   1.110.161,62C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    461.670,08C"
+June,"                  PARCELA DE IR                                   5.184.296,37C"
+June,"                  RETENCAO PASEP                                     56.459,64D"
+June,"                  RFB-PREV-PARC60                                    96.646,26D"
+June,"                  RFB-RET DARF                                       57.263,92D"
+June,"                  DEDUCAO SAUDE                                     846.894,94D"
+June,"                  DEDUCAO FUNDEB                                  1.129.193,26D"
+June,
+June,"                  DEBITO FUNDO                                    2.186.458,02D"
+June,"                  CREDITO FUNDO                                   5.645.966,45C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                   2.186.458,02D"
+June,"                  CREDITO BENEF.                                  5.645.966,45C"
+July,IRECE                                             -BA
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    513.211,60C"
+July,"                  PARCELA DE IR                                   4.156.731,31C"
+July,"                  AJ DED FUNDEB                                      19.480,86C"
+July,"                  AJ DED PASEP                                          974,04C"
+July,"                  RETENCAO PASEP                                     46.699,42D"
+July,"                  RFB-PREV-PARC60                                    96.646,26D"
+July,"                  RFB-RET DARF                                       57.263,92D"
+July,"                  DEDUCAO SAUDE                                     268.887,80D"
+July,"                  DEDUCAO FUNDEB                                    358.517,07D"
+July,"                  AJUSTE FPM                                         97.404,33D"
+July,"                  TOTAL NA DATA                                   3.764.979,01C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     78.911,63C"
+July,"                  PARCELA DE IR                                     557.165,57C"
+July,"                  RETENCAO PASEP                                      6.360,76D"
+July,"                  DEDUCAO SAUDE                                      95.411,57D"
+July,"                  DEDUCAO FUNDEB                                    127.215,43D"
+July,"                  TOTAL NA DATA                                     407.089,44C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     39.491,33C"
+July,"                  PARCELA DE IR                                   1.699.978,70C"
+July,"                  RETENCAO PASEP                                     17.394,69D"
+July,"                  DEDUCAO SAUDE                                     260.920,49D"
+July,"                  DEDUCAO FUNDEB                                    347.894,00D"
+July,"                  TOTAL NA DATA                                   1.113.260,85C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    631.614,56C"
+July,"                  PARCELA DE IR                                   6.413.875,58C"
+July,"                  RETENCAO PASEP                                     70.454,87D"
+July,"                  RFB-PREV-PARC60                                    96.646,26D"
+July,"                  RFB-RET DARF                                       57.263,92D"
+July,"                  DEDUCAO SAUDE                                     625.219,86D"
+July,"                  DEDUCAO FUNDEB                                    833.626,50D"
+July,"                  AJ DED FUNDEB                                      19.480,86C"
+July,"                  AJ DED PASEP                                          974,04C"
+July,"                  AJUSTE FPM                                         97.404,33D"
+July,
+July,"                  DEBITO FUNDO                                    1.780.615,74D"
+July,"                  CREDITO FUNDO                                   7.065.945,04C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                   1.780.615,74D"
+July,"                  CREDITO BENEF.                                  7.065.945,04C"
+August,IRECE                                             -BA
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                    267.889,30C"
+August,"                  PARCELA DE IR                                   2.457.831,60C"
+August,"                  RETENCAO PASEP                                     27.257,20D"
+August,"                  RFB-PREV-PARC60                                    96.646,26D"
+August,"                  RFB-RET DARF                                       57.263,92D"
+August,"                  DEDUCAO SAUDE                                     408.858,13D"
+August,"                  DEDUCAO FUNDEB                                    545.144,18D"
+August,"                  TOTAL NA DATA                                   1.590.551,21C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     64.431,84C"
+August,"                  PARCELA DE IR                                     557.675,66C"
+August,"                  RETENCAO PASEP                                      6.221,06D"
+August,"                  DEDUCAO SAUDE                                      93.316,11D"
+August,"                  DEDUCAO FUNDEB                                    124.421,49D"
+August,"                  TOTAL NA DATA                                     398.148,84C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     37.434,26C"
+August,"                  PARCELA DE IR                                   1.402.460,90C"
+August,"                  RETENCAO PASEP                                     14.398,94D"
+August,"                  DEDUCAO SAUDE                                     215.984,26D"
+August,"                  DEDUCAO FUNDEB                                    287.979,03D"
+August,"                  TOTAL NA DATA                                     921.532,93C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    369.755,40C"
+August,"                  PARCELA DE IR                                   4.417.968,16C"
+August,"                  RETENCAO PASEP                                     47.877,20D"
+August,"                  RFB-PREV-PARC60                                    96.646,26D"
+August,"                  RFB-RET DARF                                       57.263,92D"
+August,"                  DEDUCAO SAUDE                                     718.158,50D"
+August,"                  DEDUCAO FUNDEB                                    957.544,70D"
+August,
+August,"                  DEBITO FUNDO                                    1.877.490,58D"
+August,"                  CREDITO FUNDO                                   4.787.723,56C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                   1.877.490,58D"
+August,"                  CREDITO BENEF.                                  4.787.723,56C"
+September,IRECE                                             -BA
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    364.078,37C"
+September,"                  PARCELA DE IR                                   2.109.857,61C"
+September,"                  RETENCAO PASEP                                     24.739,33D"
+September,"                  RFB-PREV-PARC60                                    96.646,26D"
+September,"                  RFB-RET DARF                                       57.263,92D"
+September,"                  DEDUCAO SAUDE                                     264.260,14D"
+September,"                  DEDUCAO FUNDEB                                    352.346,86D"
+September,"                  TOTAL NA DATA                                   1.678.679,47C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     48.722,82C"
+September,"                  PARCELA DE IR                                     402.921,51C"
+September,"                  RETENCAO PASEP                                      4.516,43D"
+September,"                  DEDUCAO SAUDE                                      67.746,64D"
+September,"                  DEDUCAO FUNDEB                                     90.328,86D"
+September,"                  TOTAL NA DATA                                     289.052,40C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                    120.834,13C"
+September,"                  PARCELA DE IR                                   1.834.184,63C"
+September,"                  RETENCAO PASEP                                     19.550,18D"
+September,"                  DEDUCAO SAUDE                                     293.252,80D"
+September,"                  DEDUCAO FUNDEB                                    391.003,74D"
+September,"                  TOTAL NA DATA                                   1.251.212,04C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    533.635,32C"
+September,"                  PARCELA DE IR                                   4.346.963,75C"
+September,"                  RETENCAO PASEP                                     48.805,94D"
+September,"                  RFB-PREV-PARC60                                    96.646,26D"
+September,"                  RFB-RET DARF                                       57.263,92D"
+September,"                  DEDUCAO SAUDE                                     625.259,58D"
+September,"                  DEDUCAO FUNDEB                                    833.679,46D"
+September,
+September,"                  DEBITO FUNDO                                    1.661.655,16D"
+September,"                  CREDITO FUNDO                                   4.880.599,07C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                   1.661.655,16D"
+September,"                  CREDITO BENEF.                                  4.880.599,07C"
+October,IRECE                                             -BA
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    309.342,89C"
+October,"                  PARCELA DE IR                                   1.666.751,51C"
+October,"                  RETENCAO PASEP                                     19.760,93D"
+October,"                  RFB-PREV-PARC60                                    96.646,26D"
+October,"                  RFB-RET DARF                                       57.263,92D"
+October,"                  DEDUCAO SAUDE                                     296.414,15D"
+October,"                  DEDUCAO FUNDEB                                    395.218,87D"
+October,"                  TOTAL NA DATA                                   1.110.790,27C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                    141.250,27C"
+October,"                  PARCELA DE IR                                     624.107,90C"
+October,"                  RETENCAO PASEP                                      7.653,57D"
+October,"                  DEDUCAO SAUDE                                     114.803,72D"
+October,"                  DEDUCAO FUNDEB                                    153.071,63D"
+October,"                  TOTAL NA DATA                                     489.829,25C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     84.740,86C"
+October,"                  PARCELA DE IR                                   1.706.724,26C"
+October,"                  RETENCAO PASEP                                     17.914,64D"
+October,"                  DEDUCAO SAUDE                                     268.719,75D"
+October,"                  DEDUCAO FUNDEB                                    358.293,02D"
+October,"                  TOTAL NA DATA                                   1.146.537,71C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    535.334,02C"
+October,"                  PARCELA DE IR                                   3.997.583,67C"
+October,"                  RETENCAO PASEP                                     45.329,14D"
+October,"                  RFB-PREV-PARC60                                    96.646,26D"
+October,"                  RFB-RET DARF                                       57.263,92D"
+October,"                  DEDUCAO SAUDE                                     679.937,62D"
+October,"                  DEDUCAO FUNDEB                                    906.583,52D"
+October,
+October,"                  DEBITO FUNDO                                    1.785.760,46D"
+October,"                  CREDITO FUNDO                                   4.532.917,69C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                   1.785.760,46D"
+October,"                  CREDITO BENEF.                                  4.532.917,69C"
+November,IRECE                                             -BA
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                    258.834,33C"
+November,"                  PARCELA DE IR                                   3.244.573,17C"
+November,"                  RETENCAO PASEP                                     35.034,07D"
+November,"                  RFB-PREV-PARC60                                    96.646,26D"
+November,"                  RFB-RET DARF                                       57.263,92D"
+November,"                  DEDUCAO SAUDE                                     525.511,11D"
+November,"                  DEDUCAO FUNDEB                                    700.681,49D"
+November,"                  TOTAL NA DATA                                   2.088.270,65C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     91.351,09C"
+November,"                  PARCELA DE IR                                     668.650,83C"
+November,"                  RETENCAO PASEP                                      7.600,01D"
+November,"                  DEDUCAO SAUDE                                     114.000,28D"
+November,"                  DEDUCAO FUNDEB                                    152.000,37D"
+November,"                  TOTAL NA DATA                                     486.401,26C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     88.454,01C"
+November,"                  PARCELA DE IR                                   1.529.436,12C"
+November,"                  RETENCAO PASEP                                     16.178,90D"
+November,"                  DEDUCAO SAUDE                                     242.683,51D"
+November,"                  DEDUCAO FUNDEB                                    323.578,02D"
+November,"                  TOTAL NA DATA                                   1.035.449,70C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    438.639,43C"
+November,"                  PARCELA DE IR                                   5.442.660,12C"
+November,"                  RETENCAO PASEP                                     58.812,98D"
+November,"                  RFB-PREV-PARC60                                    96.646,26D"
+November,"                  RFB-RET DARF                                       57.263,92D"
+November,"                  DEDUCAO SAUDE                                     882.194,90D"
+November,"                  DEDUCAO FUNDEB                                  1.176.259,88D"
+November,
+November,"                  DEBITO FUNDO                                    2.271.177,94D"
+November,"                  CREDITO FUNDO                                   5.881.299,55C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                   2.271.177,94D"
+November,"                  CREDITO BENEF.                                  5.881.299,55C"
+December,IRECE                                             -BA
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                    223.166,39C"
+December,"                  PARCELA DE IR                                   2.645.775,53C"
+December,"                  RETENCAO PASEP                                     28.689,41D"
+December,"                  TOTAL NA DATA                                   2.840.252,51C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                    253.135,61C"
+December,"                  PARCELA DE IR                                   2.276.098,50C"
+December,"                  RETENCAO PASEP                                     25.292,33D"
+December,"                  RFB-PREV-PARC60                                    96.646,26D"
+December,"                  RFB-RET DARF                                       57.263,92D"
+December,"                  DEDUCAO SAUDE                                     379.385,11D"
+December,"                  DEDUCAO FUNDEB                                    505.846,82D"
+December,"                  TOTAL NA DATA                                   1.464.799,67C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                    119.821,60C"
+December,"                  PARCELA DE IR                                   1.621.157,75C"
+December,"                  RETENCAO PASEP                                     17.409,78D"
+December,"                  DEDUCAO SAUDE                                     261.146,90D"
+December,"                  DEDUCAO FUNDEB                                    348.195,87D"
+December,"                  TOTAL NA DATA                                   1.114.226,80C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                    104.585,48C"
+December,"                  PARCELA DE IR                                   2.096.175,53C"
+December,"                  RETENCAO PASEP                                     22.007,60D"
+December,"                  DEDUCAO SAUDE                                     330.114,14D"
+December,"                  DEDUCAO FUNDEB                                    440.152,19D"
+December,"                  TOTAL NA DATA                                   1.408.487,08C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    700.709,08C"
+December,"                  PARCELA DE IR                                   8.639.207,31C"
+December,"                  RETENCAO PASEP                                     93.399,12D"
+December,"                  RFB-PREV-PARC60                                    96.646,26D"
+December,"                  RFB-RET DARF                                       57.263,92D"
+December,"                  DEDUCAO SAUDE                                     970.646,15D"
+December,"                  DEDUCAO FUNDEB                                  1.294.194,88D"
+December,
+December,"                  DEBITO FUNDO                                    2.512.150,33D"
+December,"                  CREDITO FUNDO                                   9.339.916,39C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                   2.512.150,33D"
+December,"                  CREDITO BENEF.                                  9.339.916,39C"

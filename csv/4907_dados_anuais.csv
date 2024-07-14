@@ -1,0 +1,510 @@
+Mes,NomeBeneficio,Valor
+January,MILAGRES                                          -CE
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                    133.686,52C"
+January,"                  PARCELA DE IR                                   1.231.853,39C"
+January,"                  RETENCAO PASEP                                     13.655,39D"
+January,"                  DEDUCAO SAUDE                                     204.830,97D"
+January,"                  DEDUCAO FUNDEB                                    273.107,97D"
+January,"                  TOTAL NA DATA                                     873.945,58C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     64.678,04C"
+January,"                  PARCELA DE IR                                     449.357,10C"
+January,"                  RETENCAO PASEP                                      5.140,35D"
+January,"                  DEDUCAO SAUDE                                      77.105,26D"
+January,"                  DEDUCAO FUNDEB                                    102.807,02D"
+January,"                  TOTAL NA DATA                                     328.982,51C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     35.594,31C"
+January,"                  PARCELA DE IR                                   1.173.903,37C"
+January,"                  RETENCAO PASEP                                     12.094,97D"
+January,"                  DEDUCAO SAUDE                                     181.424,64D"
+January,"                  DEDUCAO FUNDEB                                    241.899,53D"
+January,"                  TOTAL NA DATA                                     774.078,54C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    233.958,87C"
+January,"                  PARCELA DE IR                                   2.855.113,86C"
+January,"                  RETENCAO PASEP                                     30.890,71D"
+January,"                  DEDUCAO SAUDE                                     463.360,87D"
+January,"                  DEDUCAO FUNDEB                                    617.814,52D"
+January,
+January,"                  DEBITO FUNDO                                    1.112.066,10D"
+January,"                  CREDITO FUNDO                                   3.089.072,73C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                   1.112.066,10D"
+January,"                  CREDITO BENEF.                                  3.089.072,73C"
+February,MILAGRES                                          -CE
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                    125.865,82C"
+February,"                  PARCELA DE IR                                   2.968.140,48C"
+February,"                  RETENCAO PASEP                                     30.940,05D"
+February,"                  DEDUCAO SAUDE                                     464.100,94D"
+February,"                  DEDUCAO FUNDEB                                    618.801,25D"
+February,"                  TOTAL NA DATA                                   1.980.164,06C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     22.874,16C"
+February,"                  PARCELA DE IR                                     274.971,31C"
+February,"                  RETENCAO PASEP                                      2.978,45D"
+February,"                  DEDUCAO SAUDE                                      44.676,81D"
+February,"                  DEDUCAO FUNDEB                                     59.569,09D"
+February,"                  TOTAL NA DATA                                     190.621,12C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     16.809,29C"
+February,"                  PARCELA DE IR                                     721.735,43C"
+February,"                  RETENCAO PASEP                                      7.385,44D"
+February,"                  DEDUCAO SAUDE                                     110.781,70D"
+February,"                  DEDUCAO FUNDEB                                    147.708,93D"
+February,"                  TOTAL NA DATA                                     472.668,65C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    165.549,27C"
+February,"                  PARCELA DE IR                                   3.964.847,22C"
+February,"                  RETENCAO PASEP                                     41.303,94D"
+February,"                  DEDUCAO SAUDE                                     619.559,45D"
+February,"                  DEDUCAO FUNDEB                                    826.079,27D"
+February,
+February,"                  DEBITO FUNDO                                    1.486.942,66D"
+February,"                  CREDITO FUNDO                                   4.130.396,49C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                   1.486.942,66D"
+February,"                  CREDITO BENEF.                                  4.130.396,49C"
+March,MILAGRES                                          -CE
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                    141.966,37C"
+March,"                  PARCELA DE IR                                   1.153.341,02C"
+March,"                  RETENCAO PASEP                                     12.953,07D"
+March,"                  DEDUCAO SAUDE                                     194.296,10D"
+March,"                  DEDUCAO FUNDEB                                    259.061,47D"
+March,"                  TOTAL NA DATA                                     828.996,75C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     28.536,24C"
+March,"                  PARCELA DE IR                                     256.997,48C"
+March,"                  RETENCAO PASEP                                      2.855,33D"
+March,"                  DEDUCAO SAUDE                                      42.830,05D"
+March,"                  DEDUCAO FUNDEB                                     57.106,73D"
+March,"                  TOTAL NA DATA                                     182.741,61C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     34.664,78C"
+March,"                  PARCELA DE IR                                     911.247,13C"
+March,"                  RETENCAO PASEP                                      9.459,11D"
+March,"                  DEDUCAO SAUDE                                     141.886,77D"
+March,"                  DEDUCAO FUNDEB                                    189.182,37D"
+March,"                  TOTAL NA DATA                                     605.383,66C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    205.167,39C"
+March,"                  PARCELA DE IR                                   2.321.585,63C"
+March,"                  RETENCAO PASEP                                     25.267,51D"
+March,"                  DEDUCAO SAUDE                                     379.012,92D"
+March,"                  DEDUCAO FUNDEB                                    505.350,57D"
+March,
+March,"                  DEBITO FUNDO                                      909.631,00D"
+March,"                  CREDITO FUNDO                                   2.526.753,02C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     909.631,00D"
+March,"                  CREDITO BENEF.                                  2.526.753,02C"
+April,MILAGRES                                          -CE
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    161.478,92C"
+April,"                  PARCELA DE IR                                   1.235.672,37C"
+April,"                  RETENCAO PASEP                                     13.971,50D"
+April,"                  DEDUCAO SAUDE                                     209.572,68D"
+April,"                  DEDUCAO FUNDEB                                    279.430,25D"
+April,"                  TOTAL NA DATA                                     894.176,86C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     25.456,29C"
+April,"                  PARCELA DE IR                                     333.249,80C"
+April,"                  RETENCAO PASEP                                      3.587,05D"
+April,"                  DEDUCAO SAUDE                                      53.805,91D"
+April,"                  DEDUCAO FUNDEB                                     71.741,21D"
+April,"                  TOTAL NA DATA                                     229.571,92C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     31.787,95C"
+April,"                  PARCELA DE IR                                   1.101.221,87C"
+April,"                  RETENCAO PASEP                                     11.330,08D"
+April,"                  DEDUCAO SAUDE                                     169.951,47D"
+April,"                  DEDUCAO FUNDEB                                    226.601,96D"
+April,"                  TOTAL NA DATA                                     725.126,31C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    218.723,16C"
+April,"                  PARCELA DE IR                                   2.670.144,04C"
+April,"                  RETENCAO PASEP                                     28.888,63D"
+April,"                  DEDUCAO SAUDE                                     433.330,06D"
+April,"                  DEDUCAO FUNDEB                                    577.773,42D"
+April,
+April,"                  DEBITO FUNDO                                    1.039.992,11D"
+April,"                  CREDITO FUNDO                                   2.888.867,20C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                   1.039.992,11D"
+April,"                  CREDITO BENEF.                                  2.888.867,20C"
+May,MILAGRES                                          -CE
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                    134.635,47C"
+May,"                  PARCELA DE IR                                   1.756.810,70C"
+May,"                  RETENCAO PASEP                                     18.914,45D"
+May,"                  DEDUCAO SAUDE                                     283.716,92D"
+May,"                  DEDUCAO FUNDEB                                    378.289,23D"
+May,"                  TOTAL NA DATA                                   1.210.525,57C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     38.085,01C"
+May,"                  PARCELA DE IR                                     335.609,71C"
+May,"                  RETENCAO PASEP                                      3.736,94D"
+May,"                  DEDUCAO SAUDE                                      56.054,20D"
+May,"                  DEDUCAO FUNDEB                                     74.738,94D"
+May,"                  TOTAL NA DATA                                     239.164,64C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     23.968,21C"
+May,"                  PARCELA DE IR                                     922.330,60C"
+May,"                  RETENCAO PASEP                                      9.462,98D"
+May,"                  DEDUCAO SAUDE                                     141.944,82D"
+May,"                  DEDUCAO FUNDEB                                    189.259,76D"
+May,"                  TOTAL NA DATA                                     605.631,25C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    196.688,69C"
+May,"                  PARCELA DE IR                                   3.014.751,01C"
+May,"                  RETENCAO PASEP                                     32.114,37D"
+May,"                  DEDUCAO SAUDE                                     481.715,94D"
+May,"                  DEDUCAO FUNDEB                                    642.287,93D"
+May,
+May,"                  DEBITO FUNDO                                    1.156.118,24D"
+May,"                  CREDITO FUNDO                                   3.211.439,70C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                   1.156.118,24D"
+May,"                  CREDITO BENEF.                                  3.211.439,70C"
+June,MILAGRES                                          -CE
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    166.108,21C"
+June,"                  PARCELA DE IR                                   1.151.008,83C"
+June,"                  RETENCAO PASEP                                     13.171,16D"
+June,"                  DEDUCAO SAUDE                                     197.567,55D"
+June,"                  DEDUCAO FUNDEB                                    263.423,40D"
+June,"                  TOTAL NA DATA                                     842.954,93C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     41.717,98C"
+June,"                  PARCELA DE IR                                     719.092,16C"
+June,"                  RETENCAO PASEP                                      7.608,09D"
+June,"                  DEDUCAO SAUDE                                     114.121,51D"
+June,"                  DEDUCAO FUNDEB                                    152.162,02D"
+June,"                  TOTAL NA DATA                                     486.918,52C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     37.439,39C"
+June,"                  PARCELA DE IR                                     884.094,04C"
+June,"                  RETENCAO PASEP                                      9.215,33D"
+June,"                  DEDUCAO SAUDE                                     138.230,00D"
+June,"                  DEDUCAO FUNDEB                                    184.306,67D"
+June,"                  TOTAL NA DATA                                     589.781,43C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    245.265,58C"
+June,"                  PARCELA DE IR                                   2.754.195,03C"
+June,"                  RETENCAO PASEP                                     29.994,58D"
+June,"                  DEDUCAO SAUDE                                     449.919,06D"
+June,"                  DEDUCAO FUNDEB                                    599.892,09D"
+June,
+June,"                  DEBITO FUNDO                                    1.079.805,73D"
+June,"                  CREDITO FUNDO                                   2.999.460,61C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                   1.079.805,73D"
+June,"                  CREDITO BENEF.                                  2.999.460,61C"
+July,MILAGRES                                          -CE
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    272.053,30C"
+July,"                  PARCELA DE IR                                   2.203.481,92C"
+July,"                  AJ DED FUNDEB                                       4.880,55C"
+July,"                  AJ DED PASEP                                          244,02C"
+July,"                  AJUSTE FPM                                          4.593,01C"
+July,"                  RETENCAO PASEP                                     24.755,33D"
+July,"                  DEDUCAO SAUDE                                     142.537,33D"
+July,"                  DEDUCAO FUNDEB                                    190.049,78D"
+July,"                  AJ DED FUNDEB                                         918,61D"
+July,"                  AJ DED PASEP                                           45,93D"
+July,"                  AJUSTE FPM                                         24.402,79D"
+July,"                  TOTAL NA DATA                                   2.102.543,03C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     41.831,03C"
+July,"                  PARCELA DE IR                                     295.353,29C"
+July,"                  RETENCAO PASEP                                      3.371,84D"
+July,"                  DEDUCAO SAUDE                                      50.577,64D"
+July,"                  DEDUCAO FUNDEB                                     67.436,85D"
+July,"                  TOTAL NA DATA                                     215.797,99C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     20.934,34C"
+July,"                  PARCELA DE IR                                     901.158,16C"
+July,"                  RETENCAO PASEP                                      9.220,92D"
+July,"                  DEDUCAO SAUDE                                     138.313,87D"
+July,"                  DEDUCAO FUNDEB                                    184.418,49D"
+July,"                  TOTAL NA DATA                                     590.139,22C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    334.818,67C"
+July,"                  PARCELA DE IR                                   3.399.993,37C"
+July,"                  RETENCAO PASEP                                     37.348,09D"
+July,"                  DEDUCAO SAUDE                                     331.428,84D"
+July,"                  DEDUCAO FUNDEB                                    441.905,12D"
+July,"                  AJ DED FUNDEB                                       4.880,55C"
+July,"                  AJ DED FUNDEB                                         918,61D"
+July,"                  AJ DED PASEP                                          244,02C"
+July,"                  AJ DED PASEP                                           45,93D"
+July,"                  AJUSTE FPM                                          4.593,01C"
+July,"                  AJUSTE FPM                                         24.402,79D"
+July,
+July,"                  DEBITO FUNDO                                      836.049,38D"
+July,"                  CREDITO FUNDO                                   3.744.529,62C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     836.049,38D"
+July,"                  CREDITO BENEF.                                  3.744.529,62C"
+August,MILAGRES                                          -CE
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                    142.008,03C"
+August,"                  PARCELA DE IR                                   1.302.895,74C"
+August,"                  RETENCAO PASEP                                     14.449,03D"
+August,"                  DEDUCAO SAUDE                                     216.735,56D"
+August,"                  DEDUCAO FUNDEB                                    288.980,74D"
+August,"                  TOTAL NA DATA                                     924.738,44C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     34.155,30C"
+August,"                  PARCELA DE IR                                     295.623,69C"
+August,"                  RETENCAO PASEP                                      3.297,78D"
+August,"                  DEDUCAO SAUDE                                      49.466,84D"
+August,"                  DEDUCAO FUNDEB                                     65.955,79D"
+August,"                  TOTAL NA DATA                                     211.058,58C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     19.843,89C"
+August,"                  PARCELA DE IR                                     743.444,07C"
+August,"                  RETENCAO PASEP                                      7.632,87D"
+August,"                  DEDUCAO SAUDE                                     114.493,19D"
+August,"                  DEDUCAO FUNDEB                                    152.657,58D"
+August,"                  TOTAL NA DATA                                     488.504,32C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    196.007,22C"
+August,"                  PARCELA DE IR                                   2.341.963,50C"
+August,"                  RETENCAO PASEP                                     25.379,68D"
+August,"                  DEDUCAO SAUDE                                     380.695,59D"
+August,"                  DEDUCAO FUNDEB                                    507.594,11D"
+August,
+August,"                  DEBITO FUNDO                                      913.669,38D"
+August,"                  CREDITO FUNDO                                   2.537.970,72C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     913.669,38D"
+August,"                  CREDITO BENEF.                                  2.537.970,72C"
+September,MILAGRES                                          -CE
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    192.997,82C"
+September,"                  PARCELA DE IR                                   1.118.434,83C"
+September,"                  RETENCAO PASEP                                     13.114,31D"
+September,"                  DEDUCAO SAUDE                                     140.084,21D"
+September,"                  DEDUCAO FUNDEB                                    186.778,96D"
+September,"                  TOTAL NA DATA                                     971.455,17C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     25.827,95C"
+September,"                  PARCELA DE IR                                     213.588,56C"
+September,"                  RETENCAO PASEP                                      2.394,15D"
+September,"                  DEDUCAO SAUDE                                      35.912,47D"
+September,"                  DEDUCAO FUNDEB                                     47.883,30D"
+September,"                  TOTAL NA DATA                                     153.226,59C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     64.054,13C"
+September,"                  PARCELA DE IR                                     972.300,68C"
+September,"                  RETENCAO PASEP                                     10.363,54D"
+September,"                  DEDUCAO SAUDE                                     155.453,21D"
+September,"                  DEDUCAO FUNDEB                                    207.270,95D"
+September,"                  TOTAL NA DATA                                     663.267,11C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    282.879,90C"
+September,"                  PARCELA DE IR                                   2.304.324,07C"
+September,"                  RETENCAO PASEP                                     25.872,00D"
+September,"                  DEDUCAO SAUDE                                     331.449,89D"
+September,"                  DEDUCAO FUNDEB                                    441.933,21D"
+September,
+September,"                  DEBITO FUNDO                                      799.255,10D"
+September,"                  CREDITO FUNDO                                   2.587.203,97C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     799.255,10D"
+September,"                  CREDITO BENEF.                                  2.587.203,97C"
+October,MILAGRES                                          -CE
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    163.982,56C"
+October,"                  PARCELA DE IR                                     883.544,43C"
+October,"                  RETENCAO PASEP                                     10.475,26D"
+October,"                  DEDUCAO SAUDE                                     157.129,04D"
+October,"                  DEDUCAO FUNDEB                                    209.505,39D"
+October,"                  TOTAL NA DATA                                     670.417,30C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     74.876,72C"
+October,"                  PARCELA DE IR                                     330.839,40C"
+October,"                  RETENCAO PASEP                                      4.057,15D"
+October,"                  DEDUCAO SAUDE                                      60.857,41D"
+October,"                  DEDUCAO FUNDEB                                     81.143,22D"
+October,"                  TOTAL NA DATA                                     259.658,34C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     44.921,10C"
+October,"                  PARCELA DE IR                                     904.733,97C"
+October,"                  RETENCAO PASEP                                      9.496,54D"
+October,"                  DEDUCAO SAUDE                                     142.448,25D"
+October,"                  DEDUCAO FUNDEB                                    189.931,01D"
+October,"                  TOTAL NA DATA                                     607.779,27C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    283.780,38C"
+October,"                  PARCELA DE IR                                   2.119.117,80C"
+October,"                  RETENCAO PASEP                                     24.028,95D"
+October,"                  DEDUCAO SAUDE                                     360.434,70D"
+October,"                  DEDUCAO FUNDEB                                    480.579,62D"
+October,
+October,"                  DEBITO FUNDO                                      865.043,27D"
+October,"                  CREDITO FUNDO                                   2.402.898,18C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     865.043,27D"
+October,"                  CREDITO BENEF.                                  2.402.898,18C"
+November,MILAGRES                                          -CE
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                    137.208,00C"
+November,"                  PARCELA DE IR                                   1.719.947,18C"
+November,"                  RETENCAO PASEP                                     18.571,55D"
+November,"                  DEDUCAO SAUDE                                     278.573,27D"
+November,"                  DEDUCAO FUNDEB                                    371.431,03D"
+November,"                  TOTAL NA DATA                                   1.188.579,33C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     48.425,18C"
+November,"                  PARCELA DE IR                                     354.451,59C"
+November,"                  RETENCAO PASEP                                      4.028,76D"
+November,"                  DEDUCAO SAUDE                                      60.431,50D"
+November,"                  DEDUCAO FUNDEB                                     80.575,34D"
+November,"                  TOTAL NA DATA                                     257.841,17C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     46.889,44C"
+November,"                  PARCELA DE IR                                     810.753,59C"
+November,"                  RETENCAO PASEP                                      8.576,42D"
+November,"                  DEDUCAO SAUDE                                     128.646,44D"
+November,"                  DEDUCAO FUNDEB                                    171.528,59D"
+November,"                  TOTAL NA DATA                                     548.891,58C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    232.522,62C"
+November,"                  PARCELA DE IR                                   2.885.152,36C"
+November,"                  RETENCAO PASEP                                     31.176,73D"
+November,"                  DEDUCAO SAUDE                                     467.651,21D"
+November,"                  DEDUCAO FUNDEB                                    623.534,96D"
+November,
+November,"                  DEBITO FUNDO                                    1.122.362,90D"
+November,"                  CREDITO FUNDO                                   3.117.674,98C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                   1.122.362,90D"
+November,"                  CREDITO BENEF.                                  3.117.674,98C"
+December,MILAGRES                                          -CE
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                    118.300,43C"
+December,"                  PARCELA DE IR                                   1.402.524,75C"
+December,"                  RETENCAO PASEP                                     15.208,24D"
+December,"                  TOTAL NA DATA                                   1.505.616,94C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                    134.187,11C"
+December,"                  PARCELA DE IR                                   1.206.559,07C"
+December,"                  RETENCAO PASEP                                     13.407,46D"
+December,"                  DEDUCAO SAUDE                                     201.111,92D"
+December,"                  DEDUCAO FUNDEB                                    268.149,23D"
+December,"                  TOTAL NA DATA                                     858.077,57C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     63.517,39C"
+December,"                  PARCELA DE IR                                     859.375,19C"
+December,"                  RETENCAO PASEP                                      9.228,92D"
+December,"                  DEDUCAO SAUDE                                     138.433,87D"
+December,"                  DEDUCAO FUNDEB                                    184.578,50D"
+December,"                  TOTAL NA DATA                                     590.651,29C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     55.440,73C"
+December,"                  PARCELA DE IR                                   1.111.181,97C"
+December,"                  RETENCAO PASEP                                     11.666,21D"
+December,"                  DEDUCAO SAUDE                                     174.993,39D"
+December,"                  DEDUCAO FUNDEB                                    233.324,53D"
+December,"                  TOTAL NA DATA                                     746.638,57C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    371.445,66C"
+December,"                  PARCELA DE IR                                   4.579.640,98C"
+December,"                  RETENCAO PASEP                                     49.510,83D"
+December,"                  DEDUCAO SAUDE                                     514.539,18D"
+December,"                  DEDUCAO FUNDEB                                    686.052,26D"
+December,
+December,"                  DEBITO FUNDO                                    1.250.102,27D"
+December,"                  CREDITO FUNDO                                   4.951.086,64C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                   1.250.102,27D"
+December,"                  CREDITO BENEF.                                  4.951.086,64C"

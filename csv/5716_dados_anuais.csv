@@ -1,0 +1,474 @@
+Mes,NomeBeneficio,Valor
+January,PARIPIRANGA                                       -BA
+January,
+January,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+January,DATA                PARCELA                                   VALOR DISTRIBUIDO
+January,
+January,"10.01.2023        PARCELA DE IPI                                    136.912,35C"
+January,"                  PARCELA DE IR                                   1.261.577,78C"
+January,"                  RETENCAO PASEP                                     13.984,89D"
+January,"                  RFB-RET DARF                                      146.359,95D"
+January,"                  DEDUCAO FUNDEB                                    279.698,02D"
+January,"                  TOTAL NA DATA                                     958.447,27C"
+January,
+January,"20.01.2023        PARCELA DE IPI                                     67.812,12C"
+January,"                  PARCELA DE IR                                     471.131,47C"
+January,"                  RETENCAO PASEP                                      5.389,43D"
+January,"                  DEDUCAO FUNDEB                                    107.788,71D"
+January,"                  TOTAL NA DATA                                     425.765,45C"
+January,
+January,"30.01.2023        PARCELA DE IPI                                     36.077,00C"
+January,"                  PARCELA DE IR                                   1.189.822,48C"
+January,"                  RETENCAO PASEP                                     12.258,99D"
+January,"                  DEDUCAO FUNDEB                                    245.179,89D"
+January,"                  TOTAL NA DATA                                     968.460,60C"
+January,
+January,TOTAL POR PARCELA / NATUREZA
+January,
+January,"                  PARCELA DE IPI                                    240.801,47C"
+January,"                  PARCELA DE IR                                   2.922.531,73C"
+January,"                  RETENCAO PASEP                                     31.633,31D"
+January,"                  RFB-RET DARF                                      146.359,95D"
+January,"                  DEDUCAO FUNDEB                                    632.666,62D"
+January,
+January,"                  DEBITO FUNDO                                      810.659,88D"
+January,"                  CREDITO FUNDO                                   3.163.333,20C"
+January,
+January,TOTAL DISTRIBUIDO NO PERIODO
+January,
+January,"                  DEBITO BENEF.                                     810.659,88D"
+January,"                  CREDITO BENEF.                                  3.163.333,20C"
+February,PARIPIRANGA                                       -BA
+February,
+February,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+February,DATA                PARCELA                                   VALOR DISTRIBUIDO
+February,
+February,"10.02.2023        PARCELA DE IPI                                    127.572,66C"
+February,"                  PARCELA DE IR                                   3.008.390,94C"
+February,"                  RETENCAO PASEP                                     31.359,62D"
+February,"                  RFB-RET DARF                                      146.359,95D"
+February,"                  DEDUCAO FUNDEB                                    627.192,71D"
+February,"                  TOTAL NA DATA                                   2.331.051,32C"
+February,
+February,"17.02.2023        PARCELA DE IPI                                     23.184,35C"
+February,"                  PARCELA DE IR                                     278.700,15C"
+February,"                  RETENCAO PASEP                                      3.018,84D"
+February,"                  DEDUCAO FUNDEB                                     60.376,90D"
+February,"                  TOTAL NA DATA                                     238.488,76C"
+February,
+February,"28.02.2023        PARCELA DE IPI                                     17.037,24C"
+February,"                  PARCELA DE IR                                     731.522,77C"
+February,"                  RETENCAO PASEP                                      7.485,59D"
+February,"                  DEDUCAO FUNDEB                                    149.711,99D"
+February,"                  TOTAL NA DATA                                     591.362,43C"
+February,
+February,TOTAL POR PARCELA / NATUREZA
+February,
+February,"                  PARCELA DE IPI                                    167.794,25C"
+February,"                  PARCELA DE IR                                   4.018.613,86C"
+February,"                  RETENCAO PASEP                                     41.864,05D"
+February,"                  RFB-RET DARF                                      146.359,95D"
+February,"                  DEDUCAO FUNDEB                                    837.281,60D"
+February,
+February,"                  DEBITO FUNDO                                    1.025.505,60D"
+February,"                  CREDITO FUNDO                                   4.186.408,11C"
+February,
+February,TOTAL DISTRIBUIDO NO PERIODO
+February,
+February,"                  DEBITO BENEF.                                   1.025.505,60D"
+February,"                  CREDITO BENEF.                                  4.186.408,11C"
+March,PARIPIRANGA                                       -BA
+March,
+March,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+March,DATA                PARCELA                                   VALOR DISTRIBUIDO
+March,
+March,"10.03.2023        PARCELA DE IPI                                    143.891,55C"
+March,"                  PARCELA DE IR                                   1.168.981,28C"
+March,"                  RETENCAO PASEP                                     13.128,72D"
+March,"                  RFB-RET DARF                                      146.359,95D"
+March,"                  DEDUCAO FUNDEB                                    262.574,56D"
+March,"                  TOTAL NA DATA                                     890.809,60C"
+March,
+March,"20.03.2023        PARCELA DE IPI                                     28.923,21C"
+March,"                  PARCELA DE IR                                     260.482,58C"
+March,"                  RETENCAO PASEP                                      2.894,05D"
+March,"                  DEDUCAO FUNDEB                                     57.881,15D"
+March,"                  TOTAL NA DATA                                     228.630,59C"
+March,
+March,"30.03.2023        PARCELA DE IPI                                     35.134,86C"
+March,"                  PARCELA DE IR                                     923.604,40C"
+March,"                  RETENCAO PASEP                                      9.587,38D"
+March,"                  DEDUCAO FUNDEB                                    191.747,85D"
+March,"                  TOTAL NA DATA                                     757.404,03C"
+March,
+March,TOTAL POR PARCELA / NATUREZA
+March,
+March,"                  PARCELA DE IPI                                    207.949,62C"
+March,"                  PARCELA DE IR                                   2.353.068,26C"
+March,"                  RETENCAO PASEP                                     25.610,15D"
+March,"                  RFB-RET DARF                                      146.359,95D"
+March,"                  DEDUCAO FUNDEB                                    512.203,56D"
+March,
+March,"                  DEBITO FUNDO                                      684.173,66D"
+March,"                  CREDITO FUNDO                                   2.561.017,88C"
+March,
+March,TOTAL DISTRIBUIDO NO PERIODO
+March,
+March,"                  DEBITO BENEF.                                     684.173,66D"
+March,"                  CREDITO BENEF.                                  2.561.017,88C"
+April,PARIPIRANGA                                       -BA
+April,
+April,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+April,DATA                PARCELA                                   VALOR DISTRIBUIDO
+April,
+April,"10.04.2023        PARCELA DE IPI                                    163.668,71C"
+April,"                  PARCELA DE IR                                   1.252.429,12C"
+April,"                  RETENCAO PASEP                                     14.160,97D"
+April,"                  RFB-RET DARF                                      146.359,95D"
+April,"                  DEDUCAO FUNDEB                                    283.219,56D"
+April,"                  TOTAL NA DATA                                     972.357,35C"
+April,
+April,"20.04.2023        PARCELA DE IPI                                     25.801,50C"
+April,"                  PARCELA DE IR                                     337.768,95C"
+April,"                  RETENCAO PASEP                                      3.635,69D"
+April,"                  DEDUCAO FUNDEB                                     72.714,09D"
+April,"                  TOTAL NA DATA                                     287.220,67C"
+April,
+April,"28.04.2023        PARCELA DE IPI                                     32.219,03C"
+April,"                  PARCELA DE IR                                   1.116.155,36C"
+April,"                  RETENCAO PASEP                                     11.483,74D"
+April,"                  DEDUCAO FUNDEB                                    229.674,87D"
+April,"                  TOTAL NA DATA                                     907.215,78C"
+April,
+April,TOTAL POR PARCELA / NATUREZA
+April,
+April,"                  PARCELA DE IPI                                    221.689,24C"
+April,"                  PARCELA DE IR                                   2.706.353,43C"
+April,"                  RETENCAO PASEP                                     29.280,40D"
+April,"                  RFB-RET DARF                                      146.359,95D"
+April,"                  DEDUCAO FUNDEB                                    585.608,52D"
+April,
+April,"                  DEBITO FUNDO                                      761.248,87D"
+April,"                  CREDITO FUNDO                                   2.928.042,67C"
+April,
+April,TOTAL DISTRIBUIDO NO PERIODO
+April,
+April,"                  DEBITO BENEF.                                     761.248,87D"
+April,"                  CREDITO BENEF.                                  2.928.042,67C"
+May,PARIPIRANGA                                       -BA
+May,
+May,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+May,DATA                PARCELA                                   VALOR DISTRIBUIDO
+May,
+May,"10.05.2023        PARCELA DE IPI                                    136.461,24C"
+May,"                  PARCELA DE IR                                   1.780.634,52C"
+May,"                  RETENCAO PASEP                                     19.170,95D"
+May,"                  DEDUCAO FUNDEB                                    383.419,14D"
+May,"                  TOTAL NA DATA                                   1.514.505,67C"
+May,
+May,"19.05.2023        PARCELA DE IPI                                     38.601,47C"
+May,"                  PARCELA DE IR                                     340.160,85C"
+May,"                  RETENCAO PASEP                                      3.787,61D"
+May,"                  DEDUCAO FUNDEB                                     75.752,46D"
+May,"                  TOTAL NA DATA                                     299.222,25C"
+May,
+May,"30.05.2023        PARCELA DE IPI                                     24.293,24C"
+May,"                  PARCELA DE IR                                     934.838,17C"
+May,"                  RETENCAO PASEP                                      9.591,31D"
+May,"                  RFB-RET DARF                                      146.359,95D"
+May,"                  DEDUCAO FUNDEB                                    191.826,27D"
+May,"                  TOTAL NA DATA                                     611.353,88C"
+May,
+May,TOTAL POR PARCELA / NATUREZA
+May,
+May,"                  PARCELA DE IPI                                    199.355,95C"
+May,"                  PARCELA DE IR                                   3.055.633,54C"
+May,"                  RETENCAO PASEP                                     32.549,87D"
+May,"                  RFB-RET DARF                                      146.359,95D"
+May,"                  DEDUCAO FUNDEB                                    650.997,87D"
+May,
+May,"                  DEBITO FUNDO                                      829.907,69D"
+May,"                  CREDITO FUNDO                                   3.254.989,49C"
+May,
+May,TOTAL DISTRIBUIDO NO PERIODO
+May,
+May,"                  DEBITO BENEF.                                     829.907,69D"
+May,"                  CREDITO BENEF.                                  3.254.989,49C"
+June,PARIPIRANGA                                       -BA
+June,
+June,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+June,DATA                PARCELA                                   VALOR DISTRIBUIDO
+June,
+June,"09.06.2023        PARCELA DE IPI                                    168.360,77C"
+June,"                  PARCELA DE IR                                   1.166.617,47C"
+June,"                  RETENCAO PASEP                                     13.349,77D"
+June,"                  DEDUCAO FUNDEB                                    266.995,64D"
+June,"                  TOTAL NA DATA                                   1.054.632,83C"
+June,
+June,"20.06.2023        PARCELA DE IPI                                     42.283,71C"
+June,"                  PARCELA DE IR                                     728.843,65C"
+June,"                  RETENCAO PASEP                                      7.711,26D"
+June,"                  DEDUCAO FUNDEB                                    154.225,47D"
+June,"                  TOTAL NA DATA                                     609.190,63C"
+June,
+June,"30.06.2023        PARCELA DE IPI                                     37.947,10C"
+June,"                  PARCELA DE IR                                     896.083,09C"
+June,"                  RETENCAO PASEP                                      9.340,30D"
+June,"                  DEDUCAO FUNDEB                                    186.806,03D"
+June,"                  TOTAL NA DATA                                     737.883,86C"
+June,
+June,TOTAL POR PARCELA / NATUREZA
+June,
+June,"                  PARCELA DE IPI                                    248.591,58C"
+June,"                  PARCELA DE IR                                   2.791.544,21C"
+June,"                  RETENCAO PASEP                                     30.401,33D"
+June,"                  DEDUCAO FUNDEB                                    608.027,14D"
+June,
+June,"                  DEBITO FUNDO                                      638.428,47D"
+June,"                  CREDITO FUNDO                                   3.040.135,79C"
+June,
+June,TOTAL DISTRIBUIDO NO PERIODO
+June,
+June,"                  DEBITO BENEF.                                     638.428,47D"
+June,"                  CREDITO BENEF.                                  3.040.135,79C"
+July,PARIPIRANGA                                       -BA
+July,
+July,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+July,DATA                PARCELA                                   VALOR DISTRIBUIDO
+July,
+July,"10.07.2023        PARCELA DE IPI                                    276.344,70C"
+July,"                  PARCELA DE IR                                   2.238.239,93C"
+July,"                  AJ DED FUNDEB                                      10.489,69C"
+July,"                  AJ DED PASEP                                          524,47C"
+July,"                  RETENCAO PASEP                                     25.145,83D"
+July,"                  RFB-RET DARF                                      146.359,95D"
+July,"                  DEDUCAO FUNDEB                                    193.047,65D"
+July,"                  AJUSTE FPM                                         52.448,49D"
+July,"                  TOTAL NA DATA                                   2.108.596,87C"
+July,
+July,"20.07.2023        PARCELA DE IPI                                     42.490,88C"
+July,"                  PARCELA DE IR                                     300.012,23C"
+July,"                  RETENCAO PASEP                                      3.425,02D"
+July,"                  DEDUCAO FUNDEB                                     68.500,61D"
+July,"                  TOTAL NA DATA                                     270.577,48C"
+July,
+July,"28.07.2023        PARCELA DE IPI                                     21.264,56C"
+July,"                  PARCELA DE IR                                     915.373,15C"
+July,"                  RETENCAO PASEP                                      9.366,37D"
+July,"                  DEDUCAO FUNDEB                                    187.327,54D"
+July,"                  TOTAL NA DATA                                     739.943,80C"
+July,
+July,TOTAL POR PARCELA / NATUREZA
+July,
+July,"                  PARCELA DE IPI                                    340.100,14C"
+July,"                  PARCELA DE IR                                   3.453.625,31C"
+July,"                  RETENCAO PASEP                                     37.937,22D"
+July,"                  RFB-RET DARF                                      146.359,95D"
+July,"                  DEDUCAO FUNDEB                                    448.875,80D"
+July,"                  AJ DED FUNDEB                                      10.489,69C"
+July,"                  AJ DED PASEP                                          524,47C"
+July,"                  AJUSTE FPM                                         52.448,49D"
+July,
+July,"                  DEBITO FUNDO                                      685.621,46D"
+July,"                  CREDITO FUNDO                                   3.804.739,61C"
+July,
+July,TOTAL DISTRIBUIDO NO PERIODO
+July,
+July,"                  DEBITO BENEF.                                     685.621,46D"
+July,"                  CREDITO BENEF.                                  3.804.739,61C"
+August,PARIPIRANGA                                       -BA
+August,
+August,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+August,DATA                PARCELA                                   VALOR DISTRIBUIDO
+August,
+August,"10.08.2023        PARCELA DE IPI                                    144.248,08C"
+August,"                  PARCELA DE IR                                   1.323.447,79C"
+August,"                  RETENCAO PASEP                                     14.676,95D"
+August,"                  RFB-RET DARF                                      146.359,95D"
+August,"                  DEDUCAO FUNDEB                                    293.539,16D"
+August,"                  TOTAL NA DATA                                   1.013.119,81C"
+August,
+August,"18.08.2023        PARCELA DE IPI                                     34.694,07C"
+August,"                  PARCELA DE IR                                     300.286,89C"
+August,"                  RETENCAO PASEP                                      3.349,80D"
+August,"                  DEDUCAO FUNDEB                                     66.996,18D"
+August,"                  TOTAL NA DATA                                     264.634,98C"
+August,
+August,"30.08.2023        PARCELA DE IPI                                     20.156,91C"
+August,"                  PARCELA DE IR                                     755.171,25C"
+August,"                  RETENCAO PASEP                                      7.753,27D"
+August,"                  DEDUCAO FUNDEB                                    155.065,63D"
+August,"                  TOTAL NA DATA                                     612.509,26C"
+August,
+August,TOTAL POR PARCELA / NATUREZA
+August,
+August,"                  PARCELA DE IPI                                    199.099,06C"
+August,"                  PARCELA DE IR                                   2.378.905,93C"
+August,"                  RETENCAO PASEP                                     25.780,02D"
+August,"                  RFB-RET DARF                                      146.359,95D"
+August,"                  DEDUCAO FUNDEB                                    515.600,97D"
+August,
+August,"                  DEBITO FUNDO                                      687.740,94D"
+August,"                  CREDITO FUNDO                                   2.578.004,99C"
+August,
+August,TOTAL DISTRIBUIDO NO PERIODO
+August,
+August,"                  DEBITO BENEF.                                     687.740,94D"
+August,"                  CREDITO BENEF.                                  2.578.004,99C"
+September,PARIPIRANGA                                       -BA
+September,
+September,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+September,DATA                PARCELA                                   VALOR DISTRIBUIDO
+September,
+September,"08.09.2023        PARCELA DE IPI                                    196.042,19C"
+September,"                  PARCELA DE IR                                   1.136.077,17C"
+September,"                  RETENCAO PASEP                                     13.321,17D"
+September,"                  DEDUCAO FUNDEB                                    189.725,23D"
+September,"                  TOTAL NA DATA                                   1.129.072,96C"
+September,
+September,"20.09.2023        PARCELA DE IPI                                     26.235,37C"
+September,"                  PARCELA DE IR                                     216.957,74C"
+September,"                  RETENCAO PASEP                                      2.431,92D"
+September,"                  DEDUCAO FUNDEB                                     48.638,61D"
+September,"                  TOTAL NA DATA                                     192.122,58C"
+September,
+September,"29.09.2023        PARCELA DE IPI                                     65.064,53C"
+September,"                  PARCELA DE IR                                     987.637,88C"
+September,"                  RETENCAO PASEP                                     10.527,01D"
+September,"                  DEDUCAO FUNDEB                                    210.540,47D"
+September,"                  TOTAL NA DATA                                     831.634,93C"
+September,
+September,TOTAL POR PARCELA / NATUREZA
+September,
+September,"                  PARCELA DE IPI                                    287.342,09C"
+September,"                  PARCELA DE IR                                   2.340.672,79C"
+September,"                  RETENCAO PASEP                                     26.280,10D"
+September,"                  DEDUCAO FUNDEB                                    448.904,31D"
+September,
+September,"                  DEBITO FUNDO                                      475.184,41D"
+September,"                  CREDITO FUNDO                                   2.628.014,88C"
+September,
+September,TOTAL DISTRIBUIDO NO PERIODO
+September,
+September,"                  DEBITO BENEF.                                     475.184,41D"
+September,"                  CREDITO BENEF.                                  2.628.014,88C"
+October,PARIPIRANGA                                       -BA
+October,
+October,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+October,DATA                PARCELA                                   VALOR DISTRIBUIDO
+October,
+October,"10.10.2023        PARCELA DE IPI                                    166.569,25C"
+October,"                  PARCELA DE IR                                     897.481,58C"
+October,"                  RETENCAO PASEP                                     10.640,50D"
+October,"                  DEDUCAO FUNDEB                                    212.810,16D"
+October,"                  TOTAL NA DATA                                     840.600,17C"
+October,
+October,"20.10.2023        PARCELA DE IPI                                     76.057,84C"
+October,"                  PARCELA DE IR                                     336.058,10C"
+October,"                  RETENCAO PASEP                                      4.121,15D"
+October,"                  DEDUCAO FUNDEB                                     82.423,18D"
+October,"                  TOTAL NA DATA                                     325.571,61C"
+October,
+October,"30.10.2023        PARCELA DE IPI                                     45.629,70C"
+October,"                  PARCELA DE IR                                     919.005,37C"
+October,"                  RETENCAO PASEP                                      9.646,34D"
+October,"                  DEDUCAO FUNDEB                                    192.927,01D"
+October,"                  TOTAL NA DATA                                     762.061,72C"
+October,
+October,TOTAL POR PARCELA / NATUREZA
+October,
+October,"                  PARCELA DE IPI                                    288.256,79C"
+October,"                  PARCELA DE IR                                   2.152.545,05C"
+October,"                  RETENCAO PASEP                                     24.407,99D"
+October,"                  DEDUCAO FUNDEB                                    488.160,35D"
+October,
+October,"                  DEBITO FUNDO                                      512.568,34D"
+October,"                  CREDITO FUNDO                                   2.440.801,84C"
+October,
+October,TOTAL DISTRIBUIDO NO PERIODO
+October,
+October,"                  DEBITO BENEF.                                     512.568,34D"
+October,"                  CREDITO BENEF.                                  2.440.801,84C"
+November,PARIPIRANGA                                       -BA
+November,
+November,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+November,DATA                PARCELA                                   VALOR DISTRIBUIDO
+November,
+November,"10.11.2023        PARCELA DE IPI                                    139.372,33C"
+November,"                  PARCELA DE IR                                   1.747.077,86C"
+November,"                  RETENCAO PASEP                                     18.864,49D"
+November,"                  DEDUCAO FUNDEB                                    377.290,03D"
+November,"                  TOTAL NA DATA                                   1.490.295,67C"
+November,
+November,"20.11.2023        PARCELA DE IPI                                     49.189,05C"
+November,"                  PARCELA DE IR                                     360.042,75C"
+November,"                  RETENCAO PASEP                                      4.092,31D"
+November,"                  DEDUCAO FUNDEB                                     81.846,36D"
+November,"                  TOTAL NA DATA                                     323.293,13C"
+November,
+November,"30.11.2023        PARCELA DE IPI                                     47.629,08C"
+November,"                  PARCELA DE IR                                     823.542,53C"
+November,"                  RETENCAO PASEP                                      8.711,71D"
+November,"                  RFB-RET DARF                                      147.000,00D"
+November,"                  DEDUCAO FUNDEB                                    174.234,31D"
+November,"                  TOTAL NA DATA                                     541.225,59C"
+November,
+November,TOTAL POR PARCELA / NATUREZA
+November,
+November,"                  PARCELA DE IPI                                    236.190,46C"
+November,"                  PARCELA DE IR                                   2.930.663,14C"
+November,"                  RETENCAO PASEP                                     31.668,51D"
+November,"                  RFB-RET DARF                                      147.000,00D"
+November,"                  DEDUCAO FUNDEB                                    633.370,70D"
+November,
+November,"                  DEBITO FUNDO                                      812.039,21D"
+November,"                  CREDITO FUNDO                                   3.166.853,60C"
+November,
+November,TOTAL DISTRIBUIDO NO PERIODO
+November,
+November,"                  DEBITO BENEF.                                     812.039,21D"
+November,"                  CREDITO BENEF.                                  3.166.853,60C"
+December,PARIPIRANGA                                       -BA
+December,
+December,FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS
+December,DATA                PARCELA                                   VALOR DISTRIBUIDO
+December,
+December,"07.12.2023        PARCELA DE IPI                                    120.166,52C"
+December,"                  PARCELA DE IR                                   1.424.648,36C"
+December,"                  RETENCAO PASEP                                     15.448,14D"
+December,"                  TOTAL NA DATA                                   1.529.366,74C"
+December,
+December,"08.12.2023        PARCELA DE IPI                                    136.303,79C"
+December,"                  PARCELA DE IR                                   1.225.591,50C"
+December,"                  RETENCAO PASEP                                     13.618,94D"
+December,"                  DEDUCAO FUNDEB                                    272.379,05D"
+December,"                  TOTAL NA DATA                                   1.075.897,30C"
+December,
+December,"20.12.2023        PARCELA DE IPI                                     64.519,32C"
+December,"                  PARCELA DE IR                                     872.931,09C"
+December,"                  RETENCAO PASEP                                      9.374,50D"
+December,"                  DEDUCAO FUNDEB                                    187.490,07D"
+December,"                  TOTAL NA DATA                                     740.585,84C"
+December,
+December,"28.12.2023        PARCELA DE IPI                                     56.315,26C"
+December,"                  PARCELA DE IR                                   1.128.709,90C"
+December,"                  RETENCAO PASEP                                     11.850,24D"
+December,"                  RFB-RET DARF                                      147.000,00D"
+December,"                  DEDUCAO FUNDEB                                    237.005,03D"
+December,"                  TOTAL NA DATA                                     789.169,89C"
+December,
+December,TOTAL POR PARCELA / NATUREZA
+December,
+December,"                  PARCELA DE IPI                                    377.304,89C"
+December,"                  PARCELA DE IR                                   4.651.880,85C"
+December,"                  RETENCAO PASEP                                     50.291,82D"
+December,"                  RFB-RET DARF                                      147.000,00D"
+December,"                  DEDUCAO FUNDEB                                    696.874,15D"
+December,
+December,"                  DEBITO FUNDO                                      894.165,97D"
+December,"                  CREDITO FUNDO                                   5.029.185,74C"
+December,
+December,TOTAL DISTRIBUIDO NO PERIODO
+December,
+December,"                  DEBITO BENEF.                                     894.165,97D"
+December,"                  CREDITO BENEF.                                  5.029.185,74C"
