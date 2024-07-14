@@ -1,7 +1,7 @@
 import requests
 from urllib3.exceptions import InsecureRequestWarning
 from datetime import datetime, timedelta
-from refs import codigo_cidade  # Importe seus códigos de cidade aqui
+from modules.refs import codigo_cidade  # Importe seus códigos de cidade aqui
 import json
 import time 
 

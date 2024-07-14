@@ -1,6 +1,6 @@
 import requests
 from urllib3.exceptions import InsecureRequestWarning
-from refs import cidades, codigo_cidade  # Certifique-se de ter o módulo cidades importado corretamente
+from modules.refs import cidades, codigo_cidade  # Certifique-se de ter o módulo cidades importado corretamente
 
 # Desabilita os warnings de certificado SSL (apenas para ambiente de teste, não use em produção)
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)

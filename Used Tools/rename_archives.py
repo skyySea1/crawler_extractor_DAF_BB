@@ -1,4 +1,4 @@
-from refs import cidades, codigo_cidade
+from modules.refs import cidades, codigo_cidade
 
 # Imprimindo os tamanhos das listas
 print(f"Tamanho de cidades: {len(cidades)}")
