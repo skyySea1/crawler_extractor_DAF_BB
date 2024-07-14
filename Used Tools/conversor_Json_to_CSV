@@ -6,14 +6,14 @@ import csv
 diretorio_json = r'C:\Users\Henrique RIbeiro\Documents\projetos em andamentos\daf extração\daf_extraidos'  
 # Diretório onde os arquivos CSV serão salvos
 diretorio_csv = r'C:\Users\Henrique RIbeiro\Documents\projetos em andamentos\daf extração\csv'  
-# Certifique-se de que o diretório CSV existe
+# verificar se o diretório  existe
 os.makedirs(diretorio_csv, exist_ok=True)
 
 # Função para converter JSON para CSV
 def json_para_csv(json_file, csv_file):
     with open(json_file, 'r', encoding='utf-8') as f:
         dados = json.load(f)
-
+# f é uma variável local que é usada para fazer referência ao arquivo que está sendo manipulado.
     with open(csv_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         
@@ -23,13 +23,15 @@ def json_para_csv(json_file, csv_file):
         for mes, dados_mes in dados.items():
             for ocorrencia in dados_mes["quantidadeOcorrencia"]:
                 writer.writerow([mes, ocorrencia["nomeBeneficio"]])
-
+try:
 # Itera sobre os arquivos JSON no diretório
-for filename in os.listdir(diretorio_json):
+  for filename in os.listdir(diretorio_json):
     if filename.endswith('.json'):
         json_file = os.path.join(diretorio_json, filename)
         csv_file = os.path.join(diretorio_csv, filename.replace('.json', '.csv'))
         json_para_csv(json_file, csv_file)
         print(f"Convertido {json_file} para {csv_file}")
-
-print("Conversão concluída!")
+except Exception as e:
+    print(f"Erro: {e}")
+else:
+ print("Conversão concluída")
