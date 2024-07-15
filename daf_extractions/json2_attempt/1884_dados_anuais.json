@@ -1,0 +1,1673 @@
+{
+    "January": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.01.2023        PARCELA DE IPI                                    133.686,52C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.231.853,39C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     13.655,39D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    61.657,42D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     204.830,97D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    273.107,97D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     812.288,16C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.01.2023        PARCELA DE IPI                                     64.678,04C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     449.357,10C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      5.140,35D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      77.105,26D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    102.807,02D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     328.982,51C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.01.2023        PARCELA DE IPI                                     35.594,31C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.173.903,37C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     12.094,97D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     181.424,64D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    241.899,53D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     774.078,54C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    233.958,87C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.855.113,86C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     30.890,71D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    61.657,42D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     463.360,87D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    617.814,52D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.173.723,52D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   3.089.072,73C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.173.723,52D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  3.089.072,73C"
+            }
+        ]
+    },
+    "February": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.02.2023        PARCELA DE IPI                                    125.865,82C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.968.140,48C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     30.940,05D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.072,51D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     464.100,94D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    618.801,25D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                   1.918.091,55C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "17.02.2023        PARCELA DE IPI                                     22.874,16C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     274.971,31C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      2.978,45D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      44.676,81D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     59.569,09D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     190.621,12C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "28.02.2023        PARCELA DE IPI                                     16.809,29C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     721.735,43C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      7.385,44D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     110.781,70D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    147.708,93D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     472.668,65C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    165.549,27C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   3.964.847,22C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     41.303,94D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.072,51D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     619.559,45D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    826.079,27D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.549.015,17D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   4.130.396,49C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.549.015,17D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  4.130.396,49C"
+            }
+        ]
+    },
+    "March": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.03.2023        PARCELA DE IPI                                    141.966,37C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.153.341,02C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     12.953,07D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.413,47D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     194.296,10D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    259.061,47D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     766.583,28C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.03.2023        PARCELA DE IPI                                     28.536,24C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     256.997,48C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      2.855,33D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      42.830,05D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     57.106,73D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     182.741,61C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.03.2023        PARCELA DE IPI                                     34.664,78C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     911.247,13C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.459,11D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     141.886,77D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    189.182,37D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     605.383,66C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    205.167,39C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.321.585,63C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     25.267,51D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.413,47D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     379.012,92D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    505.350,57D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                      972.044,47D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.526.753,02C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                     972.044,47D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.526.753,02C"
+            }
+        ]
+    },
+    "April": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.04.2023        PARCELA DE IPI                                    161.478,92C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.235.672,37C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     13.971,50D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.847,08D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     209.572,68D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    279.430,25D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     831.329,78C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.04.2023        PARCELA DE IPI                                     25.456,29C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     333.249,80C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      3.587,05D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      53.805,91D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     71.741,21D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     229.571,92C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "28.04.2023        PARCELA DE IPI                                     31.787,95C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.101.221,87C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     11.330,08D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     169.951,47D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    226.601,96D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     725.126,31C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    218.723,16C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.670.144,04C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     28.888,63D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    62.847,08D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     433.330,06D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    577.773,42D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.102.839,19D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.888.867,20C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.102.839,19D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.888.867,20C"
+            }
+        ]
+    },
+    "May": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.05.2023        PARCELA DE IPI                                    134.635,47C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.756.810,70C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     18.914,45D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.188,04D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     283.716,92D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    378.289,23D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                   1.147.337,53C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "19.05.2023        PARCELA DE IPI                                     38.085,01C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     335.609,71C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      3.736,94D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      56.054,20D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     74.738,94D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     239.164,64C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.05.2023        PARCELA DE IPI                                     23.968,21C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     922.330,60C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.462,98D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     141.944,82D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    189.259,76D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     605.631,25C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    196.688,69C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   3.014.751,01C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     32.114,37D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.188,04D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     481.715,94D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    642.287,93D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.219.306,28D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   3.211.439,70C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.219.306,28D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  3.211.439,70C"
+            }
+        ]
+    },
+    "June": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "09.06.2023        PARCELA DE IPI                                    166.108,21C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.151.008,83C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     13.171,16D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.603,11D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     197.567,55D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    263.423,40D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     779.351,82C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.06.2023        PARCELA DE IPI                                     41.717,98C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     719.092,16C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      7.608,09D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     114.121,51D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    152.162,02D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     486.918,52C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.06.2023        PARCELA DE IPI                                     37.439,39C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     884.094,04C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.215,33D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     138.230,00D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    184.306,67D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     589.781,43C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    245.265,58C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.754.195,03C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     29.994,58D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.603,11D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     449.919,06D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    599.892,09D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.143.408,84D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.999.460,61C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.143.408,84D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.999.460,61C"
+            }
+        ]
+    },
+    "July": {
+        "quantidadeBeneficio": 55,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.07.2023        PARCELA DE IPI                                    272.053,30C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.203.481,92C"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED FUNDEB                                       4.880,55C"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED PASEP                                          244,02C"
+            },
+            {
+                "nomeBeneficio": "                  AJUSTE FPM                                          4.593,01C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     24.755,33D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.999,66D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     142.537,33D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    190.049,78D"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED FUNDEB                                         918,61D"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED PASEP                                           45,93D"
+            },
+            {
+                "nomeBeneficio": "                  AJUSTE FPM                                         24.402,79D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                   2.038.543,37C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.07.2023        PARCELA DE IPI                                     41.831,03C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     295.353,29C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      3.371,84D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      50.577,64D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     67.436,85D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     215.797,99C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "28.07.2023        PARCELA DE IPI                                     20.934,34C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     901.158,16C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.220,92D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     138.313,87D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    184.418,49D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     590.139,22C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    334.818,67C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   3.399.993,37C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     37.348,09D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    63.999,66D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     331.428,84D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    441.905,12D"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED FUNDEB                                       4.880,55C"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED FUNDEB                                         918,61D"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED PASEP                                          244,02C"
+            },
+            {
+                "nomeBeneficio": "                  AJ DED PASEP                                           45,93D"
+            },
+            {
+                "nomeBeneficio": "                  AJUSTE FPM                                          4.593,01C"
+            },
+            {
+                "nomeBeneficio": "                  AJUSTE FPM                                         24.402,79D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                      900.049,04D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   3.744.529,62C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                     900.049,04D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  3.744.529,62C"
+            }
+        ]
+    },
+    "August": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.08.2023        PARCELA DE IPI                                    142.008,03C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.302.895,74C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     14.449,03D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    64.396,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     216.735,56D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    288.980,74D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     860.342,23C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "18.08.2023        PARCELA DE IPI                                     34.155,30C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     295.623,69C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      3.297,78D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      49.466,84D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     65.955,79D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     211.058,58C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.08.2023        PARCELA DE IPI                                     19.843,89C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     743.444,07C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      7.632,87D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     114.493,19D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    152.657,58D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     488.504,32C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    196.007,22C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.341.963,50C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     25.379,68D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    64.396,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     380.695,59D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    507.594,11D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                      978.065,59D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.537.970,72C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                     978.065,59D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.537.970,72C"
+            }
+        ]
+    },
+    "September": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "08.09.2023        PARCELA DE IPI                                    192.997,82C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.118.434,83C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     13.114,31D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    64.818,70D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     140.084,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    186.778,96D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     906.636,47C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.09.2023        PARCELA DE IPI                                     25.827,95C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     213.588,56C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      2.394,15D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      35.912,47D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     47.883,30D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     153.226,59C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "29.09.2023        PARCELA DE IPI                                     64.054,13C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     972.300,68C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     10.363,54D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     155.453,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    207.270,95D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     663.267,11C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    282.879,90C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.304.324,07C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     25.872,00D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    64.818,70D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     331.449,89D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    441.933,21D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                      864.073,80D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.587.203,97C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                     864.073,80D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.587.203,97C"
+            }
+        ]
+    },
+    "October": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.10.2023        PARCELA DE IPI                                    163.982,56C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     883.544,43C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     10.475,26D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.178,19D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     157.129,04D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    209.505,39D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     605.239,11C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.10.2023        PARCELA DE IPI                                     74.876,72C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     330.839,40C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      4.057,15D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      60.857,41D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     81.143,22D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     259.658,34C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.10.2023        PARCELA DE IPI                                     44.921,10C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     904.733,97C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.496,54D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     142.448,25D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    189.931,01D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     607.779,27C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    283.780,38C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.119.117,80C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     24.028,95D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.178,19D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     360.434,70D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    480.579,62D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                      930.221,46D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   2.402.898,18C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                     930.221,46D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  2.402.898,18C"
+            }
+        ]
+    },
+    "November": {
+        "quantidadeBeneficio": 43,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "10.11.2023        PARCELA DE IPI                                    137.208,00C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.719.947,18C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     18.571,55D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.548,80D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     278.573,27D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    371.431,03D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                   1.123.030,53C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.11.2023        PARCELA DE IPI                                     48.425,18C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     354.451,59C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      4.028,76D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                      60.431,50D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                     80.575,34D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     257.841,17C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "30.11.2023        PARCELA DE IPI                                     46.889,44C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     810.753,59C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      8.576,42D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     128.646,44D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    171.528,59D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     548.891,58C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    232.522,62C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   2.885.152,36C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     31.176,73D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.548,80D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     467.651,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    623.534,96D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.187.911,70D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   3.117.674,98C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.187.911,70D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  3.117.674,98C"
+            }
+        ]
+    },
+    "December": {
+        "quantidadeBeneficio": 48,
+        "indicadorContinuarPesquisa": "N",
+        "quantidadeOcorrencia": [
+            {
+                "nomeBeneficio": "CARIRIACU                                         -CE"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "FPM   - FUNDO DE PARTICIPACAO DOS MUNICIPIOS"
+            },
+            {
+                "nomeBeneficio": "DATA                PARCELA                                   VALOR DISTRIBUIDO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "07.12.2023        PARCELA DE IPI                                    118.300,43C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.402.524,75C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     15.208,24D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                   1.505.616,94C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "08.12.2023        PARCELA DE IPI                                    134.187,11C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.206.559,07C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     13.407,46D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.889,75D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     201.111,92D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    268.149,23D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     792.187,82C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "20.12.2023        PARCELA DE IPI                                     63.517,39C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                     859.375,19C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                      9.228,92D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     138.433,87D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    184.578,50D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     590.651,29C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "28.12.2023        PARCELA DE IPI                                     55.440,73C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   1.111.181,97C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     11.666,21D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     174.993,39D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    233.324,53D"
+            },
+            {
+                "nomeBeneficio": "                  TOTAL NA DATA                                     746.638,57C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL POR PARCELA / NATUREZA"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IPI                                    371.445,66C"
+            },
+            {
+                "nomeBeneficio": "                  PARCELA DE IR                                   4.579.640,98C"
+            },
+            {
+                "nomeBeneficio": "                  RETENCAO PASEP                                     49.510,83D"
+            },
+            {
+                "nomeBeneficio": "                  RFB-PREV-PARC60                                    65.889,75D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO SAUDE                                     514.539,18D"
+            },
+            {
+                "nomeBeneficio": "                  DEDUCAO FUNDEB                                    686.052,26D"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO FUNDO                                    1.315.992,02D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO FUNDO                                   4.951.086,64C"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "TOTAL DISTRIBUIDO NO PERIODO"
+            },
+            {
+                "nomeBeneficio": ""
+            },
+            {
+                "nomeBeneficio": "                  DEBITO BENEF.                                   1.315.992,02D"
+            },
+            {
+                "nomeBeneficio": "                  CREDITO BENEF.                                  4.951.086,64C"
+            }
+        ]
+    }
+}
