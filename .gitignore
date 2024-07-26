@@ -1,6 +1,7 @@
 "\\venv "
 "\\.vscode "
 "\\venv"
-"\\pycache "
+"\\__pycache__"
 "\\extras"
 "\daf_extractions"
+daf_extractions.zip
