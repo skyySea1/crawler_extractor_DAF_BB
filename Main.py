@@ -30,11 +30,11 @@ def formatar_data(data):
     return data.strftime("%d.%m.%Y")
 
 # Diretório onde os arquivos JSON serão salvos
-json_directory = r'C:\Users\Henrique RIbeiro\Documents\projetos em andamentos\daf extração\daf_extractions\json2'
+icms_dir = r'C:\Users\Henrique RIbeiro\Documents\projetos em andamentos\daf extração\icms_final'
 
-# Criar o diretório 'json2' se ele não existir
-if not os.path.exists(json_directory):
-    os.makedirs(json_directory)
+# Criar o diretório 'icms' se ele não existir
+if not os.path.exists(icms_dir):
+    os.makedirs(icms_dir)
 
 # Lista para armazenar códigos de cidades que não foram baixados com sucesso
 municipios_nao_baixados = []
@@ -49,13 +49,16 @@ for codigo in codigo_cidades:
         # Define a data inicial e final para o mês atual
         data_inicio = datetime(2023, 1 + i, 1)
         data_fim = datetime(2023, 1 + i, 1).replace(day=28) + timedelta(days=4)
+        #o objeto datetime reconhece automaticamente os índice
         data_fim = data_fim.replace(day=1) - timedelta(days=1)
-
+        # calcula os últimos dias dos meses, subtraindo
+        
         # Monta os dados da requisição para o mês atual
         payload = {
             "codigoBeneficiario": codigo,
-            "codigoFundo": 4,
-            "dataInicio": formatar_data(data_inicio),
+            "codigoFundo": 19,
+            "dataInicio": formatar_data(data_inicio), 
+            #chama a função formatar, que recebe a data inicial como parâmetro, retornando a mesma formatada6
             "dataFim": formatar_data(data_fim)
         }
 
@@ -69,7 +72,7 @@ for codigo in codigo_cidades:
                 json_data = response.json()
 
                 # Adiciona os dados ao dicionário para este mês
-                mes = data_inicio.strftime("%B")
+                mes = data_inicio.strftime("%B") #obtém o nome do mês
                 dados_cidade[mes] = json_data
 
                 print(f"Dados para código {codigo}, Mês: {mes} obtidos com sucesso.")
@@ -87,7 +90,7 @@ for codigo in codigo_cidades:
     nome_arquivo = f"{codigo}_dados_anuais.json"
 
     # Caminho completo do arquivo JSON na pasta 'json2'
-    caminho_json = os.path.join(json_directory, nome_arquivo)
+    caminho_json = os.path.join(icms_dir, nome_arquivo)
 
     # Salva os dados da cidade em um arquivo JSON único para o ano
     if codigo not in municipios_nao_baixados:
